@@ -1,0 +1,4 @@
+Disposición adicional.
+A los efectos de lo dispuesto en el artículo 7, los Ayuntamientos de las Villas vizcaínas no aforadas deberán elaborar, en el plazo de tres meses a partir de la publicación de esta ley, el plano que delimite el núcleo urbano originario y el suelo contiguo al mismo que esté calificado como «urbano» en el planeamiento vigente en el municipio.
+Los planos elaborados por los Ayuntamientos referidos deberán ser remitidos a la Diputación Foral, para ser sometidos, por esta última, a la aprobación definitiva por parte de las Juntas Generales de Bizkaia, que ordenarán su publicación.
+Aprobados los planos a los que esta disposición se refiere, se remitirán copias de los mismos al Tribunal Superior de Justicia y al Ayuntamiento respectivo, a fin de que puedan ser consultados por los interesados.
