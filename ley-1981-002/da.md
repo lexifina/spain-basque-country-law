@@ -1,2 +1,4 @@
 Disposición adicional.
 Las disposiciones de la presente Ley serán aplicables, con efecto retroactivo, a los Parlamentarios de la actual Legislatura que pudieran encontrarse en alguna de las situaciones reguladas en la misma.
+Téngase en cuenta que se suspense la vigencia y aplicación de esta disposición desde el 22 de junio de 1981 para las partes en el proceso y desde el 9 de julio de 1981 para los terceros, por Providencia del TC de 1 de julio de 1981 por la que se admite a trámite el recurso de inconstitucionalidad 185/1987. Ref. BOE-A-1981-15176
+Se suspense la vigencia y aplicación desde el 22 de junio de 1981 para las partes en el proceso y desde el 9 de julio de 1981 para los terceros, por Providencia del TC de 1 de julio de 1981 por la que se admite a trámite el recurso de inconstitucionalidad 185/1987. Ref. BOE-A-1981-15176
