@@ -1,0 +1,7 @@
+Se hace saber a todos los ciudadanos de Euskadi que el Parlamento Vasco ha aprobado la Ley 9/1985, de 4 de diciembre, por la que se regula el Consejo Asesor de R.T.V.E. en el País Vasco o R.T.V.E.-ren Euskadiko Aholku-Batzordea. Por consiguiente, ordeno a todos los ciudadanos de Euskadi, particulares y autoridades, que la guarden y hagan guardarla.
+Vitoria-Gasteiz, 4 de diciembre de 1985.–El Lehendakari, José Antonio Ardanza Garro.
+EXPOSICIÓN DE MOTIVOS
+El artículo 19 del Estatuto de Gernika otorga competencia a la Comunidad Autónoma de Euskadi para el desarrollo legislativo y ejecución del régimen de Radiodifusión y Televisión.
+La Ley 4/1980, de 10 de enero de 1980, Estatuto de Radio y Televisión, establece en su artículo 14.2 que el Delegado Territorial de R.T.V.E. en cada Comunidad Autónoma «estará asistido por un Consejo Asesor nombrado por el órgano de gobierno», y remite la determinación de su composición a las oportunas leyes territoriales.
+El mencionado Consejo además de constituir un órgano de asesoramiento del Delegado Territorial, ostenta la representación de los intereses de la Comunidad Autónoma en R.T.V.E. De este modo, en cuanto órgano nombrado por el Ejecutivo vasco, el Consejo Asesor se figura como órgano integrador y canal de participación dentro del marco del Estatuto de Radio y Televisión.
+En consecuencia constituye el objeto de la presente Ley la regulación de la composición y funciones del Consejo Asesor de R.T.V.E. en el País Vasco o R.T.V.E. ren Euskadiko Aholku-Batzordea.
