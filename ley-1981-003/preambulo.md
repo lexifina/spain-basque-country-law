@@ -1,0 +1,3 @@
+Se hace saber a todos los ciudadanos de Euskadi que el Parlamento ha aprobado la siguiente Ley 3/1981, de 12 de febrero, sobre «Centros de Contratación de Cargas en Transporte Terrestre de Mercancías».
+Con objeto de dotar al mercado de cargas de la transparencia precisa, se considera oportuno proceder al establecimiento de un Centro de Contratación de Cargas que permita un desarrollo racional del transporte de mercancías y el estricto cumplimiento de la legalidad. Su implantación, de acuerdo con lo establecido en el artículo 10.32 y la disposición transitoria séptima del Estatuto de Autonomía, corresponde a la Comunidad Autónoma del País Vasco, por lo que se somete al Parlamento para su aprobación.
+En su virtud, de conformidad con la ley vengo en sancionar:
