@@ -1,0 +1,2 @@
+Artículo duodécimo.
+Existirá en HABE un Gabinete de Glotodidáctica Aplicada con rango de servicio. Desarrollará las funciones de investigación y difusión de medios, recursos y sistemas metodológicos relacionados con la enseñanza del euskera; la formación y reciclaje del personal docente; la coordinación docente y didáctico-pedagógica de los programas a desarrollar en los Centros de alfabetización y euskaldunización de adultos y cuantas otras le sean atribuidas en las normas orgánicas de HABE.

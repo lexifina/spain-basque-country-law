@@ -1,0 +1,2 @@
+Artículo undécimo.
+Las normas orgánicas de HABE, que serán aprobadas por Decreto a propuesta del Patronato Rector a través de su Presidente, determinarán, de conformidad con lo dispuesto en esta Ley, la organización y funcionamiento de las distintas unidades orgánicas del Instituto y de los Centros de euskaldunización y alfabetización de adultos o Euskaltegis dependientes de HABE. Los Euskaltegis no dependientes directamente de HABE se regirán por lo dispuesto en los siguientes artículos.

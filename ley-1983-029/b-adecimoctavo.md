@@ -1,0 +1,2 @@
+Artículo decimoctavo.
+En todos los Euskaltegis privados subvencionados deberá existir al menos un Director y un Secretario, cuyas funciones serán análogas a las establecidas para los Euskaltegis públicos, que serán nombrados por el titular del Euskaltegi. El balance anual, los justificantes de abono de nóminas y, demás documentos contables de estos Euskaltegis serán en todo momento exigibles por los servicios de HABE.
