@@ -1,0 +1,1 @@
+Esta norma pasa a denominarse "Ley 2/1988, de 5 de febrero, sobre creación de Emakunde-Instituto Vasco de la Mujer", según se establece en la disposición final 1.1 de la Ley 4/2005, de 18 de febrero. Ref. BOE-A-2011-17779#df
