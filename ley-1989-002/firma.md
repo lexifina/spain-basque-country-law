@@ -15,6 +15,7 @@ A-8 | A-8 | Solución Sur- Bilbao | Basauri | Cruces (Baracaldo) | 19, 915 | For
 A-8 | A-8 | Variante San Sebastián |  |  | 8,000 | Forma parte de la autopista Bilbao- Behobia.
  | A-8 | Solución Ugaldebieta | Cruces (Baracaldo) | Lím. Cantabria |  | Nueva carretera
  | N-644 | Autovía del Puerto | A-8 | Puerto Santurce |  | 
+Téngase en cuenta que se declara inconstitucional y nulo en cuanto incluye el «tramo Condado de Treviño» en el Catálogo de la Red objeto del Plan, por STC 132/1998, de 18 de junio. Ref. BOE-T-1998-17037
 Catálogo de la red objeto del plan (II)
 Código antiguo | Código nuevo | Denominación | Comienzo | Final | Longitud kms. | Observaciones
 C-639 | N-639 | Acceso al Puerto por Ciérvana | A-8 (Nocedal) | Puerto Santurce | 9,9 | Futura entrada al Puerto Exterior
@@ -65,5 +66,6 @@ C-6322 | BI-632 | De Beasain a Durango por Kanpazar | Lím. Guipúzcoa | Durango
 SS-610 | GI-632 | De Beasain a Durango por Kanpazar | Mondragón | Lím. Bizkaia | 5,500 | 
 BI-1225 | BI-632 | De Beasain a Durango por Kanpazar | Límite Guipúzcoa | Elorrio | 7,330 | 
 * NOTA: En los casos señalados con asterisco, la Red Objeto del plan se refiere a la carretera existente que adoptará además la nueva denominación según el código nuevo; pero en el momento de construirse la carretera de nuevo trazado, ésta será la que lo adopte, debiendo tomar la antigua otra denominación.
-Téngase en cuenta que se suspende la vigencia y aplicación en las referencias a las autopistas A-l, A-8 y A-68, asi como a la inclusión del «tramo Condado de Treviño», desde el 8 de septiembre de 1989 para las partes en el proceso y desde el 27 de septiembre de 1989 para los terceros, por providencia del TC de 18 de septiembre de 1989 que admite a trámite el recurso de inconstitucionalidad nº 1814/1989. Ref. BOE-A-1989-22924
+Se levanta la suspensión de la vigencia y aplicación en las referencias a las autopistas A-l, A-8 y A-68, asi como a la inclusión del «tramo Condado de Treviño», por auto TC de 13 de febrero de 1990. Ref. BOE-A-1990-4644
+Téngase en cuenta que se declara inconstitucional y nulo en cuanto incluye el «tramo Condado de Treviño» en el Catálogo de la Red objeto del Plan, desestimándose el recurso de inconstitucionalidad nº 1814/1989, en todo lo demás, por STC 132/1998, de 18 de junio. Ref. BOE-T-1998-17037
 Se suspende la vigencia y aplicación en las referencias a las autopistas A-l, A-8 y A-68, asi como a la inclusión del «tramo Condado de Treviño», desde el 8 de septiembre de 1989 para las partes en el proceso y desde el 27 de septiembre de 1989 para los terceros, por providencia del TC de 18 de septiembre de 1989 que admite a trámite el recurso de inconstitucionalidad nº 1814/1989. Ref. BOE-A-1989-22924
