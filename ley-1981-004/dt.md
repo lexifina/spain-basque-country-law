@@ -1,0 +1,2 @@
+Disposición transitoria.
+En el término de los veinte días siguientes a la entrada en vigor de la presente Ley, el Presidente del Parlamento ordenará, mediante la oportuna publicación en el Boletín Oficial de la Cámara, la iniciación del trámite al que se refiere el artículo 3.º, y los candidatos que resultaren electos ostentarán su mandato en el Senado durante el tiempo de vigencia de la actual legislatura.
