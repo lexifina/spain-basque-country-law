@@ -1,1 +1,1 @@
-Incluye la corrección de erratas publicada en BOPV num. 28, de 11 de junio de 1981. Ref. BOE-A-2012-5933
+Téngase en cuenta que el organismo autónomo mercantil "Centro de Contratación de Cargas" queda extinguido por la disposición adicional 5 de la Ley 1/1991, de 30 de mayo. Ref. BOE-A-2012-2678, pasando las relaciones obligacionales y los derechos de este organismo a integrarse en la Administración General de la Comunidad Autónoma de Euskadi.
