@@ -1,0 +1,2 @@
+Disposición adicional.
+En el plazo de un año, el Gobierno Vasco y las Diputaciones Forales deberán programar campañas divulgadoras del contenido de la presente ley entre los escolares y habitantes de la Comunidad Autónoma del País Vasco, así como tomar medidas que contribuyan a fomentar el respeto a los animales y a difundir y promover esta ley en la sociedad en colaboración con las asociaciones de protección y defensa de los animales.

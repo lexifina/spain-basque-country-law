@@ -1,0 +1,2 @@
+Disposición transitoria.
+Los establecimientos dedicados a la cría o venta de animales de compañía, así como las residencias, los centros de adiestramiento, los centros de recogida de animales abandonados y demás instalaciones cuyo objeto sea mantener temporalmente a animales de compañía, que a la fecha de publicación de esta ley no reúnan los requisitos que en la misma se establecen, dispondrán del plazo de un año para cumplirlos.
