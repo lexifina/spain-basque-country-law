@@ -1,0 +1,9 @@
+Disposición derogatoria.
+A la entrada en vigor del Texto Refundido que se aprueba en virtud del presente Decreto Legislativo quedarán derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en el mismo y, en particular, las siguientes:
+– El Decreto Legislativo 1/1988, de 17 de mayo, por el que se aprueba el texto refundido de las disposiciones legales vigentes sobre los Principios Ordenadores de la Hacienda General del País Vasco.
+– La disposición final cuarta de la Ley 3/1990, de 31 de mayo, de Tasas y Precios Públicos de la Administración de la Comunidad Autónoma del País Vasco.
+– La disposición adicional cuarta de la Ley 1/1992, de 28 de enero, por la que se aprueban los Presupuestos Generales de la Comunidad Autónoma de Euskadi para 1992.
+– La disposición final primera de la Ley 14/1994, de 30 de junio, de Control Económico y Contabilidad de la Comunidad Autónoma del País Vasco.
+– La disposición final primera de la Ley 6/1995, de 29 de diciembre, por la que se aprueban los Presupuestos Generales de la Comunidad Autónoma de Euskadi para 1996.
+– La disposición final segunda de la Ley 8/1996, de 8 de noviembre, de Finanzas de la Comunidad Autónoma de Euskadi.
+– La Ley 7/1997, de 19 de junio, por la que se regula el régimen de subvenciones y ayudas y se modifica la Ley de Principios Ordenadores de la Hacienda General del País Vasco, salvo las disposiciones de la misma que a continuación se enumeran: la disposición transitoria única y la disposición final tercera que continuarán vigentes hasta el agotamiento de sus previsiones, la disposición final primera que modifica la Ley 14/1983, de 27 de julio de Patrimonio de Euskadi y la disposición final segunda que modifica la Ley 14/1994, de 30 de junio, de control económico y contabilidad de la Comunidad Autónoma del País Vasco.
