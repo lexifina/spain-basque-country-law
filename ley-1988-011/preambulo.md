@@ -1,0 +1,6 @@
+EXPOSICIÓN DE MOTIVOS
+La Comunidad Autónoma del País Vasco tiene, a tenor del artículo 10.36 del Estatuto de Autonomía, la competencia exclusiva en materia de deporte.
+Asimismo, el Estatuto de Autonomía en su artículo 16 determina, que es competencia de la Comunidad Autónoma del País Vasco la enseñanza en toda su extensión, niveles y grados, modalidades y especialidades.
+Por otro lado, al ser cada día más evidente la singular trascendencia y auge que tiene la educación física en los diferentes niveles educativos, se constituye el Instituto Vasco de Educación Física como organismo autónomo, de carácter administrativo; adscrito al Departamento de Cultura y Turismo, asignándole funciones destinadas a la formación, especialización y perfeccionamiento de titulados en educación física, al fomento de la investigación, y colaboración con otros entes que incidan en la formación de técnicos deportivos.
+Por su parte el Título segundo establece los órganos del Instituto que son: Patronato Rector, Claustro de Profesores y el Director del Instituto Vasco de Educación Física.
+En el Título tercero se determinan los recursos económicos con que contará el Instituto para el cumplimiento y realización de sus fines.
