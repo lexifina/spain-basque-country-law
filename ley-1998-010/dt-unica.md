@@ -1,0 +1,2 @@
+Disposición transitoria única.
+Los Programas de Desarrollo Rural se aplicarán, inicialmente, sobre los ámbitos territoriales determinados en el Anexo I. Asimismo, cada Diputación Foral, previo informe de los órganos establecidos en los artículos 9 y 11, podrá ampliar el ámbito de aplicación de los Programas de Desarrollo Rural a otras zonas que cumplan los criterios establecidos en el artículo 5.1.
