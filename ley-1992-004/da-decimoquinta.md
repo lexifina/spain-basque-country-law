@@ -1,0 +1,4 @@
+Disposición adicional decimoquinta.
+1. Los representantes que resulten elegidos de conformidad con lo dispuesto en el artículo 99 de esta ley se considerarán a los efectos de determinar la configuración de la mesa general de negociación para la determinación de las condiciones de trabajo de los funcionarios de la Administración de la Comunidad Autónoma, así como para establecer la representación del personal en el Consejo Vasco de la Función Pública.
+2. La mesa general a la que se refiere el apartado anterior conocerá y podrá deliberar sobre el proceso de negociación colectiva que se desenvolverá en el seno de la mesa de la Ertzaintza.
+3. Se informará periódicamente al Consejo Vasco de la Función Pública de las disposiciones de carácter general que afecten a materias del régimen estatutario destinadas a los funcionarios de los Cuerpos de Policía del País Vasco.

@@ -1,0 +1,2 @@
+Disposición adicional decimosexta.
+A través de la negociación colectiva, que se producirá para la Ertzaintza y las Policías Locales del País Vasco en el ámbito convencional respectivo, se determinarán los sistemas de aseguramiento complementarios que procedan para los casos de pase a segunda actividad por razones de edad e incapacidad permanente total, previa su evaluación mediante los correspondientes estudios actuariales.
