@@ -1,0 +1,2 @@
+Disposición transitoria.
+Sin perjuicio de lo dispuesto en los anteriores preceptos, y en tanto no entre en vigor la normativa específica de la Comunidad Autónoma sobre la Hacienda General del País Vasco, y Régimen Presupuestario, el «Ente Vasco de la Energía» y las Sociedades Públicas referidas en el apartado 2 del artículo 6, tendrán respectivamente, la consideración de Sociedades estatales previstas en el artículo 6. 1. b) y 6. 1. a) de la Ley General Presupuestaria, siéndoles de aplicación los preceptos de esta Ley que a tales sociedades se refieran.
