@@ -1,2 +1,3 @@
 Disposición adicional única. Sobre gastos reservados.
-Solo tendrán la consideración de gastos reservados los que figuren con tal epígrafe en los correspondientes Presupuestos.
+(Derogada)
+Se deroga por la disposición derogatoria de la Ley 5/1997, de 30 de mayo. Ref. BOE-A-2012-412.
