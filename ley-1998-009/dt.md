@@ -1,0 +1,2 @@
+Disposición transitoria.
+Los titulares del Conservatorio de Música de Grado Medio de Donostia (Donostia-San Sebastián) y del Conservatorio de Música de Grado Medio «Jesús Guridi» (Vitoria-Gasteiz) disponen de un plazo de seis meses desde el día de la publicación de esta ley para ejercitar su opción de integración en la Administración General de la Comunidad Autónoma del País Vasco. La forma del ejercicio de la opción será regulada por el Departamento de Educación, Universidades e Investigación, respetando, en todo caso, lo dispuesto en los artículos 2 y 3 de la presente ley.
