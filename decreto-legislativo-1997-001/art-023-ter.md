@@ -1,0 +1,3 @@
+Artículo 23 ter. Creación, modificación y extinción.
+La constitución, modificación estatutaria, fusión o extinción de fundaciones del sector público de la Comunidad Autónoma de Euskadi, así como los actos o negocios que impliquen la adquisición o pérdida del carácter de fundación del sector público de la Comunidad Autónoma de Euskadi, deberá ser autorizada por el Consejo de Gobierno con carácter previo a la adopción del correspondiente acuerdo, previos informes del departamento competente en materia de justicia y del departamento competente en materia de patrimonio.
+Se añade por la disposición final 6.3 de la Ley 5/2006, de 17 de noviembre. Ref. BOE-A-2011-17403
