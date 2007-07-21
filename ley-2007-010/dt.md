@@ -1,0 +1,2 @@
+Disposición transitoria.
+Los perros de asistencia existentes en la actualidad deberán adecuarse a los requisitos de reconocimiento e identificación previstos en la presente ley, en el plazo de seis meses siguientes a la entrada en vigor de la norma reglamentaria de desarrollo de la misma en lo relativo a las citadas condiciones y requisitos para el reconocimiento de la condición de perro de asistencia y al diseño del distintivo oficial.
