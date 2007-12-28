@@ -1,0 +1,2 @@
+Disposición transitoria
+En los puertos en los que no existan zonas de carácter público de manipulación de pescado para su clasificación, primera venta y comercialización y cuya carencia implique la necesidad de utilizar instalaciones privadas, y hasta que se habiliten zonas de carácter público, la cantidad a ingresar por la Tarifa T-4 será igual al 40% de la cuota resultante de la aplicación de las reglas contenidas en el artículo 196 de esta ley
