@@ -1,0 +1,2 @@
+Disposición transitoria única.
+Los servicios y/o programas públicos y sociales de mediación familiar que se encuentren en funcionamiento a la entrada en vigor de la presente ley podrán continuar cumpliendo las tareas que ejercían hasta ese momento durante un período máximo de un año desde la entrada en vigor de la presente ley. A la finalización de dicho plazo, en cambio, habrán de adaptarse al artículo 4 de la forma en que quede establecido reglamentariamente, según lo recogido en la disposición final primera.
