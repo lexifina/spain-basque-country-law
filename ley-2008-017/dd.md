@@ -1,0 +1,2 @@
+Disposición derogatoria.
+Quedan derogadas todas aquellas disposiciones de igual o inferior rango en todo aquello en lo que se opongan a lo establecido en la presente ley, en especial la Orden 7 de mayo de 1997, del consejero de Industria, Agricultura y Pesca, por la que se regula la Mesa Consultiva Nacional Agraria, y los artículos 16 y 18 del Decreto 290/2005, de 11 de octubre, por el que establece la estructura orgánica y funcional del Departamento de Agricultura, Pesca y Alimentación.
