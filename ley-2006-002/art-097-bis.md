@@ -1,0 +1,3 @@
+Artículo 97 bis. Tramitación de proyectos sobre suelos de alto valor agrológico.
+1. Cualquier proyecto o actuación administrativa prevista en la Comunidad Autónoma del País Vasco sobre suelos de alto valor agrológico, así definidos conforme a lo establecido en el marco de referencia vigente en cada momento para la ordenación del espacio rural vasco, exigirá la emisión de informe por el órgano foral competente en materia agraria. A la vista de éste, la Comisión de Ordenación del Territorio emitirá informe final que será vinculante para las figuras de planeamiento urbanístico.
+Se añade por la disposición final 2.1 de la Ley 17/2008, de 23 de diciembre. Ref. BOE-A-2011-15731.
