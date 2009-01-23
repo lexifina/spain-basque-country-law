@@ -1,0 +1,2 @@
+Disposición transitoria. Adscripción de la Comisión Interinstitucional de Familia y de la Comisión Permanente Sectorial de Familia.
+A la entrada en vigor de la presente ley, la Comisión Interinstitucional de Familia y la Comisión Permanente Sectorial de Familia, en adelante Comisión Permanente de Familia, actualmente adscritas al Consejo Vasco de Bienestar Social, pasarán a integrarse en el Consejo Vasco de Familia.
