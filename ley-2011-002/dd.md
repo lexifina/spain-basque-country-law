@@ -1,0 +1,2 @@
+Disposición derogatoria.
+Quedan derogados: el artículo 1 de la Ley 1/1989, de 13 de abril, por la que se modifica la calificación de determinadas infracciones administrativas en materia de caza y pesca fluvial y se elevan las cuantías de las sanciones; los artículos 66 a 74, ambos inclusive, de la Ley 16/1994, de 30 de junio, de Conservación de la Naturaleza del País Vasco, en lo que se refieren a la caza, y cualquier otra disposición en materia de caza que se oponga a lo dispuesto en la presente ley.
