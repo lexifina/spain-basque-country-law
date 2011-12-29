@@ -1,0 +1,14 @@
+CAPÍTULO V
+Tasa por rastreo, rescate o salvamento
+Se añade por el art. 23 de la Ley 5/2011, de 22 de diciembre. Ref. BOE-A-2012-967
+Artículo 111 bis. Hecho imponible.
+1. Constituye el hecho imponible de esta tasa la prestación, por razones de seguridad pública, de servicios de rastreo, rescate o salvamento de personas en dificultades por los equipos de coordinación e intervención propios y concertados del Departamento de Interior, sea de oficio o a requerimiento de parte, y siempre que la prestación del servicio redunde en beneficio de quien tenga la consideración de sujeto pasivo y se produzca en cualquiera de los siguientes supuestos:
+a) Cuando el rastreo, rescate o salvamento se realice con ocasión de la práctica de actividades recreativas y deportivas que entrañen riesgo o peligro para las personas.
+A los efectos de la aplicación de esta tasa se considerarán actividades recreativas y deportivas que entrañan riesgo o peligro para las personas las siguientes, así como sus distintas modalidades y estilos: submarinismo, travesía de natación, windsurfing, flysurf, esquí acuático, wakeboard, wakesurf, skurfer, motos de agua, bodyboard, surf, rafting, hydrospeed, piragüismo, remo, descenso de cañones y barrancos, puenting, goming, kite buggy, quads, escalada, espeleología deportiva o «espeleismo», bicicleta en montaña sin casco protector, motocross, vehículos de motor en montaña, raid y trec hípico, marchas y turismo ecuestre, esquí, snowboard, motos de nieve, paraski, snowbike, mushing, skibike, aerostación, paracaidismo, salto base, vuelo de ultraligeros, vuelo en aparatos con motor y sin motor, parapente, ala delta y parasailing.
+Reglamentariamente podrán establecerse otras actividades recreativas y deportivas cuya práctica entrañe riesgo o peligro para las personas.
+b) Cuando el rastreo, rescate o salvamento se realice en zonas señaladas como peligrosas o en aquellas de acceso restringido o prohibido.
+c) Cuando el rastreo, rescate o salvamento tenga lugar en situación de avisos a la población de alerta naranja o roja por fenómenos meteorológicos adversos para la realización de actividades que puedan conllevar un incremento de riesgo derivado de la meteorología adversa.
+d) Cuando se solicite el servicio sin que existan motivos objetivamente justificados, así como en caso de simulación de existencia de riesgo o peligro.
+2. No estarán sujetas a la tasa las prestaciones de servicios de rastreo, rescate o salvamento de personas en el caso de situaciones de catástrofe o calamidad pública, así como por razones de interés general y no en beneficio de particulares o de bienes determinados.
+Tampoco estará sujeto a la tasa el salvamento de la vida humana en el mar o el rescate de embarcaciones en los casos ya previstos por la legislación específica y los convenios internacionales.
+Se añade por el art. 23 de la Ley 5/2011, de 22 de diciembre. Ref. BOE-A-2012-967
