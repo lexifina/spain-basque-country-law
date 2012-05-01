@@ -1,0 +1,5 @@
+Disposición adicional decimocuarta.
+Carácter individual para cada establecimiento físico de las autorizaciones administrativas para la provisión y prestación de servicios sociales
+En el caso de servicios sociales para cuya provisión y prestación se requiera disponer de un establecimiento físico que constituya la infraestructura estable a partir de la cual llevar a cabo efectivamente la prestación, las autorizaciones a que se refiere el artículo 59 de esta ley tendrán carácter individual para cada establecimiento físico, con el objeto de garantizar una adecuada protección a las personas destinatarias de los servicios sociales.
+Cuando la empresa o persona prestadora del servicio ya esté establecida en España y ejerza legalmente la actividad, no podrá exigirse a los fines de otorgamiento de autorización administrativa el cumplimiento de requisitos que no estén ligados específicamente al establecimiento físico a partir del cual pretenda llevarse a cabo la actividad.
+Se añade por el art. 111 de la Ley 7/2012, de 23 de abril. Ref. BOE-A-2012-6368
