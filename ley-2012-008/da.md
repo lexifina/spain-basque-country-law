@@ -1,0 +1,2 @@
+Disposición adicional.
+En el supuesto de que en las sucesivas renovaciones del Consejo se produjera un desacuerdo en la designación de las y los miembros a que se refiere el artículo 4.1 c), transcurridos treinta días desde la fecha en que se debiera haberse producido, el lehendakari o la lehendakari, previa audiencia de las organizaciones afectadas y por resolución motivada, efectuará la designación.

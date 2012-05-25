@@ -1,0 +1,2 @@
+Disposición transitoria.
+Sin perjuicio de la aplicación de lo dispuesto en esta ley desde el momento de su entrada en vigor, la presidenta o el presidente y la secretaria o el secretario, así como las personas miembros del Consejo cuyo respectivo sector o institución mantenga en dicha ley su representación en la composición del órgano, continuarán siéndolo hasta la finalización del plazo para el que fueron nombrados.
