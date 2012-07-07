@@ -1,7 +1,3 @@
 Disposición adicional decimoséptima.
-1. Al amparo de lo dispuesto en el artículo 17 del Estatuto de Autonomía del País Vasco, y de conformidad con lo establecido en las Leyes Orgánicas 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad, y 1/1992, de 21 de febrero, sobre Protección de la Seguridad Ciudadana, son autoridades competentes en materia de seguridad y para ordenar las actuaciones necesarias para el mantenimiento y restablecimiento de la seguridad ciudadana el Consejero de Interior y los titulares de los órganos de ese Departamento, según las disposiciones legales y reglamentarias correspondientes.
-2. El Consejo de Gobierno y los órganos referidos en el apartado anterior serán competentes también para la imposición de las sanciones y demás medidas correspondientes a las infracciones legalmente tipificadas en materia de seguridad ciudadana, según la siguiente escala:
-a) El Consejo de Gobierno para imponer multas de hasta cien millones de pesetas y cualquiera de las demás sanciones reglamentariamente previstas en la materia.
-b) El Consejero de Interior para imponer multas de hasta cincuenta millones de pesetas y cualquiera de las demás sanciones previstas.
-c) Los restantes órganos a que se refiere el apartado 1 de este artículo para imponer multas de hasta 10 millones de pesetas y cualquiera de las demás sanciones legalmente previstas.
-3. Las competencias reguladas en los apartados 1 y 2 de esta disposición se ejercerán de conformidad con el proceso de despliegue y la distribución de funciones establecida para la Ertzaintza y las Fuerzas y Cuerpos de Seguridad del Estado según el Estatuto de Autonomía.
+(Derogada)
+Se deroga por la disposición derogatoria.d) de la Ley 15/2012, de 28 de junio. Ref. BOE-A-2012-9665.
