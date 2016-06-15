@@ -1,0 +1,2 @@
+Disposición transitoria.
+La presente Ley no será de aplicación a los contratos adjudicados con anterioridad a su entrada en vigor, ni a los expedientes de contratación iniciados antes de su entrada en vigor, y se entenderá, a estos efectos, que los expedientes de contratación han sido iniciados si se hubiera publicado la correspondiente convocatoria del procedimiento de adjudicación del contrato. En el caso de procedimientos negociados, para determinar el momento de iniciación se tomará en cuenta la fecha de aprobación de los pliegos.
