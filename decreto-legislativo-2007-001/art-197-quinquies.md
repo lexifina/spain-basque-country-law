@@ -1,0 +1,57 @@
+Artículo 197 quinquies. Tasa por ocupación privativa y utilización del dominio público portuario.
+1. Constituye el hecho imponible de esta tasa la ocupación y utilización del dominio público portuario, y del vuelo y subsuelo del mismo.
+2. Son sujetos pasivos contribuyentes de la tasa:
+a) En el supuesto de que exista concesión o autorización: La persona concesionaria o la titular de la autorización, respectivamente.
+b) En supuestos de ocupación sin título: La persona ocupante.
+3. El devengo de la tasa se producirá:
+a) En el supuesto recogido en el apartado 2.a) de este artículo, cuando se otorguen los títulos de concesión o autorización, y el 1 de enero de cada año en las sucesivas anualidades de vigencia de la concesión o autorización.
+b) En el supuesto recogido en el apartado 2.b) de este artículo, en el momento en que se produzca la ocupación.
+La liquidación se realizará en el momento del devengo. Cuando las concesiones y autorizaciones se otorguen por periodos anuales o superiores, la liquidación de la tasa se realizará por adelantado, en el mes de enero de cada año.
+4. Constituye la base imponible de esta tasa la superficie de dominio público portuario ocupada medida en metros cuadrados.
+5. Las cuotas de la tasa son las siguientes:
+5.1 Concesiones.
+5.1.1 Con carácter general las cuotas de la tasa son las siguientes:
+a) Superficie no edificada: 12,25 euros/m2/año.
+b) Superficie edificada: 24,47 euros/m2/año.
+c) Superficie edificada en áreas portuarias de uso náutico recreativo: 6,75 euros/m2/mes.
+En los casos a) y b) se establece un coeficiente reductor del 25 % en los puertos que se detallan a continuación:
+Armintza.
+Deba.
+Ea.
+Elantxobe.
+Lekeitio.
+Mundaka.
+Mutriku.
+Orio.
+Plentzia.
+Zumaia.
+En el caso c) se establece un coeficiente reductor del 50 % en los puertos que se detallan a continuación:
+Armintza.
+Deba.
+Ea.
+Elantxobe.
+Mundaka.
+Mutriku.
+Ondarroa.
+Orio.
+Plentzia.
+5.1.2 Cuando las instalaciones objeto de concesión estén situadas bajo tierra y no impidan la libre circulación por la superficie, se aplicarán las cuotas correspondientes a la ocupación de superficie no edificada con una reducción del 50 %. En canalizaciones enterradas se cuantificará, como mínimo, un m2 por metro lineal de canalización.
+5.1.3 Cuando el destino de la ocupación sea el desarrollo de una actividad comercial o industrial no relacionada directamente con la prestación de actividad portuaria, se aplicarán las cuotas establecidas en el apartado 5.1.1 con un incremento del 50 %.
+5.1.4 Cuando el local objeto de la concesión se encuentre equipado y disponga de utillaje y maquinaria para el desarrollo de la actividad comercial o industrial que se vaya a desarrollar, se aplicará la cuota establecida en el apartado 5.1.1 con un incremento del 125 %.
+5.1.5 Cuando en la misma ocupación se den los supuestos establecidos en los apartados 5.1.2 y 5.1.3, se realizará la media aritmética de las cuotas correspondientes a cada apartado.
+5.1.6 Cuando el objeto de la concesión sea la ocupación de una zona de agua delimitada, las cuotas a aplicar serán las correspondientes a la superficie no edificada.
+5.1.7 Cuando el objeto de la concesión sean edificios para la manipulación de redes e instalaciones para la limpieza de tinas o cajas, fábricas de hielo, lonjas de recepción, exposición, manipulación y/o venta de pescado o plantas congeladoras, se aplicarán las cuotas correspondientes a la ocupación de superficie edificada con una reducción del 50 %.
+5.1.8 En el primer año del otorgamiento de la concesión, la determinación de la cuantía de la tasa exigible será proporcional al periodo en vigor durante dicho año, aplicándose el prorrateo correspondiente al importe obtenido según los apartados anteriores. Asimismo, este criterio de prorrateo se aplicará en el último año de vigencia de la concesión.
+5.2 Autorizaciones. Cuando se trate de una autorización se aplicarán las siguientes cuantías:
+5.2.1 Ejercicio de una actividad comercial o industrial:
+a) Relacionada con las actividades portuarias: 0,229252 euros/m2/día.
+b) No relacionada con las actividades portuarias: 0,45 euros/m2/día.
+5.2.2 Ejercicio de una actividad no comercial o industrial: 0,229252 euros/m2/día.
+5.2.3 Cuando se trate de una autorización para la ocupación o utilización de espacios en las zonas de almacenamiento que se determinen, la cuantía de la tasa llevará una reducción del 50 % de la cuota general.
+5.3 Las cuantías de las tasas correspondientes a las concesiones o autorizaciones se revisarán anualmente según la actualización de las tasas portuarias aprobada por la correspondiente ley.
+Las concesiones y autorizaciones otorgadas con anterioridad, cuyo título contemple la cláusula de revisión de precios, se revisarán, cuando dicha cláusula se refiera a esta ley o a otro indicador distinto del índice de precios al consumo, conforme a lo indicado en el párrafo anterior, y cuando la cláusula se refiera al índice de precios al consumo se revisarán en función de las variaciones experimentadas por este índice.
+5.4 En el supuesto de que la Administración portuaria convocara concursos para el otorgamiento de concesiones o autorizaciones, los pliegos de bases podrán contener, entre los criterios para su resolución, que los licitadores oferten importes adicionales a los establecidos para esta tasa. Las cantidades adicionales ofertadas, al carecer de naturaleza tributaria, no estarán sometidas al régimen de actualización previsto en el apartado 5.3 anterior.
+6. Las corporaciones locales gozarán de exención en las concesiones y autorizaciones que se les otorguen, siempre que estas no sean objeto de explotación lucrativa por sí o por terceras personas.
+7. Las entidades sin ánimo de lucro declaradas de utilidad pública gozarán de exención en las autorizaciones que se les otorguen para aquellas actividades en las que la ocupación y utilización del dominio público portuario no lleve aparejada una utilidad económica.
+8. En los supuestos de ocupación o utilización del dominio público portuario sin título, la cuota a aplicar será la correspondiente a las autorizaciones incrementada en un 100 %.»
+Se añade por la disposición final 1 de la Ley 2/2018, de 28 de junio. Ref. BOE-A-2018-11064#df
