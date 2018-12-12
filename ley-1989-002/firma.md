@@ -1,90 +1,79 @@
 Por consiguiente, ordeno a todos los ciudadanos de Euskadi, particulares y autoridades que la guarden y hagan guardarla.
 Vitoria-Gasteiz, 7 de junio de 1989.–El Lehendakari, José Antonio Ardanza Garro.
 ANEXO
-Catálogo de la red objeto del Plan General de Carreteras del País Vasco
-A. Corredor Norte-Sur
-Código | Denominación | Comienzo | Final | Longitud km | Observaciones
-A-1 | Autopista Burgos-Cantábrico (Maltzaga). | Límite Álava en Rivabellosa. | Eibar (Maltzaga, A-8). | 74,80 | 
-N-I | Madrid-Irún. | L.P. Burgos en Rivabellosa. | L.P. en Condado de Treviño. | 7,75 | 
-N-I | Madrid-Irún. | L.P. en Condado de Treviño. | Límite C.F. Navarra. | 55,54 | 
-N-I | Madrid-Irún. | Límite C.F. Navarra. | Irun (frontera). | 79,50 | 
-N-102 | De N-I a Vitoria-Gasteiz, dirección Francia. | N-I en Ariñez. | Vitoria-Gasteiz en Armentia. | 5,39 | 
-N-104 | De Vitoria-Gasteiz a N-I, dirección Francia. | Vitoria-Gasteiz en Arana. | N-I (V enta del Patio). | 9,47 | 
-GI-131 (*) | De Andoain a Donostia-San Sebastián por Hernani. | Andoain (N-I). | Donostia-SS (nudo de Loyola). | 14,70 | 
-N-638 | Acceso al aeropuerto de Hondarribia. | Variante Norte de Irún. | Aeropuerto de Hondarribia. | 2,50 | 
-Téngase en cuenta que se declara inconstitucional y nula la inclusión de la autopista A-1, Burgos-Cantábrico (Maltzaga), en el tramo comprendido entre el límite de Álava y Armiñón, por Sentencia del TC 168/2009, de 9 de julio. Ref. BOE-A-2009-13321
+Nomenclatura y catálogo de la red objeto del Plan General de Carreteras del País Vasco
+Código | Denominación | Comienzo | Final | L (km) | Observaciones
+A. Corredor Norte-Sur y Conexión Navarra-Gipuzkoa
+AP-1 | Autopista Burgos-Cantábrico. | Intersección N-624.Glorieta de Foronda (Álava). | Eibar (Gipuzkoa). | 46,15 | Solapa con AP-8 tramo Enlace Maltzaga con AP-8-L.P. con Francia (Behobia)
+A-1 | Autovía norte de Madrid-San Sebastián. | L.P. Burgos en Miranda de Ebro. | L.P. Burgos en Condado de Treviño sur. | 7,75 | –
+A-1 | Autovía norte de Madrid-San Sebastián. | L.P. Burgos en Condado de Treviño norte. | L.P. C.F. Navarra en Egino. | 55,54 | –
+N-I | Autovía norte de Madrid-San Sebastián. | L.P. C.F. Navarra en Etzegarate. | Enlace con AP-1-AP-8 en Lasarte-Oria. | 49,02 | –
+GI-11 | Conexión de la N-1 y la Gi-20 por Aritzeta. | N-1. | GI-20. | 2,52 | –
+GI-636 | De Errenteria a Irun. | Enlace con GI-20 en Pasaia. | Frontera con Francia (Behobia). | 17,23 | –
+A-15 | Autopista Navarra Gipuzkoa. | L.P. C.F.Navarra (Berastegi). | Enlace AP-8 y GI-41 en Astigarraga. | 27,19 | Solapa con N-I entre enlaces de Andoain
+GI-41 | Acceso sur a Donostia-San Sebastián desde el Urumea. | Enlace AP-8 en Astigarraga. | Amara (Donostia-San Sebastián). | 2,99 | –
+GI-631 | De Zumaia a Zumarraga. | Arroa(N-634). | Zumarraga (AP-636). | 35,32 | –
+N-121-A | De Pamplona a Irun. | L.P.C.F. Navarra (Endarlatsa). | Rtda. Behobia GI-636. | 6,56 | –
+VG-11 | De A-1 a Vitoria-Gasteiz, dirección Francia. | A-1 en Ariñez. | Vitoria-Gasteiz en Glorieta bulevar de Mariturri. | 4,97 | –
+VG-21 | De Vitoria-Gasteiz a A-1, dirección Francia. | Vitoria-Gasteiz en Elorriaga (P.K. 353,98). | A-1 (Venta del Patio). | 9,47 | –
+N-638 | Acceso al aeropuerto de Hondarribia. | Enlace de Hondarribia en GI-636. | Rotonda inicio Variante de Hondarribia. | 2,35 | –
 B. Corredor de la Cornisa Cantábrica
-Código | Denominación | Comienzo | Final | Longitud km | Observaciones
-A-8 | Autopista del Cantábrico. | Irún-Behobia. | Basauri. | 105,69 | Excepto variante de Donostia-SS.
-A-8 | Autopista del Cantábrico. | Enlace de Añorga (Donostia-SS). | Enlace de Herrera (Donostia-SS). | 5,27 | Variante de Donostia-SS.
-A-8 | Autopista del Cantábrico. | Basauri. | Barakaldo (Cruces). | 12,13 | Solución Sur de Bilbao.
-A-8 | Autopista del Cantábrico. | Barakaldo (Cruces). | Límite Cantabria. | 16,76 | Solución Ugaldebieta.
-A-8 | Segundo cinturón de Donostia/San Sebastián. | A-8 en Aritzeta. | A-8 en Rentería. | 14,50 | 
-N-634 | De Donostia-SS a Santander y La Coruña. | Donostia-SS (Recalde N-I). | Atxuri. | 110,96 | 
-N-634 (*) | De Donostia-SS a Santander y La Coruña. | Basurto (Bilbao). | Límite Cantabria. | 22,01 | Una vez puesta en servicio, el itinerario Nocedal-Vte. de Zorrotza se considerará a todos los efectos N-634.
-N-637 | De Cruces (intercambiador a Erletxes por el puente de Rontegui). | Enlace de Cruces. | Entronque BI-604. | 3,82 | 
-N-637 | De Cruces (intercambiador a Erletxes por el puente de Rontegui). | Entronque BI-604. | Entronque N-633 (Derio). | 6,73 | 
-N-637 (*) | De Cruces (intercambiador) a Erletxes por el puente de Rontegui). | Entronque N-633 (Derio). | Erletxes. | 9,64 | Corredor Txorierri (In cluye variante de Larrabetzu).
-N-633 | Acceso Este al aeropuerto de Bilbao. | N-637. | Aeropuerto. | 4,66 | 
-N-633 | Acceso Oeste al aeropuerto de Bilbao. | Aeropuerto. | BI-637. | 5,05 | 
-N-644 | Autovía del puerto. | A-8. | Puerto de Bilbao. | 2,86 | 
-N-639 | Acceso al puerto por Zierbena. | Puerto de Bilbao (Abra Exterior). | N-634. | 8,44 | 
-BI-637 | De enlace de Erandio a Artaza. | Enlace N-637. | Artaza. | 5,42 | 
-BI-637 | De Artaza a Sopelana. | Artaza. | Sopelana. | 5,50 | Corredor de Uribe Kosta.
-BI-639 | De Uribe Kosta a A-8. | Artaza. | Enlace A-8. | 4,35 | Corredor de Lamiako.
-BI-633 | De Durango a Ondárroa por Trabakua. | Matiena (N-634). | Ondarroa. | 27,58 | 
-BI-635 | De Lemoa a Gernika. | Lemoa (N-240) . | Gernika. | 18,43 | 
-BI-625 | Acceso por el Norte a Bilbao (itinerario Orduña-Bilbao). | Cruce N-634. | Futura conexión Cornisa de Artxanda (La Salve). | 4,29 | 
-BI-625 | Cornisa de Artxanda (itinerario Orduña-Bilbao). | La Salve. | Ibarrekolanda (BI-604). | 2,46 | 
-BI-631 (*) | Variante Este de Bilbao. | A-8. | Conexión N-633 Sur. | 7,39 | 
-BI-631 | Corredor Mungia-Bermeo. | Conexión N-633 Norte. | Bermeo. | 24,75 | 
-BI-604 | Bilbao a Asua por Enekuri. | Variante baja de Deusto. | La Cadena (BI-2704). | 5,30 | Variante baja de Deusto-Ibarrekolanda.
+AP-8 | Autopista del Cantábrico. | Irun-Behobia. | El Gallo. | 105,90 | 
+AP-8 | Autopista del Cantábrico. | Enlace de Larraskitu. | Enlace del Puerto (Bizkaia). | 15,48 | Variante Sur Metropolitana (VSM). Tramo Enlace de Trapaga y Enlace del Puerto compartido con A-8
+A-8 | Autopista del Cantábrico. | El Gallo. | Enlace de Larraskitu. | 9,07 | –
+BI-10 | Autopista de Circunvalación de Bilbao por el sur. | Enlace de Larraskitu. | Enlace de Trapaga. | 11,31 | –
+A-8 | Autopista del Cantábrico. | Enlace de Trapaga. | L.P. Cantabria. | 9,63 | Tramo Enlace de Trapaga y Enlace del Puerto compartido con AP-8.
+GI-20 | Variante de Donostia-San Sebastián. | Enlace con AP-8 en Errenteria. | Enlace con AP-8 en Aritzeta. | 15,57 | –
+GI-40 | Ronda Intxaurrondo-Martutene-Hospitales. | Rotonda Garbera. | Conexión GI-20. | 3,82 | –
+N-634 (1) | De Donostia-San Sebastián a Santander y La Coruña. | Donostia-SS enlace GI-2132 Errekalde (San Sebastián). | Ibarsusi (Bilbao). | 108,69 | –
+N-634 | De Donostia-San Sebastián a Santander y La Coruña. | Nocedal BI-628 (Ortuella). | L.P. Cantabria. | 9,67 | –
+BI-628 | Eje del Ballonti. | Carmen. | Portugalete. | 4,67 | –
+BI-628 | Eje del Ballonti. | Balparda. | Nocedal. | 1,62 | –
+BI-30 | Circunvalación norte de Bilbao. | Enlace de Cruces. | Erletxes. | 20,15 | –
+N-633 | Acceso al aeropuerto de Loiu por Aldekoe. | BI-30 (Enlace de Derio). | Aeropuerto. | 4,42 | –
+N-644 | Autovía del puerto. | A-8. | Puerto de Bilbao. | 2,73 | –
+N-639 | Acceso al puerto por Zierbena. | Puerto de Bilbao (Abra Exterior). | N-634. | 8,19 | –
+BI-637 | De Kukularra a Sopelana. | Bi-30 (Enlace de Kukularra). | Sopelana. | 10,45 | –
+BI-633 | De Durango a Ondarroa por Trabakua. | Matiena (N-634). | Ondarroa. | 27,67 | –
+BI-635 | De Lemoa a Gernika. | Lemoa. | Gernika (Bi-2238). | 17,05 | Tramo pk 21+000--23+960 cedido
+BI-20 (1) | Circunvalación este de Bilbao. | BI-10 (Enlace de Larraskitu). | BI-30 (Enlace de Derio). | 8,26 | Tramo en la zona de Bolueta, entre Miraflores Ibarsusi, cedido.
+BI-631 | De N-633 a Bermeo. | Conexión N-633 (Derio). | Bermeo (Bi-2235). | 25,93 | –
+BI-11 | Acceso a Bilbao por el Norte (Asua-Enekuri). | Bilbao. | La Cadena. | 4,78 | –
 C. Corredor del Ebro
-Código | Denominación | Comienzo | Final | Longitud km | Observaciones
-A-68 | Autopista Bilbao-Zaragoza. | Enlace A-8 (Solución Sur). | Límite Rioja. | 77,00 | Concesión de la Admón. del Estado.
-N-124 | De Vitoria-Gasteiz a Logroño por Haro. | Armiñón (N-I). | Briñas (límite Rioja). | 14,38 | 
-A-124 | De Briñas a Logroño por Laguardia (tramo T.H. de Álava). | L.C. La Rioja (Briñas). | L.C. La Rioja. | 27,76 | A excepción del tramo de San Vicente de la Sonsierra.
-Téngase en cuenta que se declara inconstitucional y nula la inclusión de la autopista A-68, con comienzo en el enlace A-8 (Solución Sur) y fin en el límite de La Rioja, por Sentencia del TC 168/2009, de 9 de julio. Ref. BOE-A-2009-13321
+N-124 | De Vitoria-Gasteiz a Logroño por Haro. | Intersección Puente Nuevo (A-I). | Briñas (L.P. Rioja). | 14,04 | –
+A-124 | De Briñas a Logroño por Laguardia (tramo T.H. de Álava). | L.P. La Rioja (Briñas). | L.P. La Rioja. | 27,93 | A excepción del tramo de La Rioja entre San Vicente de la Sonsierra y Samaniego
 D. Conexión Bizkaia-Burgos
-Código | Denominación | Comienzo | Final | Longitud km | Observaciones
-BI-636 (*) | De Bilbao a Reinosa. | Bilbao (A-8). | Límite provincia Burgos. | 29,13 | Corredor del Cadagua.
+BI-636 | Corredor del Kadagua. | BI-10 (Enlace de Kastresana). | L.P. Burgos. | 29,95 | –
 E. Conexión Bizkaia-Cantabria
-Código | Denominación | Comienzo | Final | Longitud km | Observaciones
-BI-630 | De Balmaseda a Carranza. | Balmaseda (BI-636) | Límite Cantabria | 24,48 | Se exceptúa el paso por el enclave de Trucíos (Cantabria)
+BI-630 | De Balmaseda a Carranza. | Balmaseda. | L.P. Cantabria. | 23,34 | Se exceptúa el paso por el enclave de Trucíos (Cantabria)
 F. Conexión Burgos-Santander
-Código | Denominación | Comienzo | Final | Longitud km | Observaciones
-N-629 | De Burgos a Santoña. | Límite Cantabria. | Límite Cantabria. | 4,96 | Término municipal de Lanestosa.
-G. Conexión Navarra-Gipuzkoa
-Código | Denominación | Comienzo | Final | Longitud km | Observaciones
-A-15 | Autovía Irurtzun-Aduna. | Límite Navarra (Berastegi-Urto). | Aduna (N-I). | 17,32 | 
-H. Conexión Álava-Navarra
-Código | Denominación | Comienzo | Final | Longitud km | Observaciones
-A-132 | De Vitoria-Gasteiz a Lumbier por Tafalla y Estella. | N-104 en Elorriaga | Límite Navarra en Sta. Cruz de Campezo. | 37,88 | 
-I. Conexión Álava-Bizkaia
-Código | Denominación | Comienzo | Final | Longitud km | Observaciones
-N-622 | De Vitoria-Gasteiz a Bilbao por la autopista A-68. | Puente s/ la Avd. Zadorra en Vitoria-Gasteiz. | Altube (A-68). | 19,35 | 
-N-240 | De Tarragona a Bilbao por el puerto de Barazar. | Vitoria-Gasteiz en Gamarra Mayor. | Galdakao (El Gallo N-634). | 50,74 | 
-BI-625 | De Orduña a Bilbao. | Límite Álava. | Cruce N-634. | 17,76 | Incluye tramo de Orduña.
-A-625 | De Orduña a Bilbao. | Límite Álava en Areta. | Límite Bizkaia. | 21,03 | Incluye variante de Amurrio.
-A-623 | De Vitoria-Gasteiz a Durango. | Legutiano (N-240). | Límite Bizkaia en Gomilaz. | 6,04 | 
-BI-623 | De Vitoria-Gasteiz a Durango. | Límite Álava en Gomilaz. | Durango (N-634). | 20,86 | 
-N-624 | Acceso al aeropuerto de Foronda. | Enlace N-622. | Aeropuerto de Foronda. | 3,48 | 
-J. Conexión Álava-Gipuzkoa
-Código | Denominación | Comienzo | Final | Longitud km | Observaciones
-A-627 | De Vitoria-Gasteiz a Eibar. | N-240. | Límite Gipuzkoa. | 5,36 | 
-GI-627 | De Vitoria-Gasteiz a Eibar. | Límite Álava. | Eibar (Maltzaga). | 38,29 | 
-K. Conexión Álava-Cantabria
-Código | Denominación | Comienzo | Final | Longitud km | Observaciones
-A-624 | De Altube a Balmaseda (tramo del T.H. de Álava). | N-622. | L.P. Burgos. | 38,39 | 
-BI-624 | De Altube a Balmaseda (tramo del T.H. de Bizkaia). | L.P. Burgos. | Balmaseda (BI-636). | 2,64 | 
-L. Conexión Gipuzkoa-Bizkaia
-Código | Denominación | Comienzo | Final | Longitud km | Observaciones
-N-636 (*) | De Beasain a Durango por Kanpazar. | Beasain (N-I). | Límite de Bizkaia. | 35,35 | Entre Bergara y Mondragón N-636 coincide con A-1
-N-636 (*) | De Beasain a Durango por Kanpazar. | Límite Gipuzkoa. | Durango. | 16,24 | 
-BI-638 | De Deba a Ondárroa. | Límite Gipuzkoa. | Ondarroa. | 1,24 | 
-GI-638 | De Deba a Ondárroa. | Deba (N-634). | Límite Bizkaia. | 7,90 | 
-GI-631 | De Zumaia a Zumarraga. | Zumaia (N-634). | Zumarraga (GI-632). | 34,50 | 
-(*) En los casos señalados con asterisco, la red objeto del plan se refiere a la carretera existente, que adoptará la denominación correspondiente al código nuevo, pero en el momento de construirse la carretera de nuevo trazado ésta se- rá la que adopte el reseñado código, quedando la antigua con la denominación y/o servicio que al efecto se establezca.
+N-629 | De Burgos a Santoña. | L.P. Cantabria. | L.P. Cantabria. | 3,87 | Término municipal de Lanestosa. Gestión del Ministerio de Fomento
+G. Conexión Álava-Navarra
+A-132 | De Vitoria-Gasteiz a Lumbier por Tafalla y Estella. | Glorieta conexión Salburua. | L.P. Navarra en Sta. Cruz de Campezo. | 38,49 | –
+H. Conexión Álava-Bizkaia
+VG-31 | Acceso Vitoria-Gasteiz a Bilbao por la autopista AP-68. | Puente s/ la Avd. Zadorra en Vitoria-Gasteiz. | Enlace de Yurre (A-1). | 0,90 | –
+N-622 | De Vitoria-Gasteiz a Bilbao por la autopista AP-68. | Enlace de Yurre (A-1). | Altube (AP-68). | 18,45 | –
+VG-41 | Acceso Vitoria- Gasteiz a Bilbao por Barazar. | Vitoria-Gasteiz en Gamarra Mayor. | Enlace de Luko (AP-1). | 5,54 | –
+N-240 | De Tarragona a Bilbao por el puerto de Barazar. | Enlace de Luko (AP-1). | Galdakao (El Gallo N-634). | 45,89 | –
+BI-625 | De Orduña a Bilbao. | Orduña. | L.P. Álava. | 2,96 | –
+BI-625 | De Orduña a Bilbao. | L.P. Álava. | N-634. | 14,77 | –
+A-625 | De Orduña a Bilbao. | L.P. Bizkaia en Orduña. | L.P. Bizkaia en Areta. | 19,79 | –
+A-623 | De Vitoria-Gasteiz a Durango. | Legutio (N-240). | L.P. Bizkaia en Gomilaz. | 6,04 | –
+BI-623 | De Vitoria-Gasteiz a Durango. | L.P. Álava en Gomilaz. | Durango (N-634). | 20,86 | –
+N-624 | Acceso al aeropuerto de Foronda. | Intersección A-3606 (Glorieta de Foronda). | Aeropuerto de Foronda. | 1,88 | –
+I. Conexión Álava-Gipuzkoa
+A-627 | De Vitoria-Gasteiz a Eibar. | N-240. | L.P. Gipuzkoa. | 5,40 | 
+GI-627 | De Vitoria-Gasteiz a Eibar. | L.P. Álava. | Eibar (Maltzaga). | 33,85 | Solapa con la N-636 entre Bergara y Mondragón.
+J. Conexión Álava-Cantabria
+A-624 | De Altube a Balmaseda (tramo del T.H. de Álava). | N-622. | L.P. Burgos en Antuñano. | 38,56 | –
+BI-624 | De Altube a Balmaseda (tramo del T.H. de Bizkaia). | L.P. Burgos. | Balmaseda (BI-636). | 2,58 | –
+K. Conexión Gipuzkoa-Bizkaia
+AP-636 | De Beasain a Durango por Kanpanzar. | Beasain (N-I). | Bergara (GI-627). | 22,34 | –
+N-636 | De Beasain a Durango por Kanpanzar. | Bergara (GI-627). | Durango (Gederiaga). | 25,10 | Solapa con GI-627 de Bergara a Mondragón.
+BI-638 | De Deba a Ondarroa. | L.P. Gipuzkoa. | Ondarroa. | 0,90 | –
+GI-638 | De Deba a Ondarroa. | Deba (N-634). | L.P. Bizkaia. | 7,90 | –
+(1) El tramo Ibarsusi-Miraflores forma parte de la Circunvalación Este. El tramo Ibarsusi-Miraflores se incorporará al catálogo una vez ejecutada la actuación prevista en el III Plan General de Carreteras.
+Se modifica por el art. 10 de la Ley 5/2018, de 29 de noviembre, en la forma recogida en su anexo. Ref. BOE-A-2019-3701
 Se declara inconstitucional y nula la inclusión de la autopista A-1, Burgos-Cantábrico (Maltzaga), en el tramo comprendido entre el límite de Álava y Armiñón y de la autopista A-68, con comienzo en el enlace A-8 (Solución Sur) y fin en el límite de La Rioja, por Sentencia del TC 168/2009, de 9 de julio. Ref. BOE-A-2009-13321
 Se sustituye por el art. único de la Ley 5/2002, de 4 de octubre, en la forma recogida en su anexo I. Ref. BOE-A-2011-19054
 Se sustituye por el art. 3 de la Ley 2/1991, de 8 de noviembre, en la forma recogida en su anexo. Ref. BOE-A-2012-2679
