@@ -1,0 +1,2 @@
+Disposición transitoria.
+En los supuestos de revisiones o de modificaciones puntuales de instrumentos de ordenación territorial y urbanística cuyo objeto sea habilitar la implantación o ampliación de grandes establecimientos comerciales, serán de aplicación las disposiciones de esta ley a aquellos instrumentos que no hayan sido aprobados provisionalmente, o inicialmente en el supuesto de que la tramitación correspondiente no exija la aprobación provisional, a la fecha de la entrada en vigor de la presente ley.
