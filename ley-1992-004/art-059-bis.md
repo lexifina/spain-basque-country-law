@@ -1,0 +1,5 @@
+Artículo 59 bis.
+1. El acceso a la escala de facultativos y técnicos de la Ertzaintza se efectuará mediante los sistemas de oposición, concurso o concurso-oposición como promoción interna del personal funcionario de la Ertzaintza. No obstante, de no proveerse las vacantes por promoción interna, se podrá proceder a su convocatoria en turno libre.
+2. Para el acceso a la escala de facultativos y técnicos de la Ertzaintza desde alguna de las otras escalas de la Ertzaintza, deberá hallarse en situación de servicio activo en alguna de ellas, haber completado dos años de servicios efectivos en el mismo y no haber sido sancionado por la comisión de falta grave o muy grave, salvo que se hubiera obtenido la cancelación de la sanción impuesta.
+3. El personal que acceda a la escala de facultativos y técnicos de la Ertzaintza podrá participar en las convocatorias de provisión de puestos y de promoción interna relativas a la categoría que tuviera antes de acceder a la escala de facultativos y técnicos.
+Se añade por el art. único.22 de la Ley 7/2019, de 27 de junio. Ref. BOE-A-2019-10597

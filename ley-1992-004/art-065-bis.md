@@ -1,0 +1,6 @@
+Artículo 65 bis.
+1. La cobertura de puestos de trabajo con requisito de especialidad se llevará a cabo mediante los procedimientos de provisión de puestos previstos entre quienes dispongan de la correspondiente especialidad.
+Cuando las convocatorias de cursos de especialidad se realicen conjuntamente entre la Academia Vasca de Policía y Emergencias y la Administración competente, la participación en las mismas supondrá la asignación de quienes superasen dicha formación a las vacantes existentes con tal especialidad hasta su provisión definitiva.
+2. Quienes hayan superado el curso de especialización correspondiente estarán obligados a presentarse al primer procedimiento de provisión de puestos que se produzca desde tal superación y a solicitar con carácter preferente todas aquellas vacantes que requieran dicha especialización. De no hacerlo así, podrán ser adscritos con carácter forzoso a cualquiera de tales vacantes.
+3. Los puestos con requisito de especialidad podrán estar sujetos a un período especial de permanencia mínima y máxima en su desempeño determinado en la relación de puestos de trabajo.
+Se añade por el art. único.28 de la Ley 7/2019, de 27 de junio. Ref. BOE-A-2019-10597

@@ -1,0 +1,3 @@
+Disposición adicional vigesimoprimera.
+Los funcionarios y funcionarias de la Policía del País Vasco que se encuentren en situaciones distintas del servicio activo, así como quienes hayan perdido la condición funcionarial por jubilación, que deban acudir a juicio como testigos o peritos por razón de hechos o investigaciones relacionadas con el tiempo en que estuvieron en servicio activo, tendrán derecho a las indemnizaciones por razón del servicio previstas para el funcionariado en activo. A los efectos de facilitar su asistencia a juicio deberán comunicar a la Administración su domicilio actual.
+Se añade por el art. único.69 de la Ley 7/2019, de 27 de junio. Ref. BOE-A-2019-10597
