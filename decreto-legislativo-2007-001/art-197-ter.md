@@ -5,6 +5,8 @@ Si el buque se encuentra consignado, será sujeto pasivo sustituto la empresa co
 3. El devengo de la tasa coincidirá con el devengo de la tasa correspondiente por la utilización, por los buques o embarcaciones, de las aguas de la zona de servicio del puerto y de las obras e instalaciones portuarias que permiten el acceso marítimo al puesto de atraque y fondeo y su estancia en ellos. Ambas tasas se liquidarán simultáneamente.
 4. Constituye la base imponible de esta tasa, en el caso de que exista contador, el número de unidades suministradas. En caso contrario, la superficie en metros cuadrados resultante del producto de la eslora total de la embarcación por la manga máxima, multiplicado a su vez por el tiempo de estancia en fondeo o atraque.
 5. Las cuotas de la tasa son las siguientes:
-5.1 Agua: 1,70 euros por cada metro cúbico (m3). Energía eléctrica: 0,20 euros por cada kilovatio/hora (kWh).
-5.2 Si no existe contador, la cuota por el consumo de agua y energía eléctrica es de 0,01 euros/m3 y día. Si el consumo se realiza en el área de carenado, la cuota es de 10 euros/día.
+5.1 Agua: 1,80 euros por cada metro cúbico.
+Energía eléctrica: 0,35 euros por cada kilovatio/hora.
+5.2 Si no existe contador, la cuota por el consumo de agua y energía eléctrica es de 0,015 euros/m2 y día. Si el consumo se realiza en el área de carenado, la cuota es de 10,15 euros/día.
+Se modifica el apartado 5 por la disposición final 1.24 de la Ley 13/2019, de 27 de diciembre. Ref. BOE-A-2020-617
 Se añade por la disposición final 1 de la Ley 2/2018, de 28 de junio. Ref. BOE-A-2018-11064#df
