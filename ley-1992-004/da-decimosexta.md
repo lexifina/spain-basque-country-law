@@ -1,3 +1,0 @@
-Disposición adicional decimosexta.
-(Suprimida)
-Se suprime por el art. único.72 de la Ley 7/2019, de 27 de junio. Ref. BOE-A-2019-10597

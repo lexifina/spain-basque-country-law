@@ -1,3 +1,0 @@
-Disposición adicional decimoséptima.
-(Derogada)
-Se deroga por la disposición derogatoria.d) de la Ley 15/2012, de 28 de junio. Ref. BOE-A-2012-9665.

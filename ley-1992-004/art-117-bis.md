@@ -1,4 +1,0 @@
-Artículo 117 bis.
-1. Los ayuntamientos que cuenten con Cuerpo de Policía local podrán, cuando existan necesidades eventuales que así lo requieran, nombrar funcionarios interinos con funciones de auxiliar de policía para complementar a la Policía local en el desempeño de las funciones comprendidas en los párrafos d) e i) del artículo 27.1 de esta ley, así como la de colaborar con la Policía local en la ordenación del tráfico en casco urbano en municipios que no cuenten con agentes de movilidad.
-2. Para el desempeño de sus funciones, los auxiliares de Policía local deberán vestir el uniforme correspondiente al Cuerpo de Policía local, sin placa-emblema, ni distintivo alguno en las hombreras, y haciendo constar su condición de auxiliar de policía visiblemente, tanto en la uniformidad como en el documento de acreditación profesional.
-Se añade por el art. único.63 de la Ley 7/2019, de 27 de junio. Ref. BOE-A-2019-10597
