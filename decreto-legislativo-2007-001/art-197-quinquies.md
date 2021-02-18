@@ -15,26 +15,26 @@ a) Superficie no edificada: 12,88 euros/m2/año.
 b) Superficie edificada: 25,71 euros/m2/año.
 c) Superficie edificada en áreas portuarias de uso náutico recreativo: 7,09 euros/m2/mes.
 En los casos a) y b) se establece un coeficiente reductor del 25 % en los puertos que se detallan a continuación:
-Armintza.
-Deba.
-Ea.
-Elantxobe.
-Lekeitio.
-Mundaka.
-Mutriku.
-Orio.
-Plentzia.
-Zumaia.
-En el caso c) se establece un coeficiente reductor del 50 % en los puertos que se detallan a continuación:
-Armintza.
-Deba.
-Ea.
-Elantxobe.
-Mundaka.
-Mutriku.
-Ondarroa.
-Orio.
-Plentzia.
+– Armintza.
+– Deba.
+– Ea.
+– Elantxobe.
+– Lekeitio.
+– Mundaka.
+– Mutriku.
+– Orio.
+– Plentzia.
+– Zumaia.
+En el caso c) se establece un coeficiente reductor del 65 % en los puertos que se detallan a continuación:
+– Armintza.
+– Deba.
+– Ea.
+– Elantxobe.
+– Mundaka.
+– Mutriku.
+– Ondarroa.
+– Orio.
+– Plentzia.
 5.1.2 Cuando las instalaciones objeto de concesión estén situadas bajo tierra y no impidan la libre circulación por la superficie, se aplicarán las cuotas correspondientes a la ocupación de superficie no edificada con una reducción del 50 %. En canalizaciones enterradas se cuantificará, como mínimo, un m2 por metro lineal de canalización.
 5.1.3 Cuando el destino de la ocupación sea el desarrollo de una actividad comercial o industrial no relacionada directamente con la prestación de actividad portuaria, se aplicarán las cuotas establecidas en el apartado 5.1.1 con un incremento del 50 %.
 No obstante, este incremento será del 20 % cuando se trate de superficies edificadas para uso comercial en áreas portuarias náutico deportivas en el puerto de Hondarribia.
@@ -53,9 +53,11 @@ b) No relacionada con las actividades portuarias: 0,472920 euros/m2/día.
 Las concesiones y autorizaciones otorgadas con anterioridad, cuyo título contemple la cláusula de revisión de precios, se revisarán, cuando dicha cláusula se refiera a esta ley o a otro indicador distinto del índice de precios al consumo, conforme a lo indicado en el párrafo anterior, y cuando la cláusula se refiera al índice de precios al consumo se revisarán en función de las variaciones experimentadas por este índice.
 5.4 En el supuesto de que la Administración portuaria convocara concursos para el otorgamiento de concesiones o autorizaciones, los pliegos de bases podrán contener, entre los criterios para su resolución, que los licitadores oferten importes adicionales a los establecidos para esta tasa. Las cantidades adicionales ofertadas, al carecer de naturaleza tributaria, no estarán sometidas al régimen de actualización previsto en el apartado 5.3 anterior.
 5.5 Cuando la autorización tenga por objeto la realización de eventos deportivos y lúdicos, la determinación de la cuantía de la tasa será proporcional a las horas de ocupación efectiva durante el día que se celebren, aplicándose el prorrateo correspondiente al importe obtenido según los apartados anteriores de este artículo. A estos efectos, el acta remitida por el personal de la delegación territorial determinará la hora de comienzo y finalización de la ocupación real.
-6. Las corporaciones locales gozarán de exención en las concesiones y autorizaciones que se les otorguen, siempre que estas no sean objeto de explotación lucrativa por sí o por terceras personas.
-Las cofradías de pescadores y las organizaciones de productores gozarán de exención de las autorizaciones cuando soliciten ocupación de terrenos en dominio público portuario para destinarlo a la construcción y posterior explotación de edificios para la manipulación de redes, instalaciones para la limpieza de tinas o cajas, fábricas de hielo, lonjas de recepción, exposición, manipulación o venta de pescado o plantas congeladoras y de almacenamiento de pescado y sotos de almacenamiento y reparación de pertrechos.
+6.Las corporaciones locales gozarán de exención en las concesiones y autorizaciones que se les otorguen, siempre que estas no sean objeto de explotación lucrativa por sí o por terceras personas.
+Las cofradías de pescadores y las organizaciones de productores gozarán de exención en las concesiones de ocupación de dominio público portuario cuando tengan por objeto la construcción y posterior explotación de edificios para la manipulación de redes, instalaciones para la limpieza de tinas o cajas, fábricas de hielo, lonjas de recepción, exposición, manipulación o venta de pescado o plantas congeladoras y de almacenamiento de pescado y sotos de almacenamiento y reparación de pertrechos. La transmisión de la concesión o la finalización del tiempo previsto de amortización del edificio e instalaciones determinarán la no aplicación de esta exención.
 7. Las entidades sin ánimo de lucro declaradas de utilidad pública gozarán de exención en las autorizaciones que se les otorguen para aquellas actividades en las que la ocupación y utilización del dominio público portuario no lleve aparejada una utilidad económica.
-8. En los supuestos de ocupación o utilización del dominio público portuario sin título, la cuota a aplicar será la correspondiente a las autorizaciones incrementada en un 100 %.»
+8. En los supuestos de ocupación o utilización del dominio público portuario sin título, la cuota a aplicar será la correspondiente a las autorizaciones incrementada en un 100 %.
+9. En los supuestos en los que la actividad comercial o industrial para cuyo ejercicio ha sido otorgado el título habilitante para la ocupación o utilización del dominio público portuario se vea interrumpida o suspendida por días completos, atendiendo las disposiciones de carácter general y de obligado cumplimiento aprobadas por las administraciones públicas, la determinación de la cuota de la tasa exigible será proporcional al período no interrumpido o suspendido de la actividad.
+Se modifican los apartados 5.1.1, 6 y se añade el apartado 9 por la disposición final 1.10 a 12 de la Ley 1/2021, de 11 de febrero. Ref. BOE-A-2021-3764
 Se modifican los apartados 4 a 6 por la disposición final 1.26 a 32 de la Ley 13/2019, de 27 de diciembre. Ref. BOE-A-2020-617
 Se añade por la disposición final 1 de la Ley 2/2018, de 28 de junio. Ref. BOE-A-2018-11064#df
