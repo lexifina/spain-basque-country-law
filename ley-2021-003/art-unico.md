@@ -1,0 +1,26 @@
+Artículo único. Creación de Aukerak, Agencia Vasca de Reinserción Social.
+1. El objeto de la presente ley es la creación de Aukerak, Agencia Vasca de Reinserción Social, como ente público de derecho privado adscrito al departamento competente en materia de ejecución de la legislación penitenciaria, con sede en Vitoria-Gasteiz.
+2. Aukerak se regirá por las disposiciones legales aplicables a los entes públicos de derecho privado y por sus estatutos, que serán aprobados por decreto del Gobierno Vasco a propuesta del departamento del Gobierno Vasco competente en materia de ejecución de la legislación penitenciaria.
+3. Aukerak tendrá como finalidad facilitar la inclusión socio-laboral de las personas internas en los establecimientos/centros penitenciarios de Euskadi. Para la consecución de sus fines, corresponden a Aukerak las siguientes funciones:
+a) Organizar el trabajo productivo en los centros penitenciarios y su retribución, gestionando talleres productivos, explotaciones agrícolas, así como los servicios auxiliares de los centros penitenciarios o de inserción que se les encomiende.
+b) Realizar actividades industriales, comerciales o análogas y, en general, cuantas operaciones se relacionen con el trabajo penitenciario o se le encomienden por las Administraciones públicas, para el cumplimiento de los fines que le son propios.
+c) Promover la formación profesional de las personas privadas de libertad.
+d) Promover la orientación para el empleo en la última fase de la condena o en el régimen de semilibertad y colaborar con otras instituciones o entidades en la continuidad del itinerario de inserción sociolaboral de dichas personas.
+e) Otras que les atribuya el ordenamiento jurídico atendiendo a su finalidad.
+4. Son órganos de gobierno de Aukerak la Presidencia, el Consejo de Administración y la Dirección.
+La Presidencia corresponde a la consejera o consejero del departamento del Gobierno Vasco competente en materia de ejecución de la legislación penitenciaria, y ostenta la máxima representación del ente.
+El Consejo de Administración es el órgano de superior dirección y control del ente, y estará integrado, además de por la Presidencia y la Dirección, por un número de vocalías no inferior a cuatro ni superior a ocho, nombradas por el Consejo de Gobierno.
+La Dirección asume la dirección ordinaria del ente y será nombrada por el Gobierno Vasco a propuesta del Consejo de Administración, con consideración de alto cargo y rango de directora o director.
+Los estatutos del ente desarrollarán las funciones, composición y nombramiento de los citados órganos de gobierno, así como su régimen de funcionamiento.
+5. Los puestos de trabajo de Aukerak serán desempeñados por personal contratado al efecto y por personal de la Administración General de la Comunidad Autónoma de Euskadi o entidades dependientes de ella, según la naturaleza de las funciones asignadas a cada puesto de trabajo.
+Los puestos de trabajo que comporten el ejercicio de potestades públicas o la salvaguarda de intereses generales estarán reservados a personal funcionario, que estará sometido a la normativa reguladora de la función pública de la Administración general de la Comunidad Autónoma.
+El personal contratado al servicio de la agencia se regirá por el Derecho laboral. La contratación de personal se realizará mediante las correspondientes pruebas de selección establecidas y convocadas por la agencia, con arreglo a los principios de publicidad, igualdad, mérito y capacidad.
+6. Aukerak cuenta para el cumplimiento de sus fines con los siguientes recursos económicos:
+a) La dotación inicial del ente, más los incrementos que en su fondo social se produzcan.
+b) Las asignaciones que se establezcan anualmente con cargo a los Presupuestos Generales de la Comunidad Autónoma de Euskadi.
+c) Las subvenciones, aportaciones de otras administraciones públicas, donaciones, herencias y legados que se concedan a su favor.
+d) Los ingresos derivados de los bienes y derechos integrados en su patrimonio y los ingresos, ordinarios y extraordinarios, derivados del ejercicio de sus actividades.
+e) Cualesquiera otros recursos que puedan serle atribuidos.
+7. Para el cumplimiento de sus funciones Aukerak podrá realizar los actos de administración y disposición y las operaciones económicas y financieras que resulten necesarias, celebrar los convenios y contratos y aprobar las bases reguladoras y la concesión de subvenciones relacionadas con materias de su competencia.
+8. El régimen económico, patrimonial, de contratación, presupuestario, financiero y de control económico y contable de la agencia será el previsto en las disposiciones legales aplicables a los entes públicos de derecho privado. El control económico de la agencia se ejercerá en la modalidad de control económico-financiero y de gestión de carácter permanente, de acuerdo con lo establecido en el Decreto Legislativo 2/2017, de 19 de octubre, por el que se aprueba el texto refundido de la Ley de Control Económico y Contabilidad de la Comunidad Autónoma de Euskadi, y su normativa de desarrollo.
+9. Aukerak podrá tener la consideración de medio propio de las administraciones públicas vascas y el sector público dependiente o vinculado a ellas, en los términos que expresen los estatutos de la agencia y la legislación de contratos del sector público.
