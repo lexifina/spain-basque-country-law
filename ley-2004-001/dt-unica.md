@@ -1,2 +1,0 @@
-Disposición transitoria única. Convocatorias en curso.
-Los funcionarios que accedan a la función pública de la Administración general de la Comunidad Autónoma de Euskadi y sus organismos autónomos mediante las convocatorias en curso quedarán integrados en el cuerpo y, en su caso, escala u opción correspondiente a la plaza a la que optan de acuerdo con los criterios establecidos en la presente ley.
