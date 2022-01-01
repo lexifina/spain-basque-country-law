@@ -1,5 +1,6 @@
 Artículo 111 undecies. Exenciones.
-Están exentos del pago de la tasa sus organizadores cuando se trate de administraciones públicas, así como las entidades sin ánimo de lucro.
+Están exentos del pago de la tasa sus organizadores cuando se trate de administraciones públicas, así como las entidades sin ánimo de lucro y los eventos deportivos femeninos.
 A estos efectos se entiende por entidades sin ánimo de lucro las fundaciones, las asociaciones declaradas de utilidad pública y las organizaciones del voluntariado formalmente constituidas y registradas, siempre que persigan fines de interés general y destinen los ingresos que obtengan por la organización del evento al cumplimiento de los fines estatutarios o del objeto de la entidad.
-Las federaciones deportivas, las entidades deportivas asociativas y los clubes deportivos estarán exentos del pago de la tasa cuando, conforme a su normativa, no dispongan de ánimo lucrativo, la celebración del evento resulte gratuita para el público asistente y no obtengan por patrocinios u otros conceptos un beneficio superior a los gastos organizativos.
+Las federaciones deportivas, las entidades deportivas asociativas y los clubes deportivos estarán exentos del pago de la tasa cuando, conforme a su normativa, no dispongan de ánimo lucrativo, la celebración del evento resulte gratuita para el público asistente y no obtengan por patrocinios u otros conceptos unos ingresos superiores a los gastos organizativos, previa comprobación de la adecuación e idoneidad de los gastos incurridos para la celebración del evento.
+Se modifica por la disposición final 1.4 de la Ley 11/2021, de 23 de diciembre. Ref. BOE-A-2022-2177
 Se añade por la disposición final 2.4 de la Ley 10/2015, de 23 de diciembre. Ref. BOE-A-2016-729#dfsegunda

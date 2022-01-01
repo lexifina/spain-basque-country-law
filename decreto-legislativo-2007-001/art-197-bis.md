@@ -13,13 +13,14 @@ En el caso de personas con autorización, constituye la base imponible de esta t
 – Vehículos ligeros: 1,03 euros/hora o fracción, hasta un máximo de 10,25 euros/día.
 – Vehículos pesados: 3,08 euros/hora o fracción, hasta un máximo de 30,75 euros/día.
 5.1.3 En los puertos deportivos donde existan zonas de aparcamiento para uso preferente de amarristas del puerto, las cuantías a cobrar por la autorización de utilización del servicio de aparcamiento serán las siguientes:
-– En los puertos de Donostia/San Sebastián, Getaria, Bermeo y Mutriku: 66,27 euros/año.
-– En los puertos de Hondarribia y Orio: 93,01 euros/año.
-– Para vehículos de amarristas en tránsito o de paso: 5,21 euros/día.
+– En los puertos de Getaria, Bermeo y Mutriku: 67,26 euros/año.
+– En los puertos de Donostia/San Sebastián, Hondarribia y Orio: 94,41 euros/año.
+– Para vehículos de amarristas en tránsito o de paso: 5,29 euros/día.
 5.2 Por la emisión de tarjeta de acceso al puerto o su posterior sustitución en caso de pérdida o deterioro:
 – Tarjeta magnética: 40,25 euros.
 – Tarjeta no magnética: 7,09 euros.
 5.3 Por cada retirada de vehículos mal estacionados: 55,96 euros.
+Se modifica el apartado 5.1.3 por la disposición final 1.7 de la Ley 11/2021, de 23 de diciembre. Ref. BOE-A-2022-2177
 Se modifican los apartados 2, 4 y 5.1.3 por la disposición final 1.7 a 9 de la Ley 1/2021, de 11 de febrero. Ref. BOE-A-2021-3764
 Se modifica el apartado 5 por la disposición final 1.23 de la Ley 13/2019, de 27 de diciembre. Ref. BOE-A-2020-617
 Se añade por la disposición final 1 de la Ley 2/2018, de 28 de junio. Ref. BOE-A-2018-11064#df

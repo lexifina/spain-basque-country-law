@@ -6,7 +6,7 @@ b) En supuestos de ocupación sin título: La persona ocupante.
 3. El devengo de la tasa se producirá:
 a) En el supuesto recogido en el apartado 2.a) de este artículo, cuando se otorguen los títulos de concesión o autorización, y el 1 de enero de cada año en las sucesivas anualidades de vigencia de la concesión o autorización.
 b) En el supuesto recogido en el apartado 2.b) de este artículo, en el momento en que se produzca la ocupación.
-La liquidación se realizará en el momento del devengo. Cuando las concesiones y autorizaciones se otorguen por periodos anuales o superiores, la liquidación de la tasa se realizará por adelantado, en el mes de enero de cada año.
+La liquidación se realizará en el momento del devengo. Cuando las concesiones y autorizaciones se otorguen para actividades de hostelería por periodos inferiores al año o para la celebración de pruebas deportivas, la liquidación de la tasa se realizará en el mes siguiente al de finalización del periodo de ocupación o utilización del dominio público. Cuando las concesiones y autorizaciones se otorguen por periodos anuales o superiores, la liquidación de la tasa se realizará en los meses de julio y enero por los períodos de seis meses vencidos anteriores.
 4. Constituye la base imponible de esta tasa la superficie de dominio público portuario ocupada medida en metros cuadrados y la duración de la ocupación.
 5. Las cuotas de la tasa son las siguientes:
 5.1 Concesiones.
@@ -35,7 +35,7 @@ En el caso c) se establece un coeficiente reductor del 65 % en los puertos que s
 – Ondarroa.
 – Orio.
 – Plentzia.
-5.1.2 Cuando las instalaciones objeto de concesión estén situadas bajo tierra y no impidan la libre circulación por la superficie, se aplicarán las cuotas correspondientes a la ocupación de superficie no edificada con una reducción del 50 %. En canalizaciones enterradas se cuantificará, como mínimo, un m2 por metro lineal de canalización.
+5.1.2 Cuando las instalaciones objeto de concesión estén situadas bajo tierra y no impidan la libre circulación por la superficie, se aplicarán las cuotas correspondientes a la ocupación de superficie no edificada con una reducción del 50 %. En canalizaciones enterradas se cuantificará, como mínimo, un m2 por metro lineal de canalización. En las canalizaciones enterradas destinadas al abastecimiento y saneamiento de agua a cargo de entidades públicas se cuantificará, como mínimo, 0,20 m2 por metro lineal de canalización.
 5.1.3 Cuando el destino de la ocupación sea el desarrollo de una actividad comercial o industrial no relacionada directamente con la prestación de actividad portuaria, se aplicarán las cuotas establecidas en el apartado 5.1.1 con un incremento del 50 %.
 No obstante, este incremento será del 20 % cuando se trate de superficies edificadas para uso comercial en áreas portuarias náutico deportivas en el puerto de Hondarribia.
 5.1.4 Cuando el local objeto de la concesión se encuentre equipado y disponga de utillaje y maquinaria para el desarrollo de la actividad comercial o industrial que se vaya a desarrollar, se aplicará la cuota establecida en el apartado 5.1.1 con un incremento del 125 %.
@@ -48,7 +48,7 @@ No obstante, este incremento será del 20 % cuando se trate de superficies edifi
 a) Relacionada con las actividades portuarias: 0,240928 euros/m2/día.
 b) No relacionada con las actividades portuarias: 0,472920 euros/m2/día.
 5.2.2 Ejercicio de una actividad no comercial o industrial: 0,240928 euros/m2/día.
-5.2.3 Cuando se trate de una autorización para la ocupación o utilización de espacios en las zonas de almacenamiento que se determinen, la cuantía de la tasa llevará una reducción del 50 % de la cuota general.
+5.2.3 Cuando se trate de una autorización para la ocupación o utilización de espacios en las zonas de almacenamiento que se determinen, la cuantía de la tasa llevará una reducción del 50 % de la cuota general. En caso de ocupación o utilización de espacios en las zonas de almacenamiento para envases de pescado o para pertrechos de pesca, esta reducción será del 80 %.
 5.3 Las cuantías de las tasas correspondientes a las concesiones o autorizaciones se revisarán anualmente según la actualización de las tasas portuarias aprobada por la correspondiente ley.
 Las concesiones y autorizaciones otorgadas con anterioridad, cuyo título contemple la cláusula de revisión de precios, se revisarán, cuando dicha cláusula se refiera a esta ley o a otro indicador distinto del índice de precios al consumo, conforme a lo indicado en el párrafo anterior, y cuando la cláusula se refiera al índice de precios al consumo se revisarán en función de las variaciones experimentadas por este índice.
 5.4 En el supuesto de que la Administración portuaria convocara concursos para el otorgamiento de concesiones o autorizaciones, los pliegos de bases podrán contener, entre los criterios para su resolución, que los licitadores oferten importes adicionales a los establecidos para esta tasa. Las cantidades adicionales ofertadas, al carecer de naturaleza tributaria, no estarán sometidas al régimen de actualización previsto en el apartado 5.3 anterior.
@@ -58,6 +58,7 @@ Las cofradías de pescadores y las organizaciones de productores gozarán de exe
 7. Las entidades sin ánimo de lucro declaradas de utilidad pública gozarán de exención en las autorizaciones que se les otorguen para aquellas actividades en las que la ocupación y utilización del dominio público portuario no lleve aparejada una utilidad económica.
 8. En los supuestos de ocupación o utilización del dominio público portuario sin título, la cuota a aplicar será la correspondiente a las autorizaciones incrementada en un 100 %.
 9. En los supuestos en los que la actividad comercial o industrial para cuyo ejercicio ha sido otorgado el título habilitante para la ocupación o utilización del dominio público portuario se vea interrumpida o suspendida por días completos, atendiendo las disposiciones de carácter general y de obligado cumplimiento aprobadas por las administraciones públicas, la determinación de la cuota de la tasa exigible será proporcional al período no interrumpido o suspendido de la actividad.
+Se modifican los apartados 3, último párrafo; 5.1.2 y 5.2.3 por la disposición final 1.13 a 15 de la Ley 11/2021, de 23 de diciembre. Ref. BOE-A-2022-2177
 Se modifican los apartados 5.1.1, 6 y se añade el apartado 9 por la disposición final 1.10 a 12 de la Ley 1/2021, de 11 de febrero. Ref. BOE-A-2021-3764
 Se modifican los apartados 4 a 6 por la disposición final 1.26 a 32 de la Ley 13/2019, de 27 de diciembre. Ref. BOE-A-2020-617
 Se añade por la disposición final 1 de la Ley 2/2018, de 28 de junio. Ref. BOE-A-2018-11064#df
