@@ -1,1 +1,1 @@
-Incluye la corrección de errores publicada en BOPV núm. 88, de 12 de mayo de 2005. Ref. BOE-A-2011-17781
+Esta norma pasa a denominarse "Ley para la Igualdad de Mujeres y Hombres y vidas libres de violencia machista contra las mujeres", según establece el art. 1 de la Ley 1/2022, de 3 de marzo. Ref. BOE-A-2022-4849
