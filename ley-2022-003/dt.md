@@ -1,0 +1,2 @@
+Disposición transitoria. Aplicación de esta ley a las fundaciones preexistentes del sector público de la Comunidad Autónoma de Euskadi.
+Las fundaciones que a la entrada en vigor de esta ley ya pertenecieran al sector público de la Comunidad Autónoma de Euskadi y que no cumplan alguna de las exigencias o condiciones previstas en esta ley dispondrán de un plazo de un año para adaptarse o, en su caso, iniciar los trámites para la consiguiente pérdida de la condición de pertenencia al sector público de la Comunidad Autónoma de Euskadi.
