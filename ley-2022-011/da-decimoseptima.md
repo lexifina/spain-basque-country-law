@@ -1,0 +1,4 @@
+Disposición adicional decimoséptima. Régimen de aseguramiento del personal funcionario.
+1. Al personal funcionario de nuevo ingreso en la Administración de la Comunidad Autónoma le será de aplicación el Régimen General de la Seguridad Social.
+2. El personal funcionario de otras administraciones que, en virtud de transferencias o por aplicación de los mecanismos de movilidad legalmente establecidos, se incorpore a las administraciones públicas vascas conservará el régimen de previsión social que tuviera originariamente, sin perjuicio de los cambios que pudieran producirse en el régimen de aseguramiento derivados de los procesos de movilidad, promoción o integración en los que hubiera podido participar dicho personal.
+3. Las administraciones públicas vascas procurarán la prestación de la asistencia sanitaria de su personal funcionario a través del sistema sanitario público, siempre que ello fuera posible en atención a su régimen de previsión social.

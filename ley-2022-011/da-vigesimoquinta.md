@@ -1,0 +1,2 @@
+Disposición adicional vigesimoquinta. Mesa general de negociación en el ámbito del sector público de la Administración de la Comunidad Autónoma de Euskadi.
+En el ámbito del sector público de la Administración de la Comunidad Autónoma de Euskadi, se constituye la mesa general a los efectos de la negociación colectiva del personal funcionario, estatutario y laboral del sector público de la Administración de la Comunidad Autónoma del País Vasco.

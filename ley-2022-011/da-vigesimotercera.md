@@ -1,0 +1,2 @@
+Disposición adicional vigesimotercera. Relación de puestos de trabajo de personal eventual.
+En el plazo improrrogable de doce meses desde la entrada en vigor de esta ley, los órganos de gobierno de las administraciones públicas vascas, así como sus entes dependientes, determinarán el número de puestos de trabajo reservados a su cobertura por personal eventual en su relación de puestos de trabajo, así como la dotación presupuestaria correspondiente.

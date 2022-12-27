@@ -1,0 +1,3 @@
+Disposición adicional decimosexta. Medidas de acción positiva en el acceso al empleo público a favor de las víctimas de terrorismo.
+1. El personal incluido en el ámbito de aplicación previsto en el artículo 3 de esta ley tiene los derechos reconocidos en el artículo 24 de la Ley 4/2008, de 19 de junio, de Reconocimiento y Reparación a las Víctimas del Terrorismo.
+2. Asimismo, las administraciones públicas vascas arbitrarán medidas de acción positiva para el acceso al empleo público para las personas víctimas del terrorismo, de conformidad con lo previsto en el artículo 23 de la mencionada Ley 4/2008, de 19 de junio, de Reconocimiento y Reparación a las Víctimas del Terrorismo.

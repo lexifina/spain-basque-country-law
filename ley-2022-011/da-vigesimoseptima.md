@@ -1,0 +1,2 @@
+Disposición adicional vigesimoséptima. Centros especiales de empleo.
+Reglamentariamente, previa negociación con la representación de personal, se determinará el régimen normativo de aplicación a los centros especiales de empleo dependientes de las administraciones públicas vascas, en lo que se refiere al acceso al empleo, provisión de los puestos de trabajo, evaluación del desempeño, carrera profesional y demás aspectos que requieran un tratamiento diferenciado derivado de la especificidad de la naturaleza y función de dichos centros.

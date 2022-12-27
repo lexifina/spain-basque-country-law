@@ -1,0 +1,2 @@
+Disposición transitoria decimosexta. Procedimientos iniciados con anterioridad a la entrada en vigor de esta ley.
+Los procesos selectivos y los procedimientos de provisión de puestos de trabajo de concurso y de libre designación iniciados antes de la entrada en vigor de esta ley se rigen por la normativa anterior. A estos efectos, se entiende que estos procedimientos se han iniciado si se ha publicado la correspondiente convocatoria.

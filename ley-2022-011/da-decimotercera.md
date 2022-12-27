@@ -1,0 +1,2 @@
+Disposición adicional decimotercera. Código ético, régimen de incompatibilidades y deberes del personal eventual y personal directivo público profesional al servicio del sector público de la Comunidad Autónoma de Euskadi.
+El personal eventual y el personal que ocupe puestos correspondientes a la dirección pública profesional del sector público de la Comunidad Autónoma de Euskadi, no reservados a personal funcionario, se someterá a lo dispuesto en el código ético y al régimen legal específico de incompatibilidades previsto para el personal alto cargo del Gobierno.

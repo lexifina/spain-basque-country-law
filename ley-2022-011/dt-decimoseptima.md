@@ -1,0 +1,2 @@
+Disposición transitoria decimoséptima. Período transitorio hasta la publicación de las resoluciones de integración en los cuerpos, escalas y agrupaciones profesionales sin requisitos de titulación.
+En tanto no se aprueben por el departamento competente en materia de función pública las resoluciones de integración del personal funcionario al que se refiere la disposición adicional segunda, esta situación no afectará a su condición de personal funcionario de carrera ni al desempeño de los puestos de trabajo en que estuviera destinado.
