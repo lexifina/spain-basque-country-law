@@ -4,4 +4,10 @@ Artículo 22 bis. Suspensión provisional.
 3. El tiempo de suspensión provisional no podrá exceder de seis meses, salvo en el caso de paralización o dilación del procedimiento por causa imputable a la persona suspendida.
 4. Podrá levantarse la suspensión provisional obligatoria si el o la deportista demuestra que en la infracción ha participado probablemente un producto contaminado.
 5. Además de la suspensión provisional obligatoria, se podrá aplicar la suspensión provisional optativa en los supuestos y las condiciones previstos en el artículo 7.9.2 del Código Mundial Antidopaje.
+6. Se podrá aceptar voluntariamente y por propia iniciativa cualquier suspensión provisional, siempre que se haga antes del vencimiento del último de los siguientes plazos:
+a) Diez días desde la comunicación de los resultados del análisis de la muestra B o desde la renuncia a llevar a cabo el contraanálisis, o diez días desde la notificación de cualquier otra infracción de las normas antidopaje.
+b) La fecha en la que el deportista o la deportista compita por primera vez desde la comunicación o notificación.
+Otras personas distintas a los deportistas o las deportistas podrán también voluntariamente y por su propia iniciativa aceptar la suspensión provisional si lo hacen en el plazo de diez días desde que se les notificó la presunta infracción de la norma antidopaje.
+La suspensión provisional voluntariamente aceptada tendrá los mismos efectos y será tratada de la misma manera que la impuesta en virtud de lo previsto en esta ley para los casos o supuestos acordados por la organización antidopaje. Si en cualquier momento posterior a la aceptación voluntaria la persona afectada renuncia a ella o la retira, no podrá llegar a acogerse a las consecuencias previstas en esta ley para tales casos de suspensión provisional.
+Se añade el apartado 6 por el art. único.18 de la Ley 13/2022, de 15 de diciembre. Ref. BOE-A-2023-1404
 Se añade por el art. 11 de la Ley 1/2018, de 7 de junio. Ref. BOE-A-2018-11063

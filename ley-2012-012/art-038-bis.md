@@ -4,5 +4,6 @@ Artículo 38 bis. Divulgación de sanciones.
 3. La publicación se realizará en el sitio web del órgano antidopaje, dejándola expuesta durante un mes o la duración de cualquier periodo de suspensión, si este fuese superior. Esta publicación no podrá mantenerse después de la finalización del plazo de duración de la sanción.
 Deberán adoptarse medidas para evitar que la información publicada en Internet no pueda ser captada o indexada a través de motores de búsqueda.
 En todo caso, se deberá advertir en la página web de la Agencia Vasca Antidopaje que la información publicada no podrá ser tratada posteriormente para fines distintos.
-4. La divulgación obligatoria prevista en este artículo no se realizará cuando la persona sea un menor. La comunicación pública en un caso que afecte a un menor será proporcional a los hechos y circunstancias del caso.
+4. La divulgación prevista en este artículo no se realizará cuando la persona sancionada sea aficionada o protegida, exceptuando aquellos casos en los que razonadamente se valore la conveniencia y oportunidad de publicar las sanciones atendiendo a las circunstancias concurrentes en el caso concreto.
+Se modifica el apartado 4 por el art. único.32 de la Ley 13/2022, de 15 de diciembre. Ref. BOE-A-2023-1404
 Se añade por el art. 22 de la Ley 1/2018, de 7 de junio. Ref. BOE-A-2018-11063
