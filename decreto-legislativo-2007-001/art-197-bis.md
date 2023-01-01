@@ -7,8 +7,8 @@ En el caso de personas con autorización, constituye la base imponible de esta t
 5. En los puertos en los que se ordene la regulación del servicio de aparcamiento de vehículos, las cuotas serán las siguientes:
 5.1 Con carácter general:
 5.1.1 Vehículos de residentes y de personas usuarias que tengan relación con las actividades portuarias:
-– Donostia-San Sebastián: 66,27 euros/año.
-– Otros puertos: 21,72 euros/año.
+– Donostia/San Sebastián: 94,41 euros/año.
+– Otros puertos: 67,26 euros/año.
 5.1.2 Vehículos del resto de personas usuarias que no tengan relación con las actividades portuarias:
 – Vehículos ligeros: 1,03 euros/hora o fracción, hasta un máximo de 10,25 euros/día.
 – Vehículos pesados: 3,08 euros/hora o fracción, hasta un máximo de 30,75 euros/día.
@@ -20,6 +20,7 @@ En el caso de personas con autorización, constituye la base imponible de esta t
 – Tarjeta magnética: 40,25 euros.
 – Tarjeta no magnética: 7,09 euros.
 5.3 Por cada retirada de vehículos mal estacionados: 55,96 euros.
+Se modifica el apartado 5.1.1 por la disposición final 1.16 de la Ley 15/2022, de 23 de diciembre. Ref. BOE-A-2023-3620
 Se modifica el apartado 5.1.3 por la disposición final 1.7 de la Ley 11/2021, de 23 de diciembre. Ref. BOE-A-2022-2177
 Se modifican los apartados 2, 4 y 5.1.3 por la disposición final 1.7 a 9 de la Ley 1/2021, de 11 de febrero. Ref. BOE-A-2021-3764
 Se modifica el apartado 5 por la disposición final 1.23 de la Ley 13/2019, de 27 de diciembre. Ref. BOE-A-2020-617

@@ -6,9 +6,10 @@ Si el buque se encuentra consignado, será sujeto pasivo sustituto la empresa co
 4. Constituye la base imponible de esta tasa, en el caso de que exista contador, el número de unidades suministradas. En caso contrario, la superficie en metros cuadrados resultante del producto de la eslora total de la embarcación por la manga máxima, multiplicado a su vez por el tiempo de estancia en fondeo o atraque.
 5. Las cuotas de la tasa son las siguientes:
 5.1 Agua: 1,83 euros por cada metro cúbico.
-Energía eléctrica: 0,40 euros por cada kilovatio/hora.
-5.2 Si no existe contador, la cuota por el consumo de agua y energía eléctrica es de 0,017 euros/m2 y día.
-Si el consumo se realiza en el área de carenado, la cuota es de 11,67 euros/día».
+Energía eléctrica: 0,81 euros por cada kilovatio/hora.
+5.2 Si no existe contador, la cuota por el consumo de agua y energía eléctrica es de 0,030 euros/m2 y día.
+Si el consumo se realiza en el área de carenado, la cuota es de 23,54 euros/día.
+Se modifican los apartados 5.1 y 5.2 por la disposición final 1.17 de la Ley 15/2022, de 23 de diciembre. Ref. BOE-A-2023-3620
 Se modifica el apartado 5.1 y 5.2 por la disposición final 1.8 de la Ley 11/2021, de 23 de diciembre. Ref. BOE-A-2022-2177
 Se modifica el apartado 5 por la disposición final 1.24 de la Ley 13/2019, de 27 de diciembre. Ref. BOE-A-2020-617
 Se añade por la disposición final 1 de la Ley 2/2018, de 28 de junio. Ref. BOE-A-2018-11064#df
