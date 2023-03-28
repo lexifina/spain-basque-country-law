@@ -1,0 +1,2 @@
+Artículo único. Aprobación del texto refundido de la Ley para la Igualdad de Mujeres y Hombres y Vidas Libres de Violencia Machista contra las Mujeres.
+De conformidad con lo establecido en la disposición final octava de la Ley 1/2022, de 3 de marzo, de segunda modificación de la Ley para la Igualdad de Mujeres y Hombres, se aprueba el texto refundido de la Ley para la Igualdad de Mujeres y Hombres y Vidas Libres de Violencia Machista contra las mujeres que se anexa a continuación.
