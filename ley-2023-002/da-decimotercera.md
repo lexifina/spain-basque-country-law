@@ -1,0 +1,2 @@
+Disposición adicional decimotercera. Referencias a las técnicas y los técnicos deportivos.
+Las referencias que contiene la presente ley a las técnicas y a los técnicos deportivos son comprensivas de las profesionales y los profesionales del deporte regulados en la Ley 8/2022, de 30 de junio, sobre acceso y ejercicio de profesiones de la actividad física y del deporte en la Comunidad Autónoma del País Vasco.

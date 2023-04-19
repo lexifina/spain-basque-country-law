@@ -1,0 +1,3 @@
+Disposición adicional decimocuarta. Adopción de acuerdos por las entidades deportivas.
+1. Aunque los estatutos no lo hubieran previsto, las sesiones de los órganos colegiados de las entidades deportivas reguladas por la presente ley podrán desarrollarse sin sesión presencial, por razones justificadas, empleando la videoconferencia, el correo electrónico y medios técnicos análogos de comunicación en los que se garantice su autenticidad y los derechos de información y de voto.
+2. Salvo disposición diferente en los estatutos de la correspondiente entidad deportiva, se entenderá que las sesiones se celebran en el domicilio social de la entidad deportiva y que el acuerdo se adopta en la fecha de recepción del último de los votos válidamente emitidos.

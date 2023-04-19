@@ -1,0 +1,2 @@
+Disposición adicional decimonovena. Planes sectoriales de equipamientos deportivos y de actividad física.
+En el plazo de dos años desde la entrada en vigor de esta ley los órganos forales de los territorios históricos analizarán iniciar la elaboración de los planes sectoriales de equipamientos deportivos y de actividad física para garantizar el cumplimiento de los objetivos previstos en el artículo 106 de la presente ley.

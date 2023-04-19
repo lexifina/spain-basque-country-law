@@ -1,0 +1,2 @@
+Disposición adicional decimoquinta. Medidas de seguridad para la prevención de la violencia, la intolerancia y la discriminación por cualquier motivo en competiciones deportivas.
+A las competiciones deportivas incluidas en el ámbito de aplicación de la presente ley se les aplicarán, en lo no dispuesto por aquella, las medidas de seguridad exigibles por las disposiciones vigentes en materia de espectáculos públicos y actividades recreativas.
