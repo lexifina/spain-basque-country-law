@@ -1,1 +1,0 @@
-Se hace saber a todos/as los/las ciudadanos/as de Euskadi que el Parlamento Vasco ha aprobado la siguiente Ley 2/1998, de 20 de febrero, de la potestad sancionadora de las Administraciones Públicas de la Comunidad Autónoma del País Vasco.
