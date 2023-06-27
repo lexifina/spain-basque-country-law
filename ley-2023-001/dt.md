@@ -1,0 +1,3 @@
+Disposición transitoria. Régimen transitorio de los procedimientos.
+1. Los procedimientos sancionadores iniciados con anterioridad a la vigencia de esta ley que no hayan concluido su tramitación a la fecha de entrada en vigor de esta se seguirán tramitando conforme a la normativa aplicable en el momento de su iniciación.
+2. Los procedimientos a que se refiere el número precedente deberán resolverse en el plazo de seis meses desde la entrada en vigor de la presente ley, entendiéndose caducados por el transcurso de treinta días desde el vencimiento de este plazo de seis meses sin haberse dictado resolución.
