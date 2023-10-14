@@ -1,2 +1,0 @@
-Disposición adicional única. Caducidad del reconocimiento legal.
-El reconocimiento de la Universidad caducará si transcurridos tres años desde la entrada en vigor de esta ley no se hubiera solicitado por parte de la entidad titular la autorización para la puesta en funcionamiento a que se refiere el artículo 3 de la presente ley. Igualmente caducará si se hiciera firme la revocación por incumplimiento a que hace referencia el artículo 6.
