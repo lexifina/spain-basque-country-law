@@ -1,6 +1,0 @@
-Artículo 33 sexies. Reconocimiento de la función del director.
-1. El ejercicio del cargo de director o directora, será retribuido de forma diferenciada, en consideración a la responsabilidad y dedicación exigidas, de acuerdo con las cuantías que para los complementos establecidos al efecto fije el Gobierno.
-2. Asimismo, el ejercicio del cargo de directora o director será especialmente valorado a los efectos de la provisión de puestos de trabajo en la función pública docente y de manera especial, en el acceso a la inspección de educación.
-3. Por otra parte, los directores y directoras serán evaluados al final de su mandato. Quienes obtuvieren evaluación positiva obtendrán un reconocimiento personal y profesional en los términos que reglamentariamente se establezcan.
-4. Las directoras y directoras de los centros de la escuela pública vasca que hayan ejercido su cargo con valoración positiva durante el periodo de tiempo que reglamentariamente se determine mantendrán, mientras permanezcan en situación de activo, la percepción de una parte del complemento retributivo correspondiente en la proporción, condiciones y requisitos que reglamentariamente se establezcan.
-Se añade por el art. 9 de la Ley 3/2008, de 13 de junio. Ref. BOE-A-2011-14347

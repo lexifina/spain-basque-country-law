@@ -1,3 +1,0 @@
-Artículo 33 quinquies. Vicedirector.
-Reglamentariamente podrá establecerse la existencia del cargo de vicedirector o vicedirectora. En estos casos, el vicedirector o vicedirectora formará parte del equipo directivo y tendrá, entre otras funciones, la de sustituir al director o directora en los casos de enfermedad, ausencia, suspensión o cese, hasta su sustitución por el procedimiento legalmente establecido. En los centros en los que no exista el cargo de vicedirectora o vicedirector, la sustitución de la directora o director en los casos antes citados corresponderá al jefe o jefa de estudios del centro.
-Se añade por el art. 8 de la Ley 3/2008, de 13 de junio. Ref. BOE-A-2011-14347
