@@ -1,4 +1,0 @@
-Disposición adicional decimoséptima.
-Los funcionarios que ocupen un puesto de trabajo en un centro público que imparta formación profesional específica podrán, de acuerdo con lo que se establezca reglamentariamente, impartir formación profesional no reglada.
-La impartición de formación profesional no reglada tendrá carácter voluntario para el profesor y no podrá perjudicar la organización ni el desarrollo de la formación reglada.
-La dedicación del profesor a la formación profesional no reglada está sometida a la normativa sobre incompatibilidades del personal al servicio de la Administración pública. A estos efectos el Gobierno Vasco podrá, de acuerdo con lo que se establece en el artículo 3 de la Ley 53/84, de 26 de septiembre, de Incompatibilidades del personal al servicio de las Administraciones públicas, declarar la compatibilidad de esta segunda actividad por razones de interés público.
