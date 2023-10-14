@@ -1,0 +1,2 @@
+Artículo único. Aprobación del texto refundido de la Ley de Cuerpos Docentes de la Enseñanza no Universitaria de la Comunidad Autónoma del País Vasco.
+De conformidad con lo establecido en la disposición final segunda de la Ley 6/2022, de 30 de junio, del Procedimiento de Elaboración de las Disposiciones de Carácter General, se aprueba el texto refundido de la Ley de Cuerpos Docentes de la Enseñanza no Universitaria de la Comunidad Autónoma del País Vasco, cuyo texto se inserta a continuación.
