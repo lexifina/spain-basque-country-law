@@ -1,0 +1,2 @@
+Disposición derogatoria.
+Queda derogado el capítulo V «De los servicios de prevención y extinción de incendios y salvamento» del texto refundido de la Ley de Gestión de Emergencias, aprobado por el Decreto Legislativo 1/2017, de 27 de abril; la disposición adicional segunda del Decreto 24/2010, de 19 de enero, sobre la participación voluntaria de la ciudadanía en el sistema vasco de atención de emergencias, modificado por Decreto 30/2019, de 26 de febrero; así como cualquier otra disposición de igual o inferior rango que se oponga a lo establecido en esta ley.
