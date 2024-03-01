@@ -1,0 +1,2 @@
+Disposición derogatoria.
+Se derogan la Ley 14/2012, de 28 de junio, de no discriminación por motivos de identidad de género y de reconocimiento de los derechos de las personas transexuales; la Ley 9/2019, de 27 de junio, de modificación de la Ley 14/2012, de 28 de junio, de no discriminación por motivos de identidad de género y de reconocimiento de los derechos de las personas transexuales, así como cualquier otra norma de igual o inferior rango que se oponga a la presente ley.
