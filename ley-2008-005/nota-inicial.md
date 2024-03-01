@@ -1,0 +1,1 @@
+Téngase en cuenta que a partir del 1 de marzo de 2024, las referencias hechas a la "Agencia Vasca de Cooperación para el Desarrollo" se entenderán realizadas a "eLankidetza-Agencia Vasca de Cooperación y Solidaridad", según establece la disposición final 1.1 de la Ley 3/2024, de 15 de febrero. Ref. BOE-A-2024-4866#df
