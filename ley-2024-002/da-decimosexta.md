@@ -1,0 +1,2 @@
+Disposición adicional decimosexta. Actualización del Decreto 131/2008, de 8 de julio, regulador de los recursos de acogimiento residencial para la infancia y adolescencia en situación de desprotección social.
+En el plazo máximo de cuatro años se procederá a la revisión y actualización del Decreto 131/2008, de 8 de julio, regulador de los recursos de acogimiento residencial para la infancia y adolescencia en situación de desprotección social.

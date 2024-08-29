@@ -1,0 +1,2 @@
+Disposición adicional decimoquinta. Evaluación de la implementación de la ley.
+Desde la entrada en vigor de la ley, cada cuatro años, el Gobierno Vasco deberá realizar una evaluación del impacto de la presente ley, con el objeto de analizar las actuaciones desarrolladas para su implementación por las diferentes administraciones públicas vascas, y las repercusiones sociales, jurídicas y económicas de su puesta en marcha. En dicha evaluación participarán miembros del Foro de la Infancia y la Adolescencia.

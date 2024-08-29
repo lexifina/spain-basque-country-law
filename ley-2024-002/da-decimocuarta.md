@@ -1,0 +1,2 @@
+Disposición adicional decimocuarta. Suministro de información a los registros estatales.
+Corresponderá a las diputaciones forales y, cuando proceda, a los ayuntamientos suministrar la información que deba incorporarse, a nivel estatal, al Índice de Tutelas de Menores, al Registro Unificado de Servicios Sociales sobre Violencia contra la Infancia (RUSSVI) y, en su caso, al Registro Central de información sobre la violencia contra la infancia y la adolescencia, cuando dicha información afecte o recaiga en su ámbito material de competencia.
