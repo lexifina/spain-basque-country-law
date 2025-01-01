@@ -1,0 +1,6 @@
+CAPÍTULO IX
+Tasa por validación de programas de garantía de calidad y seguridad de las unidades asistenciales de medicina nuclear, radioterapia y radiodiagnóstico
+Se añade por la disposición final 1.6 de la Ley 8/2024, de 20 de diciembre. Ref. BOE-A-2025-940
+Artículo 178 sexies. Hecho imponible.
+Constituye el hecho imponible la evaluación del programa de garantía de calidad y seguridad y, en su caso, la emisión del certificado de aceptación del programa de garantía de calidad y seguridad de las unidades asistenciales de medicina nuclear, radiodiagnóstico y radioterapia.
+Se añade por la disposición final 1.6 de la Ley 8/2024, de 20 de diciembre. Ref. BOE-A-2025-940
