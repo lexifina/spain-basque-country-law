@@ -1,4 +1,0 @@
-Artículo 178 quater. Devengo.
-La tasa se devengará en el momento en el que se preste o realice el servicio o la actividad que constituye el hecho imponible y el pago de la tasa se exigirá en el momento en que se formule por el sujeto pasivo la solicitud correspondiente. La solicitud no será tramitada en tanto en cuanto no se verifique el pago de la tasa que corresponda.
-No obstante lo anterior, en el supuesto en que la prestación del servicio o actuación administrativa se efectúe de oficio, la tasa se devengará cuando se notifique el inicio de dichas actuaciones, debiéndose ingresar su importe, en todo caso, con anterioridad a hacer efectiva la prestación del servicio o realización de la actividad.
-Se añade por la disposición final 1.5 de la Ley 1/2021, de 11 de febrero. Ref. BOE-A-2021-3764

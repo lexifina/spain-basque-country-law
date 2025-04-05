@@ -1,2 +1,0 @@
-Artículo único.
-De conformidad con lo establecido en la Disposición Final Primera de la Ley 3/2006, de 29 de septiembre, de modificación de la Ley de Tasas y Precios Públicos de la Administración de la Comunidad Autónoma del País Vasco y de la Ley de Principios Ordenadores de la Hacienda General del País Vasco, se aprueba el Texto Refundido de la Ley de Tasas y Precios Públicos de la Administración de la Comunidad Autónoma del País Vasco, que se inserta a continuación.
