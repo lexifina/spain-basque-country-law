@@ -1,0 +1,2 @@
+Disposición derogatoria.
+A la entrada en vigor del texto refundido que se aprueba en virtud del presente Decreto Legislativo quedarán derogadas el Decreto Legislativo 1/2007, de 11 de septiembre, de aprobación del Texto Refundido de la Ley de Tasas y Precios Públicos de la Administración de la Comunidad Autónoma del País Vasco, y cuantas disposiciones de igual o inferior rango se opongan a lo establecido en el mismo.

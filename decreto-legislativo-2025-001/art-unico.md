@@ -1,0 +1,2 @@
+Artículo único. Aprobación del Texto Refundido de la Ley de Tasas y Precios Públicos de la Administración de la Comunidad Autónoma del País Vasco.
+De conformidad con lo establecido en la disposición final cuarta de la Ley 8/2024, de 20 de diciembre, por la que se aprueban los Presupuestos Generales de la Comunidad Autónoma de Euskadi para el ejercicio 2025, se aprueba el Texto Refundido de la Ley de Tasas y Precios Públicos de la Administración de la Comunidad Autónoma del País Vasco, que se inserta a continuación.
