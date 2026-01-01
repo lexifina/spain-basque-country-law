@@ -132,8 +132,16 @@ c) 750 plazas para cerdas reproductoras.
 ANEXO I.B
 Actividades e instalaciones sometidas a autorización ambiental única
 Siempre que se trate de actividades no incluidas en el apartado A de este Anexo I, se someterán a autorización ambiental única, las siguientes actividades e instalaciones:
-1. Actividades o instalaciones sujetas a autorización de tratamiento de residuos peligrosos.
-2. Actividades o instalaciones sujetas a autorización de tratamiento de residuos no peligrosos.
+1. Actividades o instalaciones fijas sujetas a autorización de tratamiento de residuos peligrosos, excepto las actividades o instalaciones siguientes:
+a) Las actividades realizadas por personas físicas o jurídicas que realicen con carácter profesional operaciones de recogida y tratamiento de residuos, de conformidad con las operaciones desagregadas incluidas en los anexos II y III de la Ley 7/2022, de 8 de abril, de residuos y suelos contaminados para una economía circular, cuya autorización no sea la misma que la de la instalación.
+b) Las actividades realizadas por las personas físicas o jurídicas que tengan intención de llevar a cabo una operación de valorización de residuos sin instalación.
+c) Las instalaciones móviles de tratamiento de residuos.
+Estas actividades estarán sometidas al régimen general de autorización o comunicación contemplado en la Ley 7/2022, de 8 de abril, de residuos y suelos contaminados para una economía circular.
+2. Actividades o instalaciones sujetas a autorización de tratamiento de residuos no peligrosos, excepto las actividades o instalaciones siguientes:
+a) Las actividades realizadas por personas físicas o jurídicas que realicen con carácter profesional operaciones de recogida y tratamiento de residuos, de conformidad con las operaciones desagregadas incluidas en los anexos II y III de la Ley 7/2022, de 8 de abril, de residuos y suelos contaminados para una economía circular, cuya autorización no sea la misma que la de la instalación.
+b) Las actividades realizadas por las personas físicas o jurídicas que tengan intención de llevar a cabo una operación de valorización de residuos sin instalación.
+c) Las instalaciones móviles de tratamiento de residuos.
+Estas actividades estarán sometidas al régimen general de autorización o comunicación contemplado en la Ley 7/2022, de 8 de abril, de residuos y suelos contaminados para una economía circular.
 3. Actividades o instalaciones sujetas a autorización como potencialmente contaminadoras de la atmósfera.
 4. Actividades o instalaciones que generen gases de efecto invernadero y que de conformidad con la Ley 1/2005, de 9 de marzo, por la que se regula el régimen del comercio de derechos de emisión de gases de efecto invernadero, deberá contar con autorización de emisión.
 5. Actividades o instalaciones que requieran autorización administrativa previa y expresa de la Agencia Vasca del Agua/URA por realizar vertidos industriales de clase 3 (*) directos o indirectos de aguas y de productos residuales, líquidos, sólidos o de cualquier naturaleza en las aguas continentales o cualquier otro elemento del dominio público hidráulico o marítimo-terrestre.
@@ -141,6 +149,7 @@ Siempre que se trate de actividades no incluidas en el apartado A de este Anexo 
 (*) Según Anexo IV (Cálculo del coeficiente de mayoración o minoración del canon de control de vertidos) del Real Decreto 849/1986, de 11 de abril, por el que se aprueba el Reglamento del Dominio Público Hidráulico que desarrolla los títulos preliminar, I, IV, V, VI, VII y VIII del texto refundido de la Ley de Aguas, aprobado por el Real Decreto Legislativo 1/2001, de 20 de julio.
 7. Estaciones depuradoras de aguas residuales con una capacidad superior a los 100.000 habitantes-equivalentes.
 8. Otras actividades que, a criterio del órgano ambiental de la Comunidad Autónoma del País Vasco, puedan tener efectos análogos sobre el medio ambiente y la salud de las personas.
+Se modifican los apartados 1 y 2 por la disposición final 9.2 de la Ley 7/2025, de 23 de diciembre. Ref. BOE-A-2026-1257
 ANEXO I.C
 Actividades e instalaciones sometidas a licencia de actividad clasificada
 Siempre que se trate de actividades no incluidas en los apartados A y B de este Anexo I, se someterán a licencia municipal de actividad clasificada las siguientes actividades e instalaciones:
