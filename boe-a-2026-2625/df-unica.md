@@ -1,0 +1,2 @@
+Disposición final única. Entrada en vigor y periodo de vigencia.
+Esta resolución entrará en vigor a los ocho días hábiles de su publicación en el «Boletín Oficial del Estado» y tendrá vigencia durante todo el año 2026. No obstante, se prorrogará hasta la entrada en vigor de la resolución por la que se establezcan medidas especiales de regulación del tráfico para el año 2027, con excepción de las restricciones por fechas concretas de los anexos I y II.

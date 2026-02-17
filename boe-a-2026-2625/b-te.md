@@ -1,0 +1,3 @@
+Tercero. Sanciones y medidas cautelares.
+El incumplimiento de las medidas de regulación contenidas en la presente resolución, se sancionarán, en su caso, con arreglo a lo prevenido en el texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial.
+Asimismo, los agentes de la autoridad responsables de la vigilancia y disciplina del tráfico podrán proceder a la retirada y depósito del vehículo en el lugar que se designe. Esas medidas podrán establecerse cuando la circulación del vehículo cause riesgo o perturbaciones graves al normal desarrollo del tráfico rodado, de conformidad con el artículo 105 del texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial.

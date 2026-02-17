@@ -1,0 +1,3 @@
+Segundo. Autorizaciones especiales.
+Se podrán conceder autorizaciones especiales para un solo viaje o de carácter temporal, para circular por los itinerarios y periodos restringidos en esta resolución. Se concederán en caso de reconocida urgencia previa justificación de la necesidad ineludible de circular por los citados itinerarios y periodos, de acuerdo con lo establecido en el artículo 39.5 del Reglamento General de Circulación.
+En estas autorizaciones especiales constarán la matrícula y las características principales del vehículo o conjunto de vehículos, la mercancía transportada, las vías afectadas y las condiciones del transporte.
