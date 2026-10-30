@@ -1,0 +1,4971 @@
+{
+ "country": "ES-PV",
+ "acts": [
+  {
+   "slug": "estatuto-de-autonomia",
+   "short": "Ley Orgánica 3/1979, de 18 de diciembre",
+   "title": "Ley Orgánica 3/1979, de 18 de diciembre, de Estatuto de Autonomía para el País Vasco.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1979-30177",
+   "versions": [
+    {
+     "from": "1980-01-11",
+     "units": 59,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1979-30177",
+     "sha256": "e56f99fbed4c6053bddb082bd129da54188519c55b61007294a7731f45786dc1"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1981-002",
+   "short": "Ley 2/1981, de 12 de febrero",
+   "title": "Ley 2/1981, de 12 de febrero, sobre reconocimiento de los derechos de inviolabilidad e inmunidad de los miembros del Parlamento Vasco.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-5922",
+   "versions": [
+    {
+     "from": "1981-04-10",
+     "units": 5,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-5922",
+     "sha256": "4e81e0dbde743ae5fd45fe15c4d2ade9fc4c863e94827ce73f5520f6a4fab496"
+    },
+    {
+     "from": "1981-07-09",
+     "units": 5,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-5922",
+     "sha256": "4e81e0dbde743ae5fd45fe15c4d2ade9fc4c863e94827ce73f5520f6a4fab496"
+    },
+    {
+     "from": "1981-11-19",
+     "units": 5,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-5922",
+     "sha256": "4e81e0dbde743ae5fd45fe15c4d2ade9fc4c863e94827ce73f5520f6a4fab496"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1981-003",
+   "short": "Ley 3/1981, de 12 de febrero",
+   "title": "Ley 3/1981, de 12 de febrero, sobre Centros de Contratación de Cargas en Transporte Terrestre de Mercancías.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-5923",
+   "versions": [
+    {
+     "from": "1981-04-10",
+     "units": 41,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-5923",
+     "sha256": "91fa46b421dc81fa096c539b7df0a8e05c1e2ce230fa6682ac2a261311547a02"
+    },
+    {
+     "from": "1981-07-01",
+     "units": 41,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-5923",
+     "sha256": "91fa46b421dc81fa096c539b7df0a8e05c1e2ce230fa6682ac2a261311547a02"
+    },
+    {
+     "from": "1981-11-28",
+     "units": 41,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-5923",
+     "sha256": "91fa46b421dc81fa096c539b7df0a8e05c1e2ce230fa6682ac2a261311547a02"
+    },
+    {
+     "from": "1982-05-04",
+     "units": 47,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-5923",
+     "sha256": "91fa46b421dc81fa096c539b7df0a8e05c1e2ce230fa6682ac2a261311547a02"
+    },
+    {
+     "from": "1990-07-05",
+     "units": 48,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-5923",
+     "sha256": "91fa46b421dc81fa096c539b7df0a8e05c1e2ce230fa6682ac2a261311547a02"
+    },
+    {
+     "from": "1991-06-14",
+     "units": 48,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-5923",
+     "sha256": "91fa46b421dc81fa096c539b7df0a8e05c1e2ce230fa6682ac2a261311547a02"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1981-004",
+   "short": "Ley 4/1981, de 18 de marzo",
+   "title": "Ley 4/1981, de 18 de marzo, sobre Designación de Senadores representantes de Euskadi.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-5924",
+   "versions": [
+    {
+     "from": "1981-05-12",
+     "units": 13,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-5924",
+     "sha256": "fbd8866da856b167f0fb77f077a841d6f781fc8574451074982ff31177b7c5ee"
+    },
+    {
+     "from": "1981-07-23",
+     "units": 13,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-5924",
+     "sha256": "fbd8866da856b167f0fb77f077a841d6f781fc8574451074982ff31177b7c5ee"
+    },
+    {
+     "from": "1982-01-14",
+     "units": 13,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-5924",
+     "sha256": "fbd8866da856b167f0fb77f077a841d6f781fc8574451074982ff31177b7c5ee"
+    },
+    {
+     "from": "1986-04-03",
+     "units": 13,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-5924",
+     "sha256": "fbd8866da856b167f0fb77f077a841d6f781fc8574451074982ff31177b7c5ee"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1981-007",
+   "short": "Ley 7/1981, de 30 de junio",
+   "title": "Ley 7/1981, de 30 de junio, sobre Ley de Gobierno.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-5927",
+   "versions": [
+    {
+     "from": "1981-07-27",
+     "units": 73,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-5927",
+     "sha256": "b8c813736bede9654f87e5f158f929b5d2fcaea4741d6bac454aedc2b0dde0e0"
+    },
+    {
+     "from": "1987-02-10",
+     "units": 73,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-5927",
+     "sha256": "b8c813736bede9654f87e5f158f929b5d2fcaea4741d6bac454aedc2b0dde0e0"
+    },
+    {
+     "from": "1988-11-24",
+     "units": 73,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-5927",
+     "sha256": "b8c813736bede9654f87e5f158f929b5d2fcaea4741d6bac454aedc2b0dde0e0"
+    },
+    {
+     "from": "2005-03-03",
+     "units": 73,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-5927",
+     "sha256": "b8c813736bede9654f87e5f158f929b5d2fcaea4741d6bac454aedc2b0dde0e0"
+    },
+    {
+     "from": "2012-06-08",
+     "units": 73,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-5927",
+     "sha256": "b8c813736bede9654f87e5f158f929b5d2fcaea4741d6bac454aedc2b0dde0e0"
+    },
+    {
+     "from": "2016-06-09",
+     "units": 73,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-5927",
+     "sha256": "b8c813736bede9654f87e5f158f929b5d2fcaea4741d6bac454aedc2b0dde0e0"
+    },
+    {
+     "from": "2022-12-27",
+     "units": 73,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-5927",
+     "sha256": "b8c813736bede9654f87e5f158f929b5d2fcaea4741d6bac454aedc2b0dde0e0"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1982-005",
+   "short": "Ley 5/1982, de 20 de mayo",
+   "title": "Ley 5/1982, de 20 de mayo, de creación del Ente Público Radio Televisión Vasca.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-5534",
+   "versions": [
+    {
+     "from": "1982-06-03",
+     "units": 52,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-5534",
+     "sha256": "85f333b9a4860f4ce72d5216887fbe496e8004e059c880e5226d09ffdd5b4a7a"
+    },
+    {
+     "from": "1996-11-24",
+     "units": 52,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-5534",
+     "sha256": "85f333b9a4860f4ce72d5216887fbe496e8004e059c880e5226d09ffdd5b4a7a"
+    },
+    {
+     "from": "1998-04-18",
+     "units": 53,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-5534",
+     "sha256": "85f333b9a4860f4ce72d5216887fbe496e8004e059c880e5226d09ffdd5b4a7a"
+    },
+    {
+     "from": "2007-01-11",
+     "units": 53,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-5534",
+     "sha256": "85f333b9a4860f4ce72d5216887fbe496e8004e059c880e5226d09ffdd5b4a7a"
+    },
+    {
+     "from": "2007-07-13",
+     "units": 53,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-5534",
+     "sha256": "85f333b9a4860f4ce72d5216887fbe496e8004e059c880e5226d09ffdd5b4a7a"
+    },
+    {
+     "from": "2008-01-23",
+     "units": 53,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-5534",
+     "sha256": "85f333b9a4860f4ce72d5216887fbe496e8004e059c880e5226d09ffdd5b4a7a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1982-007",
+   "short": "Ley 7/1982, de 30 de junio",
+   "title": "Ley 7/1982, de 30 de junio, de Salud Escolar.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-5536",
+   "versions": [
+    {
+     "from": "1982-09-02",
+     "units": 27,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-5536",
+     "sha256": "fcbd8d675f400e315c06afaddc3adaa8a6b64cca912326e6648f9faeae59d093"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1982-009",
+   "short": "Ley 9/1982, de 24 de noviembre",
+   "title": "Ley 9/1982, de 24 de noviembre, por la que se crea el Ente Vasco de la Energía.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-5538",
+   "versions": [
+    {
+     "from": "1982-12-16",
+     "units": 20,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-5538",
+     "sha256": "ba2c4a4b770f57bfb8c2b0d8fe18c2204b6168f8f141937c91fd3972da765fb7"
+    },
+    {
+     "from": "1998-04-03",
+     "units": 20,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-5538",
+     "sha256": "ba2c4a4b770f57bfb8c2b0d8fe18c2204b6168f8f141937c91fd3972da765fb7"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1982-010",
+   "short": "Ley 10/1982, de 24 de noviembre",
+   "title": "Ley 10/1982, de 24 de noviembre, básica de normalización del uso del Euskera.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-5539",
+   "versions": [
+    {
+     "from": "1982-12-17",
+     "units": 38,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-5539",
+     "sha256": "b84ce17378a91bc62e6f3a1879217552dc47368c18f5a71e5d921cfcdb197db9"
+    },
+    {
+     "from": "1986-07-04",
+     "units": 38,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-5539",
+     "sha256": "b84ce17378a91bc62e6f3a1879217552dc47368c18f5a71e5d921cfcdb197db9"
+    },
+    {
+     "from": "2022-07-16",
+     "units": 38,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-5539",
+     "sha256": "b84ce17378a91bc62e6f3a1879217552dc47368c18f5a71e5d921cfcdb197db9"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1983-027",
+   "short": "Ley 27/1983, de 25 de noviembre",
+   "title": "Ley 27/1983, de 25 de noviembre, de Relaciones entre las Instituciones Comunes de la Comunidad Autónoma y los Órganos Forales de sus Territorios Históricos.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-5193",
+   "versions": [
+    {
+     "from": "1983-12-10",
+     "units": 39,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-5193",
+     "sha256": "add551547d44c28cbd8f53501a241d19770fee6c91baaf46f62ab9d471a943b4"
+    },
+    {
+     "from": "1987-04-10",
+     "units": 39,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-5193",
+     "sha256": "add551547d44c28cbd8f53501a241d19770fee6c91baaf46f62ab9d471a943b4"
+    },
+    {
+     "from": "1993-07-20",
+     "units": 39,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-5193",
+     "sha256": "add551547d44c28cbd8f53501a241d19770fee6c91baaf46f62ab9d471a943b4"
+    },
+    {
+     "from": "2006-01-19",
+     "units": 39,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-5193",
+     "sha256": "add551547d44c28cbd8f53501a241d19770fee6c91baaf46f62ab9d471a943b4"
+    },
+    {
+     "from": "2016-04-15",
+     "units": 39,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-5193",
+     "sha256": "add551547d44c28cbd8f53501a241d19770fee6c91baaf46f62ab9d471a943b4"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 39,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-5193",
+     "sha256": "add551547d44c28cbd8f53501a241d19770fee6c91baaf46f62ab9d471a943b4"
+    },
+    {
+     "from": "2022-04-10",
+     "units": 39,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-5193",
+     "sha256": "add551547d44c28cbd8f53501a241d19770fee6c91baaf46f62ab9d471a943b4"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1983-029",
+   "short": "Ley 29/1983, de 25 de noviembre",
+   "title": "Ley 29/1983, de 25 de noviembre, de creación del Instituto de Alfabetización y Reeuskaldunización de Adultos y de Regulación de los Euskaltegis.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-5195",
+   "versions": [
+    {
+     "from": "1983-12-13",
+     "units": 28,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-5195",
+     "sha256": "36f211bce1a5bd004ae1434efb5bcf820fdd9b6d608bfb8b257e2a083b45b524"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1984-002",
+   "short": "Ley 2/1984, de 30 de octubre",
+   "title": "Ley 2/1984, de 30 de octubre, de Reversión de Bienes y Derechos Incautados.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1984-25793",
+   "versions": [
+    {
+     "from": "1984-12-03",
+     "units": 17,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1984-25793",
+     "sha256": "82028e89b77a6edfd36990c36c13210acbc7c53f9d1e1c41fd9790446a8eb9fb"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1985-003",
+   "short": "Ley 3/1985, de 27 de febrero",
+   "title": "Ley 3/1985, de 27 de febrero, por la que se crea y regula la Institución del \"Ararteko\".",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-4768",
+   "versions": [
+    {
+     "from": "1985-04-22",
+     "units": 49,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-4768",
+     "sha256": "e1484b2ee500135e4558a82a2bffb82303ef578f7b0e3f3a753cda12e1995054"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1985-009",
+   "short": "Ley 9/1985, de 4 de diciembre",
+   "title": "Ley 9/1985, de 4 de diciembre, por la que se regula el Consejo Asesor de R.T.V.E. en el País Vasco o R.T.V.E.-ren Euskadiko Aholku-Batzordea.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-4774",
+   "versions": [
+    {
+     "from": "1986-01-27",
+     "units": 16,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-4774",
+     "sha256": "a77c3d4f5e64a89293724b228297d216020ed1235142006ba74b4bd02c00bb37"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1986-004",
+   "short": "Ley 4/1986, de 23 de abril",
+   "title": "Ley 4/1986, de 23 de abril, de Estadística de la Comunidad Autónoma de Euskadi.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-4375",
+   "versions": [
+    {
+     "from": "1986-06-19",
+     "units": 53,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-4375",
+     "sha256": "53cb35ff874606dc579fddf9befb4a666255c81672e82fb665404cc7489748c6"
+    },
+    {
+     "from": "2002-04-16",
+     "units": 53,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-4375",
+     "sha256": "53cb35ff874606dc579fddf9befb4a666255c81672e82fb665404cc7489748c6"
+    },
+    {
+     "from": "2004-03-24",
+     "units": 53,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-4375",
+     "sha256": "53cb35ff874606dc579fddf9befb4a666255c81672e82fb665404cc7489748c6"
+    },
+    {
+     "from": "2019-07-10",
+     "units": 53,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-4375",
+     "sha256": "53cb35ff874606dc579fddf9befb4a666255c81672e82fb665404cc7489748c6"
+    },
+    {
+     "from": "2021-02-18",
+     "units": 53,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-4375",
+     "sha256": "53cb35ff874606dc579fddf9befb4a666255c81672e82fb665404cc7489748c6"
+    },
+    {
+     "from": "2022-03-18",
+     "units": 53,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-4375",
+     "sha256": "53cb35ff874606dc579fddf9befb4a666255c81672e82fb665404cc7489748c6"
+    },
+    {
+     "from": "2023-11-24",
+     "units": 56,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-4375",
+     "sha256": "53cb35ff874606dc579fddf9befb4a666255c81672e82fb665404cc7489748c6"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1986-006",
+   "short": "Ley 6/1986, de 27 de mayo",
+   "title": "Ley 6/1986, de 27 de mayo, del Consejo de la Juventud de Euskadi-Euskadiko Gazteriaren Kontseilua.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-4377",
+   "versions": [
+    {
+     "from": "1986-06-11",
+     "units": 23,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-4377",
+     "sha256": "c0e18271eb35d908bb969fb480884306bb3773ecfb8344d5abda518bf3fe56c2"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1987-001",
+   "short": "Ley 1/1987, de 27 de marzo",
+   "title": "Ley 1/1987, de 27 de marzo, de Elecciones para las Juntas Generales de los Territorios Históricos de Araba, Bizkaia y Gipuzkoa.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-3948",
+   "versions": [
+    {
+     "from": "1987-04-10",
+     "units": 18,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3948",
+     "sha256": "db23e47f64e6501e5514279a93aaca2b3093a278ccf08e19a9cd026eae3089c2"
+    },
+    {
+     "from": "2005-03-03",
+     "units": 19,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3948",
+     "sha256": "db23e47f64e6501e5514279a93aaca2b3093a278ccf08e19a9cd026eae3089c2"
+    },
+    {
+     "from": "2026-05-05",
+     "units": 20,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3948",
+     "sha256": "db23e47f64e6501e5514279a93aaca2b3093a278ccf08e19a9cd026eae3089c2"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1987-008",
+   "short": "Ley 8/1987, de 20 de noviembre",
+   "title": "Ley 8/1987, de 20 de noviembre, sobre creación de los Jurados Territoriales de Expropiación Forzosa.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-3955",
+   "versions": [
+    {
+     "from": "1987-12-10",
+     "units": 12,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3955",
+     "sha256": "a6b83dd590c093cdef2a7fa6f38deca40596877fe8ce133e4053361cc528b72c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1988-001",
+   "short": "Ley 1/1988, de 5 de febrero",
+   "title": "Ley 1/1988, de 5 de febrero, del \"Tribunal Vasco de Cuentas Públicas\" / \"Herri-Kontuen Euskal Epaitegia\".",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-3545",
+   "versions": [
+    {
+     "from": "1988-03-23",
+     "units": 34,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3545",
+     "sha256": "624bd3abe991c83f704fab87913a4e58ab408a85ef451ce5f05193eb56a88768"
+    },
+    {
+     "from": "1988-06-15",
+     "units": 34,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3545",
+     "sha256": "624bd3abe991c83f704fab87913a4e58ab408a85ef451ce5f05193eb56a88768"
+    },
+    {
+     "from": "1988-11-19",
+     "units": 34,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3545",
+     "sha256": "624bd3abe991c83f704fab87913a4e58ab408a85ef451ce5f05193eb56a88768"
+    },
+    {
+     "from": "1997-06-25",
+     "units": 34,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3545",
+     "sha256": "624bd3abe991c83f704fab87913a4e58ab408a85ef451ce5f05193eb56a88768"
+    },
+    {
+     "from": "2012-03-13",
+     "units": 34,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3545",
+     "sha256": "624bd3abe991c83f704fab87913a4e58ab408a85ef451ce5f05193eb56a88768"
+    },
+    {
+     "from": "2021-11-10",
+     "units": 38,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3545",
+     "sha256": "624bd3abe991c83f704fab87913a4e58ab408a85ef451ce5f05193eb56a88768"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 38,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3545",
+     "sha256": "624bd3abe991c83f704fab87913a4e58ab408a85ef451ce5f05193eb56a88768"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 38,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3545",
+     "sha256": "624bd3abe991c83f704fab87913a4e58ab408a85ef451ce5f05193eb56a88768"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1988-002",
+   "short": "Ley 2/1988, de 5 de febrero",
+   "title": "Ley 2/1988, de 5 de febrero, sobre creación del \"Instituto Vasco de la Mujer/Emakumearen Euskal Erakundea\".",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-3546",
+   "versions": [
+    {
+     "from": "1988-03-24",
+     "units": 11,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3546",
+     "sha256": "06c6f3d993121c60dc2be94dbf4ee68726cceb7ff7bb3640ea28c8fb83b28301"
+    },
+    {
+     "from": "2005-03-03",
+     "units": 12,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3546",
+     "sha256": "06c6f3d993121c60dc2be94dbf4ee68726cceb7ff7bb3640ea28c8fb83b28301"
+    },
+    {
+     "from": "2012-02-29",
+     "units": 12,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3546",
+     "sha256": "06c6f3d993121c60dc2be94dbf4ee68726cceb7ff7bb3640ea28c8fb83b28301"
+    },
+    {
+     "from": "2022-03-18",
+     "units": 12,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3546",
+     "sha256": "06c6f3d993121c60dc2be94dbf4ee68726cceb7ff7bb3640ea28c8fb83b28301"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1988-010",
+   "short": "Ley 10/1988, de 29 de junio",
+   "title": "Ley 10/1988, de 29 de junio, para la Confluencia de las Ikastolas y la Escuela Pública.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-3554",
+   "versions": [
+    {
+     "from": "1988-08-07",
+     "units": 15,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3554",
+     "sha256": "508202e7f1c6347c18c6692cfff3fb8ac70e042d50eee871a2ab55b6910feefd"
+    },
+    {
+     "from": "1993-02-26",
+     "units": 15,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3554",
+     "sha256": "508202e7f1c6347c18c6692cfff3fb8ac70e042d50eee871a2ab55b6910feefd"
+    },
+    {
+     "from": "2023-10-14",
+     "units": 15,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3554",
+     "sha256": "508202e7f1c6347c18c6692cfff3fb8ac70e042d50eee871a2ab55b6910feefd"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1988-011",
+   "short": "Ley 11/1988, de 29 de junio",
+   "title": "Ley 11/1988, de 29 de junio, de creación del Instituto Vasco de Educación Física.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-3816",
+   "versions": [
+    {
+     "from": "1988-08-07",
+     "units": 19,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3816",
+     "sha256": "7e478098f150dd0725a271d4975cccc3083808d3182b15792047669efb9528ad"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1988-013",
+   "short": "Ley 13/1988, de 28 de octubre",
+   "title": "Ley 13/1988, de 28 de octubre, de Consejos Escolares de Euskadi.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-3818",
+   "versions": [
+    {
+     "from": "1988-12-13",
+     "units": 36,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3818",
+     "sha256": "6333051a1e74f1014b01be9ba03c185985fb1a8f959ef627dce4ca748cdad676"
+    },
+    {
+     "from": "1993-02-26",
+     "units": 36,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3818",
+     "sha256": "6333051a1e74f1014b01be9ba03c185985fb1a8f959ef627dce4ca748cdad676"
+    },
+    {
+     "from": "2018-07-06",
+     "units": 36,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3818",
+     "sha256": "6333051a1e74f1014b01be9ba03c185985fb1a8f959ef627dce4ca748cdad676"
+    },
+    {
+     "from": "2022-03-18",
+     "units": 36,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3818",
+     "sha256": "6333051a1e74f1014b01be9ba03c185985fb1a8f959ef627dce4ca748cdad676"
+    },
+    {
+     "from": "2023-10-14",
+     "units": 36,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3818",
+     "sha256": "6333051a1e74f1014b01be9ba03c185985fb1a8f959ef627dce4ca748cdad676"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1988-014",
+   "short": "Ley 14/1988, de 28 de octubre",
+   "title": "Ley 14/1988, de 28 de octubre, de Retribuciones de Altos Cargos.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-3819",
+   "versions": [
+    {
+     "from": "1988-11-24",
+     "units": 15,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3819",
+     "sha256": "5910e9419f11b6a785aeaeec04234b1d9faac772588c5d7784539b3abadad700"
+    },
+    {
+     "from": "1995-04-27",
+     "units": 15,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3819",
+     "sha256": "5910e9419f11b6a785aeaeec04234b1d9faac772588c5d7784539b3abadad700"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 15,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3819",
+     "sha256": "5910e9419f11b6a785aeaeec04234b1d9faac772588c5d7784539b3abadad700"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 17,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3819",
+     "sha256": "5910e9419f11b6a785aeaeec04234b1d9faac772588c5d7784539b3abadad700"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1989-001",
+   "short": "Ley 1/1989, de 13 de abril",
+   "title": "Ley 1/1989, de 13 de abril, por la que se modifica la calificación de determinadas infracciones administrativas en materia de caza y pesca fluvial y se elevan las cuantías de las sanciones.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-3400",
+   "versions": [
+    {
+     "from": "1989-06-01",
+     "units": 12,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3400",
+     "sha256": "b2cb0347bb71b85fb6dd2299346c951a7e47d1f4ac6cd95718962ca2048619ae"
+    },
+    {
+     "from": "1989-09-05",
+     "units": 12,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3400",
+     "sha256": "b2cb0347bb71b85fb6dd2299346c951a7e47d1f4ac6cd95718962ca2048619ae"
+    },
+    {
+     "from": "1990-01-29",
+     "units": 12,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3400",
+     "sha256": "b2cb0347bb71b85fb6dd2299346c951a7e47d1f4ac6cd95718962ca2048619ae"
+    },
+    {
+     "from": "1994-08-16",
+     "units": 12,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3400",
+     "sha256": "b2cb0347bb71b85fb6dd2299346c951a7e47d1f4ac6cd95718962ca2048619ae"
+    },
+    {
+     "from": "1997-01-03",
+     "units": 12,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3400",
+     "sha256": "b2cb0347bb71b85fb6dd2299346c951a7e47d1f4ac6cd95718962ca2048619ae"
+    },
+    {
+     "from": "2011-03-30",
+     "units": 12,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3400",
+     "sha256": "b2cb0347bb71b85fb6dd2299346c951a7e47d1f4ac6cd95718962ca2048619ae"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1989-002",
+   "short": "Ley 2/1989, de 30 de mayo",
+   "title": "Ley 2/1989, de 30 de mayo, reguladora del Plan General de Carreteras del País Vasco.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-3401",
+   "versions": [
+    {
+     "from": "1989-06-09",
+     "units": 34,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3401",
+     "sha256": "ef3ff0a34563464b8d774bb08008158ca6033647d632aa7f93342c11cc5c4d56"
+    },
+    {
+     "from": "1989-09-27",
+     "units": 34,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3401",
+     "sha256": "ef3ff0a34563464b8d774bb08008158ca6033647d632aa7f93342c11cc5c4d56"
+    },
+    {
+     "from": "1990-02-22",
+     "units": 34,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3401",
+     "sha256": "ef3ff0a34563464b8d774bb08008158ca6033647d632aa7f93342c11cc5c4d56"
+    },
+    {
+     "from": "1991-11-26",
+     "units": 34,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3401",
+     "sha256": "ef3ff0a34563464b8d774bb08008158ca6033647d632aa7f93342c11cc5c4d56"
+    },
+    {
+     "from": "1998-07-17",
+     "units": 34,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3401",
+     "sha256": "ef3ff0a34563464b8d774bb08008158ca6033647d632aa7f93342c11cc5c4d56"
+    },
+    {
+     "from": "2002-10-16",
+     "units": 34,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3401",
+     "sha256": "ef3ff0a34563464b8d774bb08008158ca6033647d632aa7f93342c11cc5c4d56"
+    },
+    {
+     "from": "2009-08-11",
+     "units": 34,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3401",
+     "sha256": "ef3ff0a34563464b8d774bb08008158ca6033647d632aa7f93342c11cc5c4d56"
+    },
+    {
+     "from": "2018-12-12",
+     "units": 34,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3401",
+     "sha256": "ef3ff0a34563464b8d774bb08008158ca6033647d632aa7f93342c11cc5c4d56"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1989-003",
+   "short": "Ley 3/1989, de 30 de mayo",
+   "title": "Ley 3/1989, de 30 de mayo, de Armonización, Coordinación y Colaboración Fiscal.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-3402",
+   "versions": [
+    {
+     "from": "1989-06-10",
+     "units": 22,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3402",
+     "sha256": "710880c45c7ac21a918940afecd30556e122cedb28f40565281617e37cb28fea"
+    },
+    {
+     "from": "1990-01-01",
+     "units": 23,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3402",
+     "sha256": "710880c45c7ac21a918940afecd30556e122cedb28f40565281617e37cb28fea"
+    },
+    {
+     "from": "1998-03-31",
+     "units": 25,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3402",
+     "sha256": "710880c45c7ac21a918940afecd30556e122cedb28f40565281617e37cb28fea"
+    },
+    {
+     "from": "2016-04-15",
+     "units": 25,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3402",
+     "sha256": "710880c45c7ac21a918940afecd30556e122cedb28f40565281617e37cb28fea"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1989-005",
+   "short": "Ley 5/1989, de 6 de julio",
+   "title": "Ley 5/1989, de 6 de julio, de Protección y Ordenación de la Reserva de la Biosfera de Urdaibai.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-3404",
+   "versions": [
+    {
+     "from": "1989-07-30",
+     "units": 37,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3404",
+     "sha256": "31c8481af7ef3829ee6dc603b9443c8b18790c7fdd8716e93e040abae2b8230c"
+    },
+    {
+     "from": "1997-11-18",
+     "units": 37,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3404",
+     "sha256": "31c8481af7ef3829ee6dc603b9443c8b18790c7fdd8716e93e040abae2b8230c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1990-001",
+   "short": "Ley 1/1990, de 6 de abril",
+   "title": "Ley 1/1990, de 6 de abril, por la que se determina la Capitalidad de los Partidos Judiciales de la Comunidad Autónoma del País Vasco.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-2855",
+   "versions": [
+    {
+     "from": "1990-05-15",
+     "units": 7,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2855",
+     "sha256": "00be9bf7810d7609f873bd35a15dfe2d310d8c7e3e55d460f5ba62e02ea3509c"
+    },
+    {
+     "from": "1992-11-03",
+     "units": 7,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2855",
+     "sha256": "00be9bf7810d7609f873bd35a15dfe2d310d8c7e3e55d460f5ba62e02ea3509c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1990-004",
+   "short": "Ley 4/1990, de 31 de mayo",
+   "title": "Ley 4/1990, de 31 de mayo, de Ordenación del Territorio del País Vasco.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-2858",
+   "versions": [
+    {
+     "from": "1990-07-04",
+     "units": 47,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2858",
+     "sha256": "5338b4bca3bf5f468b5c9e95b72fdc3e86795378d8fab5f608ea65919dccc815"
+    },
+    {
+     "from": "1990-10-31",
+     "units": 47,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2858",
+     "sha256": "5338b4bca3bf5f468b5c9e95b72fdc3e86795378d8fab5f608ea65919dccc815"
+    },
+    {
+     "from": "1991-03-21",
+     "units": 47,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2858",
+     "sha256": "5338b4bca3bf5f468b5c9e95b72fdc3e86795378d8fab5f608ea65919dccc815"
+    },
+    {
+     "from": "1998-07-30",
+     "units": 47,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2858",
+     "sha256": "5338b4bca3bf5f468b5c9e95b72fdc3e86795378d8fab5f608ea65919dccc815"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 53,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2858",
+     "sha256": "5338b4bca3bf5f468b5c9e95b72fdc3e86795378d8fab5f608ea65919dccc815"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1990-005",
+   "short": "Ley 5/1990, de 15 de junio",
+   "title": "Ley 5/1990, de 15 de junio, de Elecciones al Parlamento Vasco.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-2859",
+   "versions": [
+    {
+     "from": "1990-07-07",
+     "units": 167,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2859",
+     "sha256": "ffbe59247ff65bb5eb8085eeaceedb84575ca85b2f50dcf59d3b22980593b875"
+    },
+    {
+     "from": "1998-07-10",
+     "units": 177,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2859",
+     "sha256": "ffbe59247ff65bb5eb8085eeaceedb84575ca85b2f50dcf59d3b22980593b875"
+    },
+    {
+     "from": "2000-11-07",
+     "units": 177,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2859",
+     "sha256": "ffbe59247ff65bb5eb8085eeaceedb84575ca85b2f50dcf59d3b22980593b875"
+    },
+    {
+     "from": "2003-04-11",
+     "units": 177,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2859",
+     "sha256": "ffbe59247ff65bb5eb8085eeaceedb84575ca85b2f50dcf59d3b22980593b875"
+    },
+    {
+     "from": "2005-03-03",
+     "units": 177,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2859",
+     "sha256": "ffbe59247ff65bb5eb8085eeaceedb84575ca85b2f50dcf59d3b22980593b875"
+    },
+    {
+     "from": "2016-01-08",
+     "units": 180,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2859",
+     "sha256": "ffbe59247ff65bb5eb8085eeaceedb84575ca85b2f50dcf59d3b22980593b875"
+    },
+    {
+     "from": "2026-05-05",
+     "units": 180,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2859",
+     "sha256": "ffbe59247ff65bb5eb8085eeaceedb84575ca85b2f50dcf59d3b22980593b875"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1990-007",
+   "short": "Ley 7/1990, de 3 de julio",
+   "title": "Ley 7/1990, de 3 de julio, de Patrimonio Cultural Vasco.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-2861",
+   "versions": [
+    {
+     "from": "1990-08-07",
+     "units": 123,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2861",
+     "sha256": "370fffab70d1b74a25e5708d18a246c688498ca62b8820410e6e6a521a926aa3"
+    },
+    {
+     "from": "2007-01-11",
+     "units": 123,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2861",
+     "sha256": "370fffab70d1b74a25e5708d18a246c688498ca62b8820410e6e6a521a926aa3"
+    },
+    {
+     "from": "2007-03-19",
+     "units": 124,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2861",
+     "sha256": "370fffab70d1b74a25e5708d18a246c688498ca62b8820410e6e6a521a926aa3"
+    },
+    {
+     "from": "2007-12-09",
+     "units": 125,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2861",
+     "sha256": "370fffab70d1b74a25e5708d18a246c688498ca62b8820410e6e6a521a926aa3"
+    },
+    {
+     "from": "2008-01-16",
+     "units": 125,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2861",
+     "sha256": "370fffab70d1b74a25e5708d18a246c688498ca62b8820410e6e6a521a926aa3"
+    },
+    {
+     "from": "2019-05-21",
+     "units": 126,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2861",
+     "sha256": "370fffab70d1b74a25e5708d18a246c688498ca62b8820410e6e6a521a926aa3"
+    },
+    {
+     "from": "2022-07-14",
+     "units": 128,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2861",
+     "sha256": "370fffab70d1b74a25e5708d18a246c688498ca62b8820410e6e6a521a926aa3"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1991-004",
+   "short": "Ley 4/1991, de 8 de noviembre",
+   "title": "Ley 4/1991, de 8 de noviembre, reguladora del juego en la Comunidad Autónoma del País Vasco.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-2681",
+   "versions": [
+    {
+     "from": "1991-11-26",
+     "units": 51,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2681",
+     "sha256": "15c2ec11887c5787e4a05ce05e0134af89875d60ae0c00c2b9dfe655099ec277"
+    },
+    {
+     "from": "1998-07-15",
+     "units": 51,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2681",
+     "sha256": "15c2ec11887c5787e4a05ce05e0134af89875d60ae0c00c2b9dfe655099ec277"
+    },
+    {
+     "from": "2012-05-01",
+     "units": 51,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2681",
+     "sha256": "15c2ec11887c5787e4a05ce05e0134af89875d60ae0c00c2b9dfe655099ec277"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1992-002",
+   "short": "Ley 2/1992, de 8 de mayo",
+   "title": "Ley 2/1992, de 8 de mayo, de ordenación del personal al servicio del Consejo de Relaciones Laborales.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-2256",
+   "versions": [
+    {
+     "from": "1992-06-12",
+     "units": 14,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2256",
+     "sha256": "a7a1d657bd6051fad25b98c862c3cb4b2f3bfd09806ffd46a01c54ebf1c79c7a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1992-005",
+   "short": "Ley 5/1992, de 16 de octubre",
+   "title": "Ley 5/1992, de 16 de octubre, por la que se complementa la Ley 1/1990, de 6 de abril, de determinación de la capitalidad de los Partidos Judiciales de la Comunidad Autónoma del País Vasco.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-2259",
+   "versions": [
+    {
+     "from": "1992-11-03",
+     "units": 5,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2259",
+     "sha256": "2a953b18224d7b524c12794aa2d4653718a1dedc88dde1524925f5ca477b565b"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1992-006",
+   "short": "Ley 6/1992, de 16 de octubre",
+   "title": "Ley 6/1992, de 16 de octubre, del Impuesto sobre el Juego del Bingo y del recargo de la tasa sobre el juego que se desarrolla mediante máquinas o aparatos automáticos aptos para la realización de juegos de azar.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-2260",
+   "versions": [
+    {
+     "from": "1993-01-01",
+     "units": 22,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2260",
+     "sha256": "4c6b3be014e24e43597de9628510bc1e6403902fd7132adda88802f8ee261af9"
+    },
+    {
+     "from": "1995-04-27",
+     "units": 22,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2260",
+     "sha256": "4c6b3be014e24e43597de9628510bc1e6403902fd7132adda88802f8ee261af9"
+    },
+    {
+     "from": "1995-12-30",
+     "units": 22,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2260",
+     "sha256": "4c6b3be014e24e43597de9628510bc1e6403902fd7132adda88802f8ee261af9"
+    },
+    {
+     "from": "2011-03-01",
+     "units": 22,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2260",
+     "sha256": "4c6b3be014e24e43597de9628510bc1e6403902fd7132adda88802f8ee261af9"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 22,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2260",
+     "sha256": "4c6b3be014e24e43597de9628510bc1e6403902fd7132adda88802f8ee261af9"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1992-007",
+   "short": "Ley 7/1992, de 21 de diciembre",
+   "title": "Ley 7/1992, de 21 de diciembre, que regula determinados aspectos relacionados con Zonas Regables, Planes Comarcales de Mejora y Planes Generales de Transformación.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-2261",
+   "versions": [
+    {
+     "from": "1993-01-19",
+     "units": 10,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2261",
+     "sha256": "fb3a07fd5933f5ef8707d366c43fe1cf6f6b8c06bc3e7831b4f7d35545621a44"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1993-007",
+   "short": "Ley 7/1993, de 21 de diciembre",
+   "title": "Ley 7/1993, de 21 de diciembre, de creación de OSALAN - Instituto Vasco de Seguridad y Salud Laborales.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-2014",
+   "versions": [
+    {
+     "from": "1994-01-08",
+     "units": 25,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2014",
+     "sha256": "1cd6deade190caaafc212820eda240e85246d9c4ea49780210c77bbdcefcea8d"
+    },
+    {
+     "from": "1997-07-29",
+     "units": 26,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2014",
+     "sha256": "1cd6deade190caaafc212820eda240e85246d9c4ea49780210c77bbdcefcea8d"
+    },
+    {
+     "from": "2012-01-01",
+     "units": 26,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2014",
+     "sha256": "1cd6deade190caaafc212820eda240e85246d9c4ea49780210c77bbdcefcea8d"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1994-007",
+   "short": "Ley 7/1994, de 27 de mayo",
+   "title": "Ley 7/1994, de 27 de mayo, de la Actividad Comercial.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-1540",
+   "versions": [
+    {
+     "from": "1994-07-03",
+     "units": 57,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-1540",
+     "sha256": "086424af9cbad681bd76bae24cb575917a9ffc2788cb4208f97594fe7f616b15"
+    },
+    {
+     "from": "2001-01-01",
+     "units": 57,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-1540",
+     "sha256": "086424af9cbad681bd76bae24cb575917a9ffc2788cb4208f97594fe7f616b15"
+    },
+    {
+     "from": "2003-12-31",
+     "units": 57,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-1540",
+     "sha256": "086424af9cbad681bd76bae24cb575917a9ffc2788cb4208f97594fe7f616b15"
+    },
+    {
+     "from": "2008-07-05",
+     "units": 58,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-1540",
+     "sha256": "086424af9cbad681bd76bae24cb575917a9ffc2788cb4208f97594fe7f616b15"
+    },
+    {
+     "from": "2012-05-01",
+     "units": 58,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-1540",
+     "sha256": "086424af9cbad681bd76bae24cb575917a9ffc2788cb4208f97594fe7f616b15"
+    },
+    {
+     "from": "2019-07-10",
+     "units": 58,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-1540",
+     "sha256": "086424af9cbad681bd76bae24cb575917a9ffc2788cb4208f97594fe7f616b15"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1994-008",
+   "short": "Ley 8/1994, de 27 de mayo",
+   "title": "Ley 8/1994, de 27 de mayo, de relaciones con las colectividades y centros vascos en el exterior de la Comunidad Autónoma del País Vasco.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-1541",
+   "versions": [
+    {
+     "from": "1994-07-03",
+     "units": 20,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-1541",
+     "sha256": "df6a51163b20ae1426147e10eea416359361524a9315cc6d598806112cb24a5f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1994-011",
+   "short": "Ley 11/1994, de 17 de junio",
+   "title": "Ley 11/1994, de 17 de junio, de Ordenación Farmacéutica de la Comunidad Autónoma del País Vasco.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-1682",
+   "versions": [
+    {
+     "from": "1994-08-04",
+     "units": 57,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-1682",
+     "sha256": "aecefaddf65f5ee39ca11962778e5c24494a09ec3a45bf855148c983c22331b0"
+    },
+    {
+     "from": "2012-05-01",
+     "units": 57,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-1682",
+     "sha256": "aecefaddf65f5ee39ca11962778e5c24494a09ec3a45bf855148c983c22331b0"
+    },
+    {
+     "from": "2012-05-16",
+     "units": 57,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-1682",
+     "sha256": "aecefaddf65f5ee39ca11962778e5c24494a09ec3a45bf855148c983c22331b0"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1994-013",
+   "short": "Ley 13/1994, de 30 de junio",
+   "title": "Ley 13/1994, de 30 de junio, por la que se regula la Comisión Arbitral.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-1684",
+   "versions": [
+    {
+     "from": "1994-08-16",
+     "units": 72,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-1684",
+     "sha256": "07dbc5bbf91672cec7c682f0d93a6048129a8bdbd7a90eb516d1102bc28355d4"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1996-002",
+   "short": "Ley 2/1996, de 10 de mayo",
+   "title": "Ley 2/1996, de 10 de mayo, de Organizaciones Interprofesionales Agroalimentarias del País Vasco.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-865",
+   "versions": [
+    {
+     "from": "1996-06-01",
+     "units": 21,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-865",
+     "sha256": "f0239dc2dd6cf238fc25194b449a2e9882bfb4abf5dccfc45a7840a6ed5fc252"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1996-008",
+   "short": "Ley 8/1996, de 8 de noviembre",
+   "title": "Ley 8/1996, de 8 de noviembre, de Finanzas de la Comunidad Autónoma de Euskadi.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-871",
+   "versions": [
+    {
+     "from": "1997-01-01",
+     "units": 64,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-871",
+     "sha256": "c8b85bf11a71c0af4b982fc89cc80fbdb1efd2cfc333a87117e40e33d102aa2a"
+    },
+    {
+     "from": "1998-01-20",
+     "units": 64,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-871",
+     "sha256": "c8b85bf11a71c0af4b982fc89cc80fbdb1efd2cfc333a87117e40e33d102aa2a"
+    },
+    {
+     "from": "2007-01-01",
+     "units": 64,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-871",
+     "sha256": "c8b85bf11a71c0af4b982fc89cc80fbdb1efd2cfc333a87117e40e33d102aa2a"
+    },
+    {
+     "from": "2007-01-11",
+     "units": 64,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-871",
+     "sha256": "c8b85bf11a71c0af4b982fc89cc80fbdb1efd2cfc333a87117e40e33d102aa2a"
+    },
+    {
+     "from": "2008-01-23",
+     "units": 64,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-871",
+     "sha256": "c8b85bf11a71c0af4b982fc89cc80fbdb1efd2cfc333a87117e40e33d102aa2a"
+    },
+    {
+     "from": "2012-01-01",
+     "units": 65,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-871",
+     "sha256": "c8b85bf11a71c0af4b982fc89cc80fbdb1efd2cfc333a87117e40e33d102aa2a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1997-005",
+   "short": "Ley 5/1997, de 30 de mayo",
+   "title": "Ley 5/1997, de 30 de mayo, reguladora de utilización y control de los créditos destinados a gastos reservados.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-412",
+   "versions": [
+    {
+     "from": "1997-06-25",
+     "units": 14,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-412",
+     "sha256": "386b838d716a9e22d5ef987944920becad61b615c8adc84b1272bc5d6249ffab"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1997-008",
+   "short": "Ley 8/1997, de 26 de junio",
+   "title": "Ley 8/1997, de 26 de junio, de Ordenación Sanitaria de Euskadi.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-415",
+   "versions": [
+    {
+     "from": "1997-07-22",
+     "units": 52,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-415",
+     "sha256": "2762cf4ace27792b246dcdeaa1b7a0b9ef30a2c24955afb1a40e122d45bdb796"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 53,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-415",
+     "sha256": "2762cf4ace27792b246dcdeaa1b7a0b9ef30a2c24955afb1a40e122d45bdb796"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-legislativo-1997-001",
+   "short": "Decreto Legislativo 1/1997, de 11 de noviembre",
+   "title": "Decreto Legislativo 1/1997, de 11 de noviembre, por el que se aprueba el Texto Refundido de la Ley de Principios Ordenadores de la Hacienda General del País Vasco.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOPV-p-1998-90002",
+   "versions": [
+    {
+     "from": "1998-01-20",
+     "units": 72,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOPV-p-1998-90002",
+     "sha256": "26b340d8b593dd7dad7fb30261609125d25691b6ac8830754b73900d8414ee5a"
+    },
+    {
+     "from": "2005-03-03",
+     "units": 72,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOPV-p-1998-90002",
+     "sha256": "26b340d8b593dd7dad7fb30261609125d25691b6ac8830754b73900d8414ee5a"
+    },
+    {
+     "from": "2006-10-21",
+     "units": 72,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOPV-p-1998-90002",
+     "sha256": "26b340d8b593dd7dad7fb30261609125d25691b6ac8830754b73900d8414ee5a"
+    },
+    {
+     "from": "2007-01-01",
+     "units": 73,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOPV-p-1998-90002",
+     "sha256": "26b340d8b593dd7dad7fb30261609125d25691b6ac8830754b73900d8414ee5a"
+    },
+    {
+     "from": "2007-01-11",
+     "units": 76,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOPV-p-1998-90002",
+     "sha256": "26b340d8b593dd7dad7fb30261609125d25691b6ac8830754b73900d8414ee5a"
+    },
+    {
+     "from": "2007-07-13",
+     "units": 76,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOPV-p-1998-90002",
+     "sha256": "26b340d8b593dd7dad7fb30261609125d25691b6ac8830754b73900d8414ee5a"
+    },
+    {
+     "from": "2008-01-23",
+     "units": 76,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOPV-p-1998-90002",
+     "sha256": "26b340d8b593dd7dad7fb30261609125d25691b6ac8830754b73900d8414ee5a"
+    },
+    {
+     "from": "2011-01-01",
+     "units": 76,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOPV-p-1998-90002",
+     "sha256": "26b340d8b593dd7dad7fb30261609125d25691b6ac8830754b73900d8414ee5a"
+    },
+    {
+     "from": "2012-01-01",
+     "units": 76,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOPV-p-1998-90002",
+     "sha256": "26b340d8b593dd7dad7fb30261609125d25691b6ac8830754b73900d8414ee5a"
+    },
+    {
+     "from": "2012-03-13",
+     "units": 77,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOPV-p-1998-90002",
+     "sha256": "26b340d8b593dd7dad7fb30261609125d25691b6ac8830754b73900d8414ee5a"
+    },
+    {
+     "from": "2015-04-02",
+     "units": 77,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOPV-p-1998-90002",
+     "sha256": "26b340d8b593dd7dad7fb30261609125d25691b6ac8830754b73900d8414ee5a"
+    },
+    {
+     "from": "2017-04-20",
+     "units": 77,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOPV-p-1998-90002",
+     "sha256": "26b340d8b593dd7dad7fb30261609125d25691b6ac8830754b73900d8414ee5a"
+    },
+    {
+     "from": "2021-02-18",
+     "units": 77,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOPV-p-1998-90002",
+     "sha256": "26b340d8b593dd7dad7fb30261609125d25691b6ac8830754b73900d8414ee5a"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 77,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOPV-p-1998-90002",
+     "sha256": "26b340d8b593dd7dad7fb30261609125d25691b6ac8830754b73900d8414ee5a"
+    },
+    {
+     "from": "2022-03-18",
+     "units": 77,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOPV-p-1998-90002",
+     "sha256": "26b340d8b593dd7dad7fb30261609125d25691b6ac8830754b73900d8414ee5a"
+    },
+    {
+     "from": "2022-05-21",
+     "units": 78,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOPV-p-1998-90002",
+     "sha256": "26b340d8b593dd7dad7fb30261609125d25691b6ac8830754b73900d8414ee5a"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 79,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOPV-p-1998-90002",
+     "sha256": "26b340d8b593dd7dad7fb30261609125d25691b6ac8830754b73900d8414ee5a"
+    },
+    {
+     "from": "2023-12-30",
+     "units": 79,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOPV-p-1998-90002",
+     "sha256": "26b340d8b593dd7dad7fb30261609125d25691b6ac8830754b73900d8414ee5a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1997-018",
+   "short": "Ley 18/1997, de 21 de noviembre",
+   "title": "Ley 18/1997, de 21 de noviembre, de ejercicio de profesiones tituladas y de colegios y consejos profesionales.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-539",
+   "versions": [
+    {
+     "from": "1997-12-31",
+     "units": 74,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-539",
+     "sha256": "946858bd238742526ad85fa6cd74a971ac5e40cead692f27c7fea6cdf0331dbe"
+    },
+    {
+     "from": "2012-05-01",
+     "units": 75,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-539",
+     "sha256": "946858bd238742526ad85fa6cd74a971ac5e40cead692f27c7fea6cdf0331dbe"
+    },
+    {
+     "from": "2014-10-28",
+     "units": 75,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-539",
+     "sha256": "946858bd238742526ad85fa6cd74a971ac5e40cead692f27c7fea6cdf0331dbe"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1997-019",
+   "short": "Ley 19/1997, de 21 de noviembre",
+   "title": "Ley 19/1997, de 21 de noviembre, de creación del Colegio Profesional de Podólogos del País Vasco.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-540",
+   "versions": [
+    {
+     "from": "1997-12-12",
+     "units": 10,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-540",
+     "sha256": "ba6c777c1dd5a1131cd86d50898c8d9909eba295759635485c6b685a4d6bb709"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1997-020",
+   "short": "Ley 20/1997, de 4 de diciembre",
+   "title": "Ley 20/1997, de 4 de diciembre, para la Promoción de la Accesibilidad.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-541",
+   "versions": [
+    {
+     "from": "1998-04-24",
+     "units": 35,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-541",
+     "sha256": "80d6103ee9a3cb1ff9a2cf4522f7a7716a5e45cb4df2f9b7fefccf3991e2c4e2"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1998-006",
+   "short": "Ley 6/1998, de 13 de marzo",
+   "title": "Ley 6/1998, de 13 de marzo, de Pesca Marítima.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-20039",
+   "versions": [
+    {
+     "from": "1998-04-21",
+     "units": 82,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-20039",
+     "sha256": "d9dc9338aaeb55ffc688128cc2053c4f0720f1cf27f2e0ee29c5a5a0aa81521c"
+    },
+    {
+     "from": "2015-06-18",
+     "units": 82,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-20039",
+     "sha256": "d9dc9338aaeb55ffc688128cc2053c4f0720f1cf27f2e0ee29c5a5a0aa81521c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1998-009",
+   "short": "Ley 9/1998, de 3 de abril",
+   "title": "Ley 9/1998, de 3 de abril, para la Integración del Conservatorio de Música de grado medio de Donostia (Donostia-San Sebastián) y del Conservatorio de Música de grado medio \"Jesús Guridi\" (Vitoria-Gasteiz) en la red pública de Centros Docentes Dependiente de la Administración General de la Comunidad Autónoma del País Vasco.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-20042",
+   "versions": [
+    {
+     "from": "1998-05-05",
+     "units": 18,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-20042",
+     "sha256": "4ef93094bf15c58210af2d908ae87d9644f57a12873fcedcd85680cca970d543"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1998-016",
+   "short": "Ley 16/1998, de 25 de junio",
+   "title": "Ley 16/1998, de 25 de junio, de Cofradías de Pescadores.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-20659",
+   "versions": [
+    {
+     "from": "1998-07-30",
+     "units": 82,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-20659",
+     "sha256": "1cd04ca915d519adc0a622fe156b7b64a5ae11e958b3819eff01e90063749215"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1998-017",
+   "short": "Ley 17/1998, de 25 de junio",
+   "title": "Ley 17/1998, de 25 de junio, del Voluntariado.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-20660",
+   "versions": [
+    {
+     "from": "1998-07-14",
+     "units": 24,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-20660",
+     "sha256": "2373c5c69e16f29584d79d50f1901e3fa13c0f4f1dda005fdaebe6adc0a6923a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2000-002",
+   "short": "Ley 2/2000, de 29 de junio",
+   "title": "Ley 2/2000, de 29 de junio, de Transporte Público Urbano e Interurbano de Viajeros en Automóviles de Turismo.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-19444",
+   "versions": [
+    {
+     "from": "2000-08-02",
+     "units": 40,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-19444",
+     "sha256": "14a0cd6173471aaa953b982aed2aada7af7874d9a35336b88c7c9f12e37d1a17"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2000-003",
+   "short": "Ley 3/2000, de 29 de junio",
+   "title": "Ley 3/2000, de 29 de junio, de creación del Colegio de Ingenieros en Informática del País Vasco.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-19445",
+   "versions": [
+    {
+     "from": "2000-08-03",
+     "units": 10,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-19445",
+     "sha256": "0c3f6a77261bba924ab6c73e2cd62dff0c4998a5a6315fe414b6e3b50c17674e"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2000-010",
+   "short": "Ley 10/2000, de 27 de diciembre",
+   "title": "Ley 10/2000, de 27 de diciembre, de Carta de Derechos Sociales.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-19452",
+   "versions": [
+    {
+     "from": "2001-01-01",
+     "units": 16,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-19452",
+     "sha256": "b6e6f304811758a4ac6f719173e57f0b485c7776704af0499693b68139a43382"
+    },
+    {
+     "from": "2007-07-13",
+     "units": 16,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-19452",
+     "sha256": "b6e6f304811758a4ac6f719173e57f0b485c7776704af0499693b68139a43382"
+    },
+    {
+     "from": "2008-07-05",
+     "units": 16,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-19452",
+     "sha256": "b6e6f304811758a4ac6f719173e57f0b485c7776704af0499693b68139a43382"
+    },
+    {
+     "from": "2009-01-01",
+     "units": 16,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-19452",
+     "sha256": "b6e6f304811758a4ac6f719173e57f0b485c7776704af0499693b68139a43382"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2001-001",
+   "short": "Ley 1/2001, de 16 de marzo",
+   "title": "Ley 1/2001, de 16 de marzo, de creación del Colegio Oficial de Fisioterapeutas del País Vasco.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-19048",
+   "versions": [
+    {
+     "from": "2001-04-12",
+     "units": 10,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-19048",
+     "sha256": "51084435a737f529ca1ac4bd5f32a782c083ff998beadd43078feb61e8a47b8a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2002-007",
+   "short": "Ley 7/2002, de 12 de diciembre",
+   "title": "Ley 7/2002, de 12 de diciembre, de las voluntades anticipadas en el ámbito de la sanidad.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-19056",
+   "versions": [
+    {
+     "from": "2002-12-31",
+     "units": 12,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-19056",
+     "sha256": "3985f0dadf91a71ffc2010ee5f5b949a5514fe5c1c710783599c3ccd3316a233"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2003-002",
+   "short": "Ley 2/2003, de 7 de mayo",
+   "title": "Ley 2/2003, de 7 de mayo, reguladora de las parejas de hecho.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-18545",
+   "versions": [
+    {
+     "from": "2003-05-24",
+     "units": 28,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-18545",
+     "sha256": "beefe640ad4a6e3129facffe8e38730fa145a0c6e666d137cc3178508e20d2f4"
+    },
+    {
+     "from": "2003-08-20",
+     "units": 28,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-18545",
+     "sha256": "beefe640ad4a6e3129facffe8e38730fa145a0c6e666d137cc3178508e20d2f4"
+    },
+    {
+     "from": "2003-12-31",
+     "units": 28,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-18545",
+     "sha256": "beefe640ad4a6e3129facffe8e38730fa145a0c6e666d137cc3178508e20d2f4"
+    },
+    {
+     "from": "2005-01-05",
+     "units": 28,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-18545",
+     "sha256": "beefe640ad4a6e3129facffe8e38730fa145a0c6e666d137cc3178508e20d2f4"
+    },
+    {
+     "from": "2015-10-03",
+     "units": 28,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-18545",
+     "sha256": "beefe640ad4a6e3129facffe8e38730fa145a0c6e666d137cc3178508e20d2f4"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2003-005",
+   "short": "Ley 5/2003, de 15 de diciembre",
+   "title": "Ley 5/2003, de 15 de diciembre, de la Autoridad del Transporte de Euskadi.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-18548",
+   "versions": [
+    {
+     "from": "2003-12-25",
+     "units": 21,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-18548",
+     "sha256": "8c6798e1280c385bdef001829d013000ec986b5050f10ad49a9e37fab7737f4e"
+    },
+    {
+     "from": "2023-11-24",
+     "units": 21,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-18548",
+     "sha256": "8c6798e1280c385bdef001829d013000ec986b5050f10ad49a9e37fab7737f4e"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2003-007",
+   "short": "Ley 7/2003, de 22 de diciembre",
+   "title": "Ley 7/2003, de 22 de diciembre, de creación del Colegio de Educadoras y Educadores Sociales del País Vasco.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-18550",
+   "versions": [
+    {
+     "from": "2003-12-31",
+     "units": 10,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-18550",
+     "sha256": "752881b3ba504288836f415a3e226babf8e5bb94ce4956b453847361f70c1715"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2004-003",
+   "short": "Ley 3/2004, de 25 de febrero",
+   "title": "Ley 3/2004, de 25 de febrero, del Sistema Universitario Vasco.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-18152",
+   "versions": [
+    {
+     "from": "2004-04-01",
+     "units": 134,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-18152",
+     "sha256": "a02b8e7c4225081b39645e6b115670e6433fd60765a82ed28b558b54676ebed1"
+    },
+    {
+     "from": "2004-08-03",
+     "units": 134,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-18152",
+     "sha256": "a02b8e7c4225081b39645e6b115670e6433fd60765a82ed28b558b54676ebed1"
+    },
+    {
+     "from": "2004-11-25",
+     "units": 134,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-18152",
+     "sha256": "a02b8e7c4225081b39645e6b115670e6433fd60765a82ed28b558b54676ebed1"
+    },
+    {
+     "from": "2007-03-15",
+     "units": 134,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-18152",
+     "sha256": "a02b8e7c4225081b39645e6b115670e6433fd60765a82ed28b558b54676ebed1"
+    },
+    {
+     "from": "2012-07-05",
+     "units": 136,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-18152",
+     "sha256": "a02b8e7c4225081b39645e6b115670e6433fd60765a82ed28b558b54676ebed1"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2004-004",
+   "short": "Ley 4/2004, de 18 de marzo",
+   "title": "Ley 4/2004, de 18 de marzo, de Transporte de Viajeros por Carretera.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-18153",
+   "versions": [
+    {
+     "from": "2004-03-30",
+     "units": 70,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-18153",
+     "sha256": "06c29f7dc33292ddea69e0d4563acd949372f05ecce44501f71c9968e70a7fef"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2004-005",
+   "short": "Ley 5/2004, de 7 de mayo",
+   "title": "Ley 5/2004, de 7 de mayo, de Ordenación Vitivinícola.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-18154",
+   "versions": [
+    {
+     "from": "2004-05-25",
+     "units": 81,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-18154",
+     "sha256": "cf496dbf10398e07ae4ec0fc72489528d95bf0c4778d5c6b7eb503467e1255ef"
+    },
+    {
+     "from": "2012-05-01",
+     "units": 82,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-18154",
+     "sha256": "cf496dbf10398e07ae4ec0fc72489528d95bf0c4778d5c6b7eb503467e1255ef"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2004-006",
+   "short": "Ley 6/2004, de 21 de mayo",
+   "title": "Ley 6/2004, de 21 de mayo, de Red Ferroviaria Vasca-Euskal Trenbide Sarea.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-18155",
+   "versions": [
+    {
+     "from": "2004-09-02",
+     "units": 28,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-18155",
+     "sha256": "21aa2166b6fa8cdc0a47faffc0e1aebbdc969a343990d5226c78c23dfe25480b"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2004-008",
+   "short": "Ley 8/2004, de 12 de noviembre",
+   "title": "Ley 8/2004, de 12 de noviembre, de Industria de la Comunidad Autónoma de Euskadi.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-18157",
+   "versions": [
+    {
+     "from": "2004-12-29",
+     "units": 52,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-18157",
+     "sha256": "22a802d92a60ba2b588d23a54e2e6b1726d40aa787ff141f2275d75d7b01bde4"
+    },
+    {
+     "from": "2012-05-01",
+     "units": 53,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-18157",
+     "sha256": "22a802d92a60ba2b588d23a54e2e6b1726d40aa787ff141f2275d75d7b01bde4"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2004-009",
+   "short": "Ley 9/2004, de 24 de noviembre",
+   "title": "Ley 9/2004, de 24 de noviembre, de la Comisión Jurídica Asesora de Euskadi.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-18158",
+   "versions": [
+    {
+     "from": "2004-12-16",
+     "units": 44,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-18158",
+     "sha256": "25f13c1175c8f98d27f18bf70885de66c85aa542ecd3c0c7342226e56f16716e"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2006-001",
+   "short": "Ley 1/2006, de 23 de junio",
+   "title": "Ley 1/2006, de 23 de junio, de Aguas.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-17399",
+   "versions": [
+    {
+     "from": "2007-01-19",
+     "units": 81,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-17399",
+     "sha256": "0960f363c8bc4c34b6726bf60c9039af01b9b7ac5d7c657af37db9c82c871b24"
+    },
+    {
+     "from": "2013-05-10",
+     "units": 81,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-17399",
+     "sha256": "0960f363c8bc4c34b6726bf60c9039af01b9b7ac5d7c657af37db9c82c871b24"
+    },
+    {
+     "from": "2015-07-10",
+     "units": 81,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-17399",
+     "sha256": "0960f363c8bc4c34b6726bf60c9039af01b9b7ac5d7c657af37db9c82c871b24"
+    },
+    {
+     "from": "2016-05-05",
+     "units": 81,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-17399",
+     "sha256": "0960f363c8bc4c34b6726bf60c9039af01b9b7ac5d7c657af37db9c82c871b24"
+    },
+    {
+     "from": "2016-10-08",
+     "units": 81,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-17399",
+     "sha256": "0960f363c8bc4c34b6726bf60c9039af01b9b7ac5d7c657af37db9c82c871b24"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 81,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-17399",
+     "sha256": "0960f363c8bc4c34b6726bf60c9039af01b9b7ac5d7c657af37db9c82c871b24"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 81,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-17399",
+     "sha256": "0960f363c8bc4c34b6726bf60c9039af01b9b7ac5d7c657af37db9c82c871b24"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 82,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-17399",
+     "sha256": "0960f363c8bc4c34b6726bf60c9039af01b9b7ac5d7c657af37db9c82c871b24"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 83,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-17399",
+     "sha256": "0960f363c8bc4c34b6726bf60c9039af01b9b7ac5d7c657af37db9c82c871b24"
+    },
+    {
+     "from": "2024-02-22",
+     "units": 83,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-17399",
+     "sha256": "0960f363c8bc4c34b6726bf60c9039af01b9b7ac5d7c657af37db9c82c871b24"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2006-002",
+   "short": "Ley 2/2006, de 30 de junio",
+   "title": "Ley 2/2006, de 30 de junio, de Suelo y Urbanismo.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-17400",
+   "versions": [
+    {
+     "from": "2006-09-20",
+     "units": 273,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-17400",
+     "sha256": "371e5f63f2aaca98447a9cb16f810482204fdf132ccd76a59a038d89f328d5fb"
+    },
+    {
+     "from": "2008-12-13",
+     "units": 273,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-17400",
+     "sha256": "371e5f63f2aaca98447a9cb16f810482204fdf132ccd76a59a038d89f328d5fb"
+    },
+    {
+     "from": "2009-01-01",
+     "units": 274,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-17400",
+     "sha256": "371e5f63f2aaca98447a9cb16f810482204fdf132ccd76a59a038d89f328d5fb"
+    },
+    {
+     "from": "2012-05-01",
+     "units": 274,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-17400",
+     "sha256": "371e5f63f2aaca98447a9cb16f810482204fdf132ccd76a59a038d89f328d5fb"
+    },
+    {
+     "from": "2014-07-04",
+     "units": 274,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-17400",
+     "sha256": "371e5f63f2aaca98447a9cb16f810482204fdf132ccd76a59a038d89f328d5fb"
+    },
+    {
+     "from": "2014-10-08",
+     "units": 274,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-17400",
+     "sha256": "371e5f63f2aaca98447a9cb16f810482204fdf132ccd76a59a038d89f328d5fb"
+    },
+    {
+     "from": "2015-07-10",
+     "units": 274,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-17400",
+     "sha256": "371e5f63f2aaca98447a9cb16f810482204fdf132ccd76a59a038d89f328d5fb"
+    },
+    {
+     "from": "2015-09-26",
+     "units": 274,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-17400",
+     "sha256": "371e5f63f2aaca98447a9cb16f810482204fdf132ccd76a59a038d89f328d5fb"
+    },
+    {
+     "from": "2016-05-05",
+     "units": 274,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-17400",
+     "sha256": "371e5f63f2aaca98447a9cb16f810482204fdf132ccd76a59a038d89f328d5fb"
+    },
+    {
+     "from": "2016-10-08",
+     "units": 274,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-17400",
+     "sha256": "371e5f63f2aaca98447a9cb16f810482204fdf132ccd76a59a038d89f328d5fb"
+    },
+    {
+     "from": "2018-02-21",
+     "units": 274,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-17400",
+     "sha256": "371e5f63f2aaca98447a9cb16f810482204fdf132ccd76a59a038d89f328d5fb"
+    },
+    {
+     "from": "2018-10-05",
+     "units": 274,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-17400",
+     "sha256": "371e5f63f2aaca98447a9cb16f810482204fdf132ccd76a59a038d89f328d5fb"
+    },
+    {
+     "from": "2022-07-16",
+     "units": 274,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-17400",
+     "sha256": "371e5f63f2aaca98447a9cb16f810482204fdf132ccd76a59a038d89f328d5fb"
+    },
+    {
+     "from": "2023-06-14",
+     "units": 274,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-17400",
+     "sha256": "371e5f63f2aaca98447a9cb16f810482204fdf132ccd76a59a038d89f328d5fb"
+    },
+    {
+     "from": "2024-01-05",
+     "units": 274,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-17400",
+     "sha256": "371e5f63f2aaca98447a9cb16f810482204fdf132ccd76a59a038d89f328d5fb"
+    },
+    {
+     "from": "2025-12-30",
+     "units": 274,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-17400",
+     "sha256": "371e5f63f2aaca98447a9cb16f810482204fdf132ccd76a59a038d89f328d5fb"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2006-004",
+   "short": "Ley 4/2006, de 10 de noviembre",
+   "title": "Ley 4/2006, de 10 de noviembre, de creación del Colegio de Logopedas del País Vasco",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-17402",
+   "versions": [
+    {
+     "from": "2006-11-24",
+     "units": 13,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-17402",
+     "sha256": "425674333dde05a874bfecd579de48b60973d5a550f704536b65d1bce98e0190"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2006-007",
+   "short": "Ley 7/2006, de 1 de diciembre",
+   "title": "Ley 7/2006, de 1 de diciembre, de Museos de Euskadi.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-17405",
+   "versions": [
+    {
+     "from": "2007-03-18",
+     "units": 40,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-17405",
+     "sha256": "7a85ccbecf4af27010b0d4f9bd1d723deb10b4f57f33644e4c79a3bdcef05271"
+    },
+    {
+     "from": "2012-05-01",
+     "units": 40,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-17405",
+     "sha256": "7a85ccbecf4af27010b0d4f9bd1d723deb10b4f57f33644e4c79a3bdcef05271"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2006-010",
+   "short": "Ley 10/2006, de 29 de diciembre",
+   "title": "Ley 10/2006, de 29 de diciembre, de Agricultura y Alimentación Ecológica de Euskadi.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-17408",
+   "versions": [
+    {
+     "from": "2007-01-06",
+     "units": 24,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-17408",
+     "sha256": "7c6cd6096863ffefa34c9bb9904ae79bc98dcbbf2a18aef49578c5de069129e7"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2007-003",
+   "short": "Ley 3/2007, de 20 de abril",
+   "title": "Ley 3/2007, de 20 de abril, de Creación y Regulación del Instituto Vasco Etxepare Euskal Institutua / Basque Institute.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-16283",
+   "versions": [
+    {
+     "from": "2007-05-11",
+     "units": 20,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-16283",
+     "sha256": "6a2f810d4a9ed710553be07721d322275b873f322a7b67e37d3a96f33043843c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2007-007",
+   "short": "Ley 7/2007, de 22 de junio",
+   "title": "Ley 7/2007, de 22 de junio, de Asociaciones de Euskadi.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-16287",
+   "versions": [
+    {
+     "from": "2007-07-13",
+     "units": 59,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-16287",
+     "sha256": "921f39df7172ef741416e70d447e1637d69f20a4cbbdf7669965f28d6bdf804f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2007-009",
+   "short": "Ley 9/2007, de 29 de junio",
+   "title": "Ley 9/2007, de 29 de junio, de creación de Kontsumobide-Instituto Vasco de Consumo.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-16752",
+   "versions": [
+    {
+     "from": "2007-07-21",
+     "units": 23,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-16752",
+     "sha256": "dc09eceedd9d4abd7ed5a9b9c8d973d448e1d3c28818590a33f4cee3504373ae"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2007-010",
+   "short": "Ley 10/2007, de 29 de junio",
+   "title": "Ley 10/2007, de 29 de junio, sobre Perros de Asistencia para la Atención a Personas con Discapacidad.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-16753",
+   "versions": [
+    {
+     "from": "2007-07-21",
+     "units": 26,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-16753",
+     "sha256": "1c431610dd66d01511a2bdf3637a2d3df58e5cfeebaa3777415b61d3f4cba96a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2007-011",
+   "short": "Ley 11/2007, de 26 de octubre",
+   "title": "Ley 11/2007, de 26 de octubre, de Bibliotecas de Euskadi.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-16754",
+   "versions": [
+    {
+     "from": "2007-12-09",
+     "units": 65,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-16754",
+     "sha256": "4240b2e285a85f400f529dbf45c174ebf1798600d8e30f95ef3ffc1b90528dd5"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-legislativo-2007-002",
+   "short": "Decreto Legislativo 2/2007, de 6 de noviembre",
+   "title": "Decreto Legislativo 2/2007, de 6 de noviembre, de aprobación del Texto Refundido de la Ley del Patrimonio de Euskadi.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOPV-p-2008-90003",
+   "versions": [
+    {
+     "from": "2008-01-23",
+     "units": 145,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOPV-p-2008-90003",
+     "sha256": "d8033934555e5cda80de98e7cadd8a1d5779fcffe0d99ea8a70bc26bdf0e6b82"
+    },
+    {
+     "from": "2012-01-01",
+     "units": 145,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOPV-p-2008-90003",
+     "sha256": "d8033934555e5cda80de98e7cadd8a1d5779fcffe0d99ea8a70bc26bdf0e6b82"
+    },
+    {
+     "from": "2020-01-29",
+     "units": 145,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOPV-p-2008-90003",
+     "sha256": "d8033934555e5cda80de98e7cadd8a1d5779fcffe0d99ea8a70bc26bdf0e6b82"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 145,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOPV-p-2008-90003",
+     "sha256": "d8033934555e5cda80de98e7cadd8a1d5779fcffe0d99ea8a70bc26bdf0e6b82"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2007-014",
+   "short": "Ley 14/2007, de 28 de diciembre",
+   "title": "Ley 14/2007, de 28 de diciembre, de Carta de Justicia y Solidaridad con los Países Empobrecidos.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-16757",
+   "versions": [
+    {
+     "from": "2008-01-10",
+     "units": 9,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-16757",
+     "sha256": "7d00e465f4d85f2fe5d3277f21c80c71880ab5aa827b9602923f98cafcc4cd37"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2008-001",
+   "short": "Ley 1/2008, de 8 de febrero",
+   "title": "Ley 1/2008, de 8 de febrero, de Mediación Familiar.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-14345",
+   "versions": [
+    {
+     "from": "2008-02-19",
+     "units": 43,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-14345",
+     "sha256": "b615cbaa981db6e73638dda2cbf890d8d1d853d4caef75a57bc953e7e7e242cd"
+    },
+    {
+     "from": "2012-05-01",
+     "units": 43,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-14345",
+     "sha256": "b615cbaa981db6e73638dda2cbf890d8d1d853d4caef75a57bc953e7e7e242cd"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2008-004",
+   "short": "Ley 4/2008, de 19 de junio",
+   "title": "Ley 4/2008, de 19 de junio, de Reconocimiento y Reparación a las Víctimas del Terrorismo.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-14348",
+   "versions": [
+    {
+     "from": "2008-07-02",
+     "units": 42,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-14348",
+     "sha256": "ae284989652442f491541343b553ba59ffef1b37623127d6be441ae7934a7900"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2008-005",
+   "short": "Ley 5/2008, de 19 de junio",
+   "title": "Ley 5/2008, de 19 de junio, por la que se crea y regula la Agencia Vasca de Cooperación para el Desarrollo.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-14349",
+   "versions": [
+    {
+     "from": "2008-07-11",
+     "units": 21,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-14349",
+     "sha256": "365b8a40b974d2dea94d29321c345fa7785657911c32316fc2c4cb0d89ff8843"
+    },
+    {
+     "from": "2024-03-01",
+     "units": 22,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-14349",
+     "sha256": "365b8a40b974d2dea94d29321c345fa7785657911c32316fc2c4cb0d89ff8843"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2008-010",
+   "short": "Ley 10/2008, de 10 de octubre",
+   "title": "Ley 10/2008, de 10 de octubre, de creación del Colegio Profesional de Terapeutas Ocupacionales del País Vasco.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-14354",
+   "versions": [
+    {
+     "from": "2008-10-25",
+     "units": 11,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-14354",
+     "sha256": "982d9b0dd3f611d406df279d8550ed3cc63d50c9a2ed57cd9f881668f2261f5b"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2008-012",
+   "short": "Ley 12/2008, de 5 de diciembre",
+   "title": "Ley 12/2008, de 5 de diciembre, de Servicios Sociales.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-15726",
+   "versions": [
+    {
+     "from": "2008-12-25",
+     "units": 124,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-15726",
+     "sha256": "a9dbe91d1e3ea6aef4af60fa674e405dfd76a87c367285840ebbf329bf3f4b06"
+    },
+    {
+     "from": "2012-05-01",
+     "units": 126,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-15726",
+     "sha256": "a9dbe91d1e3ea6aef4af60fa674e405dfd76a87c367285840ebbf329bf3f4b06"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2008-013",
+   "short": "Ley 13/2008, de 12 de diciembre",
+   "title": "Ley 13/2008, de 12 de diciembre, de Apoyo a las Familias.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-15727",
+   "versions": [
+    {
+     "from": "2009-01-23",
+     "units": 45,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-15727",
+     "sha256": "e9b32e98029684ae1acb4027b209109126f24678422a0f4568cf08978efd84bb"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2008-014",
+   "short": "Ley 14/2008, de 12 de diciembre",
+   "title": "Ley 14/2008, de 12 de diciembre, de Creación del Colegio Oficial de Dietistas-Nutricionistas del País Vasco.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-15728",
+   "versions": [
+    {
+     "from": "2008-12-25",
+     "units": 11,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-15728",
+     "sha256": "f36ce0c5573d5b32ac10f5cbfff18b0532b5f38f9d5f564c44ef837f86c57d46"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2008-015",
+   "short": "Ley 15/2008, de 19 de diciembre",
+   "title": "Ley 15/2008, de 19 de diciembre, de creación de diversos cuerpos docentes de la enseñanza no universitaria de la Comunidad Autónoma del País Vasco.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-15729",
+   "versions": [
+    {
+     "from": "2008-12-30",
+     "units": 12,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-15729",
+     "sha256": "7e736545ff9db31e668932cbfa8a553f1935ff84d933148711cdc6d803df9fe9"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2008-017",
+   "short": "Ley 17/2008, de 23 de diciembre",
+   "title": "Ley 17/2008, de 23 de diciembre, de Política Agraria y Alimentaria.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-15731",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 126,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-15731",
+     "sha256": "64b68b2925645eea5b428c8e0f5f0477acd1752175a512c2a446c43a44d21b45"
+    },
+    {
+     "from": "2012-06-06",
+     "units": 134,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-15731",
+     "sha256": "64b68b2925645eea5b428c8e0f5f0477acd1752175a512c2a446c43a44d21b45"
+    },
+    {
+     "from": "2015-06-18",
+     "units": 134,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-15731",
+     "sha256": "64b68b2925645eea5b428c8e0f5f0477acd1752175a512c2a446c43a44d21b45"
+    },
+    {
+     "from": "2015-10-22",
+     "units": 134,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-15731",
+     "sha256": "64b68b2925645eea5b428c8e0f5f0477acd1752175a512c2a446c43a44d21b45"
+    },
+    {
+     "from": "2022-07-16",
+     "units": 134,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-15731",
+     "sha256": "64b68b2925645eea5b428c8e0f5f0477acd1752175a512c2a446c43a44d21b45"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2010-006",
+   "short": "Ley 6/2010, de 23 de diciembre",
+   "title": "Ley 6/2010, de 23 de diciembre, de publicidad y comunicación institucional de Euskadi.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-2620",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 20,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-2620",
+     "sha256": "5d6969067d3a5cb8a15015d8dfd3215e3b164f8ccbdadf54b314666eed31c15f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2011-002",
+   "short": "Ley 2/2011, de 17 de marzo",
+   "title": "Ley 2/2011, de 17 de marzo, de caza.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-6648",
+   "versions": [
+    {
+     "from": "2011-03-30",
+     "units": 74,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-6648",
+     "sha256": "adf5c210d46f3fd7d5664bda4807340ae1b3eb8c595a3ac8679f6f65ffcc2ced"
+    },
+    {
+     "from": "2019-12-31",
+     "units": 74,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-6648",
+     "sha256": "adf5c210d46f3fd7d5664bda4807340ae1b3eb8c595a3ac8679f6f65ffcc2ced"
+    },
+    {
+     "from": "2022-04-10",
+     "units": 74,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-6648",
+     "sha256": "adf5c210d46f3fd7d5664bda4807340ae1b3eb8c595a3ac8679f6f65ffcc2ced"
+    },
+    {
+     "from": "2022-07-16",
+     "units": 74,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-6648",
+     "sha256": "adf5c210d46f3fd7d5664bda4807340ae1b3eb8c595a3ac8679f6f65ffcc2ced"
+    },
+    {
+     "from": "2025-04-04",
+     "units": 74,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-6648",
+     "sha256": "adf5c210d46f3fd7d5664bda4807340ae1b3eb8c595a3ac8679f6f65ffcc2ced"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-legislativo-2011-001",
+   "short": "Decreto Legislativo 1/2011, de 24 de mayo",
+   "title": "Decreto Legislativo 1/2011, de 24 de mayo, por el que se aprueba el texto refundido de las disposiciones legales vigentes en materia de régimen presupuestario de Euskadi y se regula el régimen presupuestario aplicable a las fundaciones y consorcios del sector público de la Comunidad Autónoma de Euskadi.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-11706",
+   "versions": [
+    {
+     "from": "2011-06-29",
+     "units": 144,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-11706",
+     "sha256": "6081b7ac408413df1b392ba3079240e9629fd4e85bb0bf4700ff543f5214b552"
+    },
+    {
+     "from": "2021-02-18",
+     "units": 144,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-11706",
+     "sha256": "6081b7ac408413df1b392ba3079240e9629fd4e85bb0bf4700ff543f5214b552"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 144,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-11706",
+     "sha256": "6081b7ac408413df1b392ba3079240e9629fd4e85bb0bf4700ff543f5214b552"
+    },
+    {
+     "from": "2022-05-21",
+     "units": 145,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-11706",
+     "sha256": "6081b7ac408413df1b392ba3079240e9629fd4e85bb0bf4700ff543f5214b552"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2012-001",
+   "short": "Ley 1/2012, de 2 de febrero",
+   "title": "Ley 1/2012, de 2 de febrero, de la Autoridad Vasca de la Competencia.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-2313",
+   "versions": [
+    {
+     "from": "2012-02-10",
+     "units": 42,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2313",
+     "sha256": "5940b9900b25888f4ee670b58278d4f0441df284bacd8ea35675efacee0d0d4e"
+    },
+    {
+     "from": "2026-05-26",
+     "units": 43,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2313",
+     "sha256": "5940b9900b25888f4ee670b58278d4f0441df284bacd8ea35675efacee0d0d4e"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2012-004",
+   "short": "Ley 4/2012, de 23 de febrero",
+   "title": "Ley 4/2012, de 23 de febrero, de Lan Harremanen Kontseilua/Consejo de Relaciones Laborales.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-3753",
+   "versions": [
+    {
+     "from": "2012-03-06",
+     "units": 25,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3753",
+     "sha256": "3e06a07d3252f42675be4ee85deeb019f28711ee2a3ce4cdd774ede6c53606b8"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2012-005",
+   "short": "Ley 5/2012, de 23 de febrero",
+   "title": "Ley 5/2012, de 23 de febrero, sobre Entidades de Previsión Social Voluntaria.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-3754",
+   "versions": [
+    {
+     "from": "2012-03-07",
+     "units": 98,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3754",
+     "sha256": "8b3b5d60c056cddf3c6fd7a3d7eedecb7dcc32489e03f6dbe27e9e4f2c84e855"
+    },
+    {
+     "from": "2014-07-04",
+     "units": 98,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3754",
+     "sha256": "8b3b5d60c056cddf3c6fd7a3d7eedecb7dcc32489e03f6dbe27e9e4f2c84e855"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2012-008",
+   "short": "Ley 8/2012, de 17 de mayo",
+   "title": "Ley 8/2012, de 17 de mayo, del Consejo Económico y Social Vasco/Euskadiko Ekonomia eta Gizarte Arazoetarako Batzordea.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-7443",
+   "versions": [
+    {
+     "from": "2012-05-25",
+     "units": 30,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-7443",
+     "sha256": "a06d134034b9fa47427e29a7f7509d8ced8084c57f1875548d0d1ca2edb8ea8f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2012-011",
+   "short": "Ley 11/2012, de 14 de junio",
+   "title": "Ley 11/2012, de 14 de junio, de Cajas de Ahorros de la Comunidad Autónoma de Euskadi.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-9009",
+   "versions": [
+    {
+     "from": "2012-06-23",
+     "units": 94,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-9009",
+     "sha256": "02a0c1a1de5cbc481e0f16d7d6d06cddace873b232886f50ddf6b85b19f8e3e8"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2012-012",
+   "short": "Ley 12/2012, de 21 de junio",
+   "title": "Ley 12/2012, de 21 de junio, contra el Dopaje en el Deporte.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-9010",
+   "versions": [
+    {
+     "from": "2012-09-28",
+     "units": 70,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-9010",
+     "sha256": "73be5bd7cba0ddc1532f68840ddac7565b46e29bbed9a2d5e9bb38f49408b24c"
+    },
+    {
+     "from": "2018-06-14",
+     "units": 74,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-9010",
+     "sha256": "73be5bd7cba0ddc1532f68840ddac7565b46e29bbed9a2d5e9bb38f49408b24c"
+    },
+    {
+     "from": "2022-12-29",
+     "units": 74,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-9010",
+     "sha256": "73be5bd7cba0ddc1532f68840ddac7565b46e29bbed9a2d5e9bb38f49408b24c"
+    },
+    {
+     "from": "2025-05-21",
+     "units": 74,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-9010",
+     "sha256": "73be5bd7cba0ddc1532f68840ddac7565b46e29bbed9a2d5e9bb38f49408b24c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2012-013",
+   "short": "Ley 13/2012, de 28 de junio",
+   "title": "Ley 13/2012, de 28 de junio, de Unibasq-Agencia de Calidad del Sistema Universitario Vasco.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-9663",
+   "versions": [
+    {
+     "from": "2012-07-05",
+     "units": 21,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-9663",
+     "sha256": "115b824f69baa378b04a99539d03443eb343ec5cf6945e9c6e0977976ca4ae69"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2012-015",
+   "short": "Ley 15/2012, de 28 de junio",
+   "title": "Ley 15/2012, de 28 de junio, de Ordenación del Sistema de Seguridad Pública de Euskadi.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-9665",
+   "versions": [
+    {
+     "from": "2012-07-07",
+     "units": 77,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-9665",
+     "sha256": "0a790c411d0c37592d7be8b4a8f153c485f281c59b79071b9ab3b746466e39a3"
+    },
+    {
+     "from": "2013-02-02",
+     "units": 77,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-9665",
+     "sha256": "0a790c411d0c37592d7be8b4a8f153c485f281c59b79071b9ab3b746466e39a3"
+    },
+    {
+     "from": "2013-05-02",
+     "units": 77,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-9665",
+     "sha256": "0a790c411d0c37592d7be8b4a8f153c485f281c59b79071b9ab3b746466e39a3"
+    },
+    {
+     "from": "2013-07-23",
+     "units": 77,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-9665",
+     "sha256": "0a790c411d0c37592d7be8b4a8f153c485f281c59b79071b9ab3b746466e39a3"
+    },
+    {
+     "from": "2014-06-24",
+     "units": 77,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-9665",
+     "sha256": "0a790c411d0c37592d7be8b4a8f153c485f281c59b79071b9ab3b746466e39a3"
+    },
+    {
+     "from": "2019-07-10",
+     "units": 77,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-9665",
+     "sha256": "0a790c411d0c37592d7be8b4a8f153c485f281c59b79071b9ab3b746466e39a3"
+    },
+    {
+     "from": "2020-08-07",
+     "units": 77,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-9665",
+     "sha256": "0a790c411d0c37592d7be8b4a8f153c485f281c59b79071b9ab3b746466e39a3"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2012-016",
+   "short": "Ley 16/2012, de 28 de junio",
+   "title": "Ley 16/2012, de 28 de junio, de Apoyo a las Personas Emprendedoras y a la Pequeña Empresa del País Vasco.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-9666",
+   "versions": [
+    {
+     "from": "2012-07-07",
+     "units": 28,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-9666",
+     "sha256": "b8a12cb3deeb913cf7255fa1e7e4b2c73eaa22d2f43bb8179b41dae0d0ff5f4f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2012-017",
+   "short": "Ley 17/2012, de 28 de junio",
+   "title": "Ley 17/2012, de 28 de junio, de Creación del Colegio Vasco de Periodistas.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-9667",
+   "versions": [
+    {
+     "from": "2012-07-07",
+     "units": 11,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-9667",
+     "sha256": "f6e1f9db5a0a63af8ca950f7cdd73f2027d4ec5ec81457ecb16913315a541ef4"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2013-001",
+   "short": "Ley 1/2013, de 10 de octubre",
+   "title": "Ley 1/2013, de 10 de octubre, de Aprendizaje a lo Largo de la Vida.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-11797",
+   "versions": [
+    {
+     "from": "2013-10-18",
+     "units": 62,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-11797",
+     "sha256": "455de12f3c8aa88ec139389fa712258555b0e0f7998b0f3886e5fafcfd8047b1"
+    },
+    {
+     "from": "2018-07-06",
+     "units": 62,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-11797",
+     "sha256": "455de12f3c8aa88ec139389fa712258555b0e0f7998b0f3886e5fafcfd8047b1"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2014-001",
+   "short": "Ley 1/2014, de 26 de junio",
+   "title": "Ley 1/2014, de 26 de junio, Reguladora del Código de Conducta y de los Conflictos de Intereses de los Cargos Públicos.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2014-8607",
+   "versions": [
+    {
+     "from": "2014-11-01",
+     "units": 47,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-8607",
+     "sha256": "47a2674ab9de45557a0a3ef2d9ab4e6c46d82a10283e04108a50bd61d5928b89"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2014-004",
+   "short": "Ley 4/2014, de 27 de noviembre",
+   "title": "Ley 4/2014, de 27 de noviembre, de creación del Instituto de la Memoria, la Convivencia y los Derechos Humanos.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2014-13185",
+   "versions": [
+    {
+     "from": "2014-12-22",
+     "units": 24,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-13185",
+     "sha256": "1dba7c9943ed507b166019d00291bf31cf61046239fd16b2e006378d18985b7a"
+    },
+    {
+     "from": "2017-02-22",
+     "units": 24,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-13185",
+     "sha256": "1dba7c9943ed507b166019d00291bf31cf61046239fd16b2e006378d18985b7a"
+    },
+    {
+     "from": "2023-10-18",
+     "units": 24,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-13185",
+     "sha256": "1dba7c9943ed507b166019d00291bf31cf61046239fd16b2e006378d18985b7a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2015-003",
+   "short": "Ley 3/2015, de 18 de junio",
+   "title": "Ley 3/2015, de 18 de junio, de vivienda.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-7802",
+   "versions": [
+    {
+     "from": "2015-09-26",
+     "units": 118,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-7802",
+     "sha256": "c59b586a4f787edda6b3aaf57bdca0f1c420c7d83f63e519272105c1f0bfb3f0"
+    },
+    {
+     "from": "2016-04-18",
+     "units": 118,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-7802",
+     "sha256": "c59b586a4f787edda6b3aaf57bdca0f1c420c7d83f63e519272105c1f0bfb3f0"
+    },
+    {
+     "from": "2016-07-28",
+     "units": 118,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-7802",
+     "sha256": "c59b586a4f787edda6b3aaf57bdca0f1c420c7d83f63e519272105c1f0bfb3f0"
+    },
+    {
+     "from": "2017-04-20",
+     "units": 118,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-7802",
+     "sha256": "c59b586a4f787edda6b3aaf57bdca0f1c420c7d83f63e519272105c1f0bfb3f0"
+    },
+    {
+     "from": "2018-10-12",
+     "units": 118,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-7802",
+     "sha256": "c59b586a4f787edda6b3aaf57bdca0f1c420c7d83f63e519272105c1f0bfb3f0"
+    },
+    {
+     "from": "2023-03-29",
+     "units": 118,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-7802",
+     "sha256": "c59b586a4f787edda6b3aaf57bdca0f1c420c7d83f63e519272105c1f0bfb3f0"
+    },
+    {
+     "from": "2025-12-30",
+     "units": 118,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-7802",
+     "sha256": "c59b586a4f787edda6b3aaf57bdca0f1c420c7d83f63e519272105c1f0bfb3f0"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2015-004",
+   "short": "Ley 4/2015, de 25 de junio",
+   "title": "Ley 4/2015, de 25 de junio, para la prevención y corrección de la contaminación del suelo.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-8272",
+   "versions": [
+    {
+     "from": "2015-07-03",
+     "units": 81,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-8272",
+     "sha256": "4a0b462c8e3dcef3d0f611f2975ba6ff89378fc55f926488af4c7a2bf77bb93f"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 81,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-8272",
+     "sha256": "4a0b462c8e3dcef3d0f611f2975ba6ff89378fc55f926488af4c7a2bf77bb93f"
+    },
+    {
+     "from": "2025-12-30",
+     "units": 82,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-8272",
+     "sha256": "4a0b462c8e3dcef3d0f611f2975ba6ff89378fc55f926488af4c7a2bf77bb93f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2015-005",
+   "short": "Ley 5/2015, de 25 de junio",
+   "title": "Ley 5/2015, de 25 de junio, de Derecho Civil Vasco.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-8273",
+   "versions": [
+    {
+     "from": "2015-10-03",
+     "units": 161,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-8273",
+     "sha256": "e7e77cce497acac133a29a69b42fec62fb15d71ca01d7b77e763bba400671f54"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2015-006",
+   "short": "Ley 6/2015, de 30 de junio",
+   "title": "Ley 6/2015, de 30 de junio, de medidas adicionales de protección medioambiental para la extracción de hidrocarburos no convencionales y la fractura hidráulica o \"fracking\".",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-8274",
+   "versions": [
+    {
+     "from": "2015-07-10",
+     "units": 12,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-8274",
+     "sha256": "43ff69deef083b23f85bd822f35c65f953a8d501e4e9339a7a3a22ea4bbb55e7"
+    },
+    {
+     "from": "2016-05-05",
+     "units": 12,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-8274",
+     "sha256": "43ff69deef083b23f85bd822f35c65f953a8d501e4e9339a7a3a22ea4bbb55e7"
+    },
+    {
+     "from": "2016-10-08",
+     "units": 12,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-8274",
+     "sha256": "43ff69deef083b23f85bd822f35c65f953a8d501e4e9339a7a3a22ea4bbb55e7"
+    },
+    {
+     "from": "2018-02-21",
+     "units": 12,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-8274",
+     "sha256": "43ff69deef083b23f85bd822f35c65f953a8d501e4e9339a7a3a22ea4bbb55e7"
+    },
+    {
+     "from": "2018-08-21",
+     "units": 12,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-8274",
+     "sha256": "43ff69deef083b23f85bd822f35c65f953a8d501e4e9339a7a3a22ea4bbb55e7"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2015-007",
+   "short": "Ley 7/2015, de 30 de junio",
+   "title": "Ley 7/2015, de 30 de junio, de relaciones familiares en supuestos de separación o ruptura de los progenitores.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-8275",
+   "versions": [
+    {
+     "from": "2015-10-10",
+     "units": 17,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-8275",
+     "sha256": "5f47a995aee5380ffd47fb037ca9feb1085d108870233ce914629fd8ee67bc9d"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2015-008",
+   "short": "Ley 8/2015, de 15 de octubre",
+   "title": "Ley 8/2015, de 15 de octubre, del Estatuto de las Mujeres Agricultoras.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11599",
+   "versions": [
+    {
+     "from": "2015-10-22",
+     "units": 42,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-11599",
+     "sha256": "362ec20a86cf1db64044da7bcdbd10d5953f8c882636204eabe7a9a881901b00"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2015-010",
+   "short": "Ley 10/2015, de 23 de diciembre",
+   "title": "Ley 10/2015, de 23 de diciembre, de Espectáculos Públicos y Actividades Recreativas.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2016-729",
+   "versions": [
+    {
+     "from": "2016-01-08",
+     "units": 83,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-729",
+     "sha256": "bbc0659ca9d604b1beebc4bbefc1529f77b40489ae14ebc4c0c70f5c0498efac"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2016-001",
+   "short": "Ley 1/2016, de 7 de abril",
+   "title": "Ley 1/2016, de 7 de abril, de Atención Integral de Adicciones y Drogodependencias.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2016-4170",
+   "versions": [
+    {
+     "from": "2016-04-14",
+     "units": 105,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-4170",
+     "sha256": "ecbe6680ed6fa7ccebe2bf4e2b8e268f182fb4e9eaff13efda965387249ef1ce"
+    },
+    {
+     "from": "2017-02-04",
+     "units": 105,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-4170",
+     "sha256": "ecbe6680ed6fa7ccebe2bf4e2b8e268f182fb4e9eaff13efda965387249ef1ce"
+    },
+    {
+     "from": "2017-05-15",
+     "units": 105,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-4170",
+     "sha256": "ecbe6680ed6fa7ccebe2bf4e2b8e268f182fb4e9eaff13efda965387249ef1ce"
+    },
+    {
+     "from": "2018-04-13",
+     "units": 105,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-4170",
+     "sha256": "ecbe6680ed6fa7ccebe2bf4e2b8e268f182fb4e9eaff13efda965387249ef1ce"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2016-002",
+   "short": "Ley 2/2016, de 7 de abril",
+   "title": "Ley 2/2016, de 7 de abril, de Instituciones Locales de Euskadi.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2016-4171",
+   "versions": [
+    {
+     "from": "2016-04-15",
+     "units": 149,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-4171",
+     "sha256": "dbf55c816dc94690f011fc5ea6e16a22f5fb07ccff0d4f718862adff7ab4efd7"
+    },
+    {
+     "from": "2023-03-29",
+     "units": 149,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-4171",
+     "sha256": "dbf55c816dc94690f011fc5ea6e16a22f5fb07ccff0d4f718862adff7ab4efd7"
+    },
+    {
+     "from": "2023-08-03",
+     "units": 149,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-4171",
+     "sha256": "dbf55c816dc94690f011fc5ea6e16a22f5fb07ccff0d4f718862adff7ab4efd7"
+    },
+    {
+     "from": "2025-12-30",
+     "units": 150,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-4171",
+     "sha256": "dbf55c816dc94690f011fc5ea6e16a22f5fb07ccff0d4f718862adff7ab4efd7"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2016-003",
+   "short": "Ley 3/2016, de 7 de abril",
+   "title": "Ley 3/2016, de 7 de abril, para la inclusión de determinadas cláusulas sociales en la contratación pública.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2016-4172",
+   "versions": [
+    {
+     "from": "2016-06-15",
+     "units": 11,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-4172",
+     "sha256": "769b5da20fb0f8e95ff5df74832e219ea6bc41fc612d80fff015132263a891d4"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2016-006",
+   "short": "Ley 6/2016, de 12 de mayo",
+   "title": "Ley 6/2016, de 12 de mayo, del Tercer Sector Social de Euskadi.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2016-6085",
+   "versions": [
+    {
+     "from": "2016-05-20",
+     "units": 34,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-6085",
+     "sha256": "2ca41bdab28b331c2256915f5a0daf4381b19239c2b90124611de11d202ec883"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 34,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-6085",
+     "sha256": "2ca41bdab28b331c2256915f5a0daf4381b19239c2b90124611de11d202ec883"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2016-007",
+   "short": "Ley 7/2016, de 2 de junio",
+   "title": "Ley 7/2016, de 2 de junio, de Ordenación del Servicio Jurídico del Gobierno Vasco.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2016-6086",
+   "versions": [
+    {
+     "from": "2016-06-08",
+     "units": 24,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-6086",
+     "sha256": "77e4ec72f821ce69709d51a734a4ce363d4551de439d0a197ba4e038a0e2c5cf"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2016-009",
+   "short": "Ley 9/2016, de 2 de junio",
+   "title": "Ley 9/2016, de 2 de junio, de Fundaciones del País Vasco.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2016-6088",
+   "versions": [
+    {
+     "from": "2016-06-14",
+     "units": 88,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-6088",
+     "sha256": "280a80ec3c9671059284abaf7bd87f52d6d6c5289e6881966fed3eb8777efaad"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2016-010",
+   "short": "Ley 10/2016, de 30 de junio",
+   "title": "Ley 10/2016, de 30 de junio, reguladora de la Iniciativa Legislativa Popular.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2016-6996",
+   "versions": [
+    {
+     "from": "2016-07-08",
+     "units": 20,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-6996",
+     "sha256": "a80d17a2a32092424a52d1d02139034feca75845170509f47a8183b12821b064"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2016-011",
+   "short": "Ley 11/2016, de 8 de julio",
+   "title": "Ley 11/2016, de 8 de julio, de garantía de los derechos y de la dignidad de las personas en el proceso final de su vida.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2016-6997",
+   "versions": [
+    {
+     "from": "2016-10-14",
+     "units": 31,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-6997",
+     "sha256": "6ba909c7f47926314fc8fe3dbfa4000e8dc856ee41187ed1b1ae4abd722507f2"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2016-012",
+   "short": "Ley 12/2016, de 28 de julio",
+   "title": "Ley 12/2016, de 28 de julio, de reconocimiento y reparación de víctimas de vulneraciones de derechos humanos en el contexto de la violencia de motivación política en la Comunidad Autónoma del País Vasco entre 1978 y 1999.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2016-8345",
+   "versions": [
+    {
+     "from": "2016-08-11",
+     "units": 33,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-8345",
+     "sha256": "e37db61dce6996b0e6b944b56a35b2b33c3cdaffb7902dc317661a6b9cd5d424"
+    },
+    {
+     "from": "2017-06-01",
+     "units": 33,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-8345",
+     "sha256": "e37db61dce6996b0e6b944b56a35b2b33c3cdaffb7902dc317661a6b9cd5d424"
+    },
+    {
+     "from": "2017-10-16",
+     "units": 33,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-8345",
+     "sha256": "e37db61dce6996b0e6b944b56a35b2b33c3cdaffb7902dc317661a6b9cd5d424"
+    },
+    {
+     "from": "2019-04-17",
+     "units": 33,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-8345",
+     "sha256": "e37db61dce6996b0e6b944b56a35b2b33c3cdaffb7902dc317661a6b9cd5d424"
+    },
+    {
+     "from": "2019-07-10",
+     "units": 33,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-8345",
+     "sha256": "e37db61dce6996b0e6b944b56a35b2b33c3cdaffb7902dc317661a6b9cd5d424"
+    },
+    {
+     "from": "2020-08-15",
+     "units": 33,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-8345",
+     "sha256": "e37db61dce6996b0e6b944b56a35b2b33c3cdaffb7902dc317661a6b9cd5d424"
+    },
+    {
+     "from": "2020-11-02",
+     "units": 33,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-8345",
+     "sha256": "e37db61dce6996b0e6b944b56a35b2b33c3cdaffb7902dc317661a6b9cd5d424"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 33,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-8345",
+     "sha256": "e37db61dce6996b0e6b944b56a35b2b33c3cdaffb7902dc317661a6b9cd5d424"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2016-013",
+   "short": "Ley 13/2016, de 28 de julio",
+   "title": "Ley 13/2016, de 28 de julio, de Turismo.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2016-8346",
+   "versions": [
+    {
+     "from": "2016-08-31",
+     "units": 127,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-8346",
+     "sha256": "ec2e0d7972b28264c3a5084d39592ac93ce788b8aeb2d42238994d2bfe813972"
+    },
+    {
+     "from": "2025-12-30",
+     "units": 127,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-8346",
+     "sha256": "ec2e0d7972b28264c3a5084d39592ac93ce788b8aeb2d42238994d2bfe813972"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-legislativo-2017-001",
+   "short": "Decreto Legislativo 1/2017, de 27 de abril",
+   "title": "Decreto Legislativo 1/2017, de 27 de abril, por el que se aprueba el texto refundido de la Ley de Gestión de Emergencias.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-5194",
+   "versions": [
+    {
+     "from": "2017-05-06",
+     "units": 92,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-5194",
+     "sha256": "36f4b1dabbbeac1f76d0de50b5bac1f4df726a98d3e44449a6ffe5870c699ad0"
+    },
+    {
+     "from": "2023-12-08",
+     "units": 92,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-5194",
+     "sha256": "36f4b1dabbbeac1f76d0de50b5bac1f4df726a98d3e44449a6ffe5870c699ad0"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-legislativo-2017-002",
+   "short": "Decreto Legislativo 2/2017, de 19 de octubre",
+   "title": "Decreto Legislativo 2/2017, de 19 de octubre, por el que se aprueba el texto refundido de la Ley de Control Económico y Contabilidad de la Comunidad Autónoma de Euskadi.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-13900",
+   "versions": [
+    {
+     "from": "2017-11-14",
+     "units": 39,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-13900",
+     "sha256": "373e76e43f96e44f2537d594d5dc475b9be39d8fe54ae0aa1a078e2423c0cd09"
+    },
+    {
+     "from": "2022-05-21",
+     "units": 40,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-13900",
+     "sha256": "373e76e43f96e44f2537d594d5dc475b9be39d8fe54ae0aa1a078e2423c0cd09"
+    },
+    {
+     "from": "2023-12-30",
+     "units": 41,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-13900",
+     "sha256": "373e76e43f96e44f2537d594d5dc475b9be39d8fe54ae0aa1a078e2423c0cd09"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 41,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-13900",
+     "sha256": "373e76e43f96e44f2537d594d5dc475b9be39d8fe54ae0aa1a078e2423c0cd09"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2018-002",
+   "short": "Ley 2/2018, de 28 de junio",
+   "title": "Ley 2/2018, de 28 de junio, de Puertos y Transporte Marítimo del País Vasco.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-11064",
+   "versions": [
+    {
+     "from": "2018-10-05",
+     "units": 88,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-11064",
+     "sha256": "5c3e2497d61f2ddaf3d2a1cf60b3930fc5378b71f5e52b81587989b78cc86a3e"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2018-004",
+   "short": "Ley 4/2018, de 28 de junio",
+   "title": "Ley 4/2018, de 28 de junio, de Formación Profesional del País Vasco.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-11066",
+   "versions": [
+    {
+     "from": "2018-07-06",
+     "units": 55,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-11066",
+     "sha256": "d91f74646e29a86dfd11e3b18c66c68c8988476270b9187e03773851a8a61266"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2019-004",
+   "short": "Ley 4/2019, de 21 de febrero",
+   "title": "Ley 4/2019, de 21 de febrero, de sostenibilidad energética de la Comunidad Autónoma Vasca.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-3705",
+   "versions": [
+    {
+     "from": "2019-03-01",
+     "units": 82,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2019-3705",
+     "sha256": "1d18f0f3540e2d74f5a7f223f874efd8ee285ac951b66d0f818b2b20a351bd21"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 82,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2019-3705",
+     "sha256": "1d18f0f3540e2d74f5a7f223f874efd8ee285ac951b66d0f818b2b20a351bd21"
+    },
+    {
+     "from": "2024-02-22",
+     "units": 82,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2019-3705",
+     "sha256": "1d18f0f3540e2d74f5a7f223f874efd8ee285ac951b66d0f818b2b20a351bd21"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2019-006",
+   "short": "Ley 6/2019, de 9 de mayo",
+   "title": "Ley 6/2019, de 9 de mayo, de Patrimonio Cultural Vasco.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7957",
+   "versions": [
+    {
+     "from": "2019-05-21",
+     "units": 107,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2019-7957",
+     "sha256": "f2825783cd6e39a72abe14a5a0b10da89629287f5f238053d9091a96e773d02f"
+    },
+    {
+     "from": "2024-01-04",
+     "units": 108,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2019-7957",
+     "sha256": "f2825783cd6e39a72abe14a5a0b10da89629287f5f238053d9091a96e773d02f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2019-010",
+   "short": "Ley 10/2019, de 27 de junio",
+   "title": "Ley 10/2019, de 27 de junio, de ordenación territorial de grandes establecimientos comerciales.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-10600",
+   "versions": [
+    {
+     "from": "2019-07-10",
+     "units": 16,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2019-10600",
+     "sha256": "3e2d769af32187952efa89ee9fcf0fa0519158bb2228038213673131139ec39b"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2019-011",
+   "short": "Ley 11/2019, de 20 de diciembre",
+   "title": "Ley 11/2019, de 20 de diciembre, de Cooperativas de Euskadi.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-615",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 184,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2020-615",
+     "sha256": "579651d9e4ebc841ab810b60b8a921bb644b272a95c46ac36043e58977b54b04"
+    },
+    {
+     "from": "2021-10-21",
+     "units": 184,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2020-615",
+     "sha256": "579651d9e4ebc841ab810b60b8a921bb644b272a95c46ac36043e58977b54b04"
+    },
+    {
+     "from": "2024-06-29",
+     "units": 186,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2020-615",
+     "sha256": "579651d9e4ebc841ab810b60b8a921bb644b272a95c46ac36043e58977b54b04"
+    },
+    {
+     "from": "2025-01-15",
+     "units": 186,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2020-615",
+     "sha256": "579651d9e4ebc841ab810b60b8a921bb644b272a95c46ac36043e58977b54b04"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-legislativo-2020-001",
+   "short": "Decreto Legislativo 1/2020, de 22 de julio",
+   "title": "Decreto Legislativo 1/2020, de 22 de julio, por el que se aprueba el texto refundido de la Ley de Policía del País Vasco.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-9740",
+   "versions": [
+    {
+     "from": "2020-08-07",
+     "units": 175,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2020-9740",
+     "sha256": "4407ead12352a6ccffaf17df9e8cb35ca580e08d9e0754edaa819d29aa976c15"
+    },
+    {
+     "from": "2021-03-22",
+     "units": 175,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2020-9740",
+     "sha256": "4407ead12352a6ccffaf17df9e8cb35ca580e08d9e0754edaa819d29aa976c15"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2021-003",
+   "short": "Ley 3/2021, de 30 de septiembre",
+   "title": "Ley 3/2021, de 30 de septiembre, de creación de Aukerak, Agencia Vasca de Reinserción Social.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-17054",
+   "versions": [
+    {
+     "from": "2021-10-07",
+     "units": 6,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2021-17054",
+     "sha256": "395ca97ecd7f0c1e5b864b7a36189865302e52ecb3a669651887303466837af3"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2021-004",
+   "short": "Ley 4/2021, de 7 de octubre",
+   "title": "Ley 4/2021, de 7 de octubre, de metodología de distribución de recursos y de determinación de las aportaciones de las diputaciones forales a la financiación de los presupuestos de la Comunidad Autónoma del País Vasco aplicable al periodo 2022-2026.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-18035",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 42,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2021-18035",
+     "sha256": "269496194616fe8667eabaa51816831cc5d26fc616e1bcc127ada9d5f182e28b"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2021-007",
+   "short": "Ley 7/2021, de 11 de noviembre",
+   "title": "Ley 7/2021, de 11 de noviembre, de los cuerpos y de las escalas de la Administración de la Comunidad Autónoma de Euskadi.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-20732",
+   "versions": [
+    {
+     "from": "2021-11-23",
+     "units": 31,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2021-20732",
+     "sha256": "25a4d28113aed123b24a93e39f1f2fa14a8b64314ba70f841d34331bcfa0bb69"
+    },
+    {
+     "from": "2022-12-27",
+     "units": 35,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2021-20732",
+     "sha256": "25a4d28113aed123b24a93e39f1f2fa14a8b64314ba70f841d34331bcfa0bb69"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2021-009",
+   "short": "Ley 9/2021, de 25 de noviembre",
+   "title": "Ley 9/2021, de 25 de noviembre, de conservación del patrimonio natural de Euskadi.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-20914",
+   "versions": [
+    {
+     "from": "2022-04-10",
+     "units": 126,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2021-20914",
+     "sha256": "3136a721c502459f5f2f09a314c86cd9959faeb4afb1ca34edb6848cd47bab0b"
+    },
+    {
+     "from": "2024-02-22",
+     "units": 126,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2021-20914",
+     "sha256": "3136a721c502459f5f2f09a314c86cd9959faeb4afb1ca34edb6848cd47bab0b"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2021-010",
+   "short": "Ley 10/2021, de 9 de diciembre",
+   "title": "Ley 10/2021, de 9 de diciembre, de Administración Ambiental de Euskadi.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-951",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 141,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-951",
+     "sha256": "4a54d856e816399f65e73c7a6c0353648fe5b70b0a3fb7bc37e9e88db6b2d345"
+    },
+    {
+     "from": "2024-02-22",
+     "units": 141,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-951",
+     "sha256": "4a54d856e816399f65e73c7a6c0353648fe5b70b0a3fb7bc37e9e88db6b2d345"
+    },
+    {
+     "from": "2025-12-30",
+     "units": 142,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-951",
+     "sha256": "4a54d856e816399f65e73c7a6c0353648fe5b70b0a3fb7bc37e9e88db6b2d345"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 142,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-951",
+     "sha256": "4a54d856e816399f65e73c7a6c0353648fe5b70b0a3fb7bc37e9e88db6b2d345"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2022-002",
+   "short": "Ley 2/2022, de 10 de marzo",
+   "title": "Ley 2/2022, de 10 de marzo, de Juventud.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-8832",
+   "versions": [
+    {
+     "from": "2022-03-26",
+     "units": 79,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-8832",
+     "sha256": "0e69b5b339e0e9e86692cc587ce777f8a5917f54d133a4dc6997ea50e02fdfb0"
+    },
+    {
+     "from": "2026-06-19",
+     "units": 79,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-8832",
+     "sha256": "0e69b5b339e0e9e86692cc587ce777f8a5917f54d133a4dc6997ea50e02fdfb0"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2022-003",
+   "short": "Ley 3/2022, de 12 de mayo",
+   "title": "Ley 3/2022, de 12 de mayo, del Sector Público Vasco.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-8833",
+   "versions": [
+    {
+     "from": "2022-05-21",
+     "units": 88,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-8833",
+     "sha256": "195201523fff8a81db09f1d42d273821ce779adbcaf521b1003282c20c93b8bd"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2022-004",
+   "short": "Ley 4/2022, de 19 de mayo",
+   "title": "Ley 4/2022, de 19 de mayo, del Recurso de Casación Civil Vasco.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-9851",
+   "versions": [
+    {
+     "from": "2022-06-21",
+     "units": 11,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-9851",
+     "sha256": "1c4ff34e7fb7f69cd883c0e09cb4f9288ac8e9f81aafc1aa2b00e7b39199bce6"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2022-005",
+   "short": "Ley 5/2022, de 23 de junio",
+   "title": "Ley 5/2022, de 23 de junio, de Gestión Documental Integral y Patrimonio Documental de la Comunidad Autónoma del País Vasco.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-12587",
+   "versions": [
+    {
+     "from": "2022-07-14",
+     "units": 70,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-12587",
+     "sha256": "a95f38071feec5187009494d4a6600fb91d44589171427a8f53a655a74846ea2"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2022-006",
+   "short": "Ley 6/2022, de 30 de junio",
+   "title": "Ley 6/2022, de 30 de junio, del Procedimiento de Elaboración de las Disposiciones de Carácter General.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-12588",
+   "versions": [
+    {
+     "from": "2022-07-16",
+     "units": 38,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-12588",
+     "sha256": "44a9e49191071c30f1b473ac3e70d78aa2edc5f50d9fd50a83c894b60be71bc8"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2022-007",
+   "short": "Ley 7/2022, de 30 de junio",
+   "title": "Ley 7/2022, de 30 de junio, de Desarrollo Rural.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-12589",
+   "versions": [
+    {
+     "from": "2022-07-16",
+     "units": 28,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-12589",
+     "sha256": "2450d513d01482a70bc9ee9cc5ae74ae9dbb1ec18d6697a0585af9f4cbcebee8"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2022-008",
+   "short": "Ley 8/2022, de 30 de junio",
+   "title": "Ley 8/2022, de 30 de junio, sobre acceso y ejercicio de profesiones de la actividad física y del deporte en la Comunidad Autónoma del País Vasco.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-14085",
+   "versions": [
+    {
+     "from": "2022-07-20",
+     "units": 49,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-14085",
+     "sha256": "5b8b03844dae2d1022eeacf1f89864417fbdc1bf535233147da2a6288b7b2aef"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2022-009",
+   "short": "Ley 9/2022, de 30 de junio",
+   "title": "Ley 9/2022, de 30 de junio, de protección de los animales domésticos.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-14086",
+   "versions": [
+    {
+     "from": "2022-08-18",
+     "units": 59,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-14086",
+     "sha256": "a7bdce00c3db8e2b681942dc15404384dc5440c1eb798bca2d1d296f60ad963a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2022-011",
+   "short": "Ley 11/2022, de 1 de diciembre",
+   "title": "Ley 11/2022, de 1 de diciembre, de Empleo Público Vasco.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-353",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 258,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2023-353",
+     "sha256": "56237db77b66c15de2665e034c3db262e22671ee52cfd7106defda3b0e7454f8"
+    },
+    {
+     "from": "2026-07-07",
+     "units": 258,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2023-353",
+     "sha256": "56237db77b66c15de2665e034c3db262e22671ee52cfd7106defda3b0e7454f8"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2022-012",
+   "short": "Ley 12/2022, de 15 de diciembre",
+   "title": "Ley 12/2022, de 15 de diciembre, del transporte por cable.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-1403",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 46,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2023-1403",
+     "sha256": "44a28262c5c56c26d66f67c2cafbbf60d450b2e5d7cac40f8d4dfa77bb5e7878"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2022-014",
+   "short": "Ley 14/2022, de 22 de diciembre",
+   "title": "Ley 14/2022, de 22 de diciembre, del Sistema Vasco de Garantía de Ingresos y para la Inclusión.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-1405",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 173,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2023-1405",
+     "sha256": "56323996cf6eebbf9b63f20491af3dcade0ba54232a3a9e47c044a60c0ba89f0"
+    },
+    {
+     "from": "2023-05-06",
+     "units": 173,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2023-1405",
+     "sha256": "56323996cf6eebbf9b63f20491af3dcade0ba54232a3a9e47c044a60c0ba89f0"
+    },
+    {
+     "from": "2024-06-29",
+     "units": 174,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2023-1405",
+     "sha256": "56323996cf6eebbf9b63f20491af3dcade0ba54232a3a9e47c044a60c0ba89f0"
+    },
+    {
+     "from": "2025-12-30",
+     "units": 174,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2023-1405",
+     "sha256": "56323996cf6eebbf9b63f20491af3dcade0ba54232a3a9e47c044a60c0ba89f0"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 174,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2023-1405",
+     "sha256": "56323996cf6eebbf9b63f20491af3dcade0ba54232a3a9e47c044a60c0ba89f0"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2023-001",
+   "short": "Ley 1/2023, de 16 de marzo",
+   "title": "Ley 1/2023, de 16 de marzo, de la potestad sancionadora de las Administraciones Públicas Vascas.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-9167",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 55,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2023-9167",
+     "sha256": "55cac7572ece305259adeeda5aaf1b298044f235efed1e0c897446cc722459fd"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-legislativo-2023-001",
+   "short": "Decreto Legislativo 1/2023, de 16 de marzo",
+   "title": "Decreto Legislativo 1/2023, de 16 de marzo, por el que se aprueba el texto refundido de la Ley para la Igualdad de Mujeres y Hombres y Vidas Libres de Violencia Machista contra las Mujeres.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-9168",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 97,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2023-9168",
+     "sha256": "4f9d49f264c609587db9ba4d94a322b6ba7ef6f5980647a4c80fff7712b97a54"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2023-002",
+   "short": "Ley 2/2023, de 30 de marzo",
+   "title": "Ley 2/2023, de 30 de marzo, de la actividad física y del deporte del País Vasco.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-10639",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 194,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2023-10639",
+     "sha256": "a6d12e5dbb0cbb9374de0dc7d89cc2680b97e75e98b7fd754e56640a609c0651"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2023-004",
+   "short": "Ley 4/2023, de 27 de abril",
+   "title": "Ley 4/2023, de 27 de abril, del Estatuto de las personas consumidoras y usuarias.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-13537",
+   "versions": [
+    {
+     "from": "2023-05-11",
+     "units": 173,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2023-13537",
+     "sha256": "2d53bea4f777279ef654b0db04619e4091195183c89ba966a7b1e9edb7233313"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2023-008",
+   "short": "Ley 8/2023, de 29 de junio",
+   "title": "Ley 8/2023, de 29 de junio, de lugares o centros de culto y diversidad religiosa en la Comunidad Autónoma del País Vasco.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-17646",
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 24,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2023-17646",
+     "sha256": "48879a89a7a545fd2adff2ec704fba9dba48b64f29593b6caaf0cf45066ed882"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-legislativo-2023-002",
+   "short": "Decreto Legislativo 2/2023, de 21 de septiembre",
+   "title": "Decreto Legislativo 2/2023, de 21 de septiembre, por el que se aprueba el texto refundido de la Ley de la Escuela Pública Vasca.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-23217",
+   "versions": [
+    {
+     "from": "2023-10-14",
+     "units": 100,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2023-23217",
+     "sha256": "797e0972aea1071f85e15951018c18ebe0591115bed08df60d24c6a1fa102b02"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-legislativo-2023-003",
+   "short": "Decreto Legislativo 3/2023, de 21 de septiembre",
+   "title": "Decreto Legislativo 3/2023, de 21 de septiembre, por el que se aprueba el texto refundido de la Ley sobre Régimen Jurídico del Instituto Vasco de Administración Pública.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-23218",
+   "versions": [
+    {
+     "from": "2023-10-14",
+     "units": 24,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2023-23218",
+     "sha256": "38b192aac2d314d2219f14c1ec1d4b521a5649105187739af9022bd62622d814"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-legislativo-2023-004",
+   "short": "Decreto Legislativo 4/2023, de 21 de septiembre",
+   "title": "Decreto Legislativo 4/2023, de 21 de septiembre, por el que se aprueba el texto refundido de la Ley de Cuerpos Docentes de la Enseñanza no Universitaria de la Comunidad Autónoma del País Vasco.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-23219",
+   "versions": [
+    {
+     "from": "2023-10-14",
+     "units": 87,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2023-23219",
+     "sha256": "0440d8f410425fb5822a41d50d52f67f78fa6216399f6b3e68483b1049810608"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-legislativo-2023-005",
+   "short": "Decreto Legislativo 5/2023, de 21 de septiembre",
+   "title": "Decreto Legislativo 5/2023, de 21 de septiembre, por el que se aprueba el texto refundido de la Ley sobre el Himno Oficial de Euskadi.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-23220",
+   "versions": [
+    {
+     "from": "2023-10-14",
+     "units": 10,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2023-23220",
+     "sha256": "bc611dbdd056f1ff4932788c69510da2ff72fb3cb19cc188460c2a5b86a14abe"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-legislativo-2023-006",
+   "short": "Decreto Legislativo 6/2023, de 21 de septiembre",
+   "title": "Decreto Legislativo 6/2023, de 21 de septiembre, por el que se aprueba el texto refundido de la Ley de Sede de las Instituciones de la Comunidad Autónoma del País Vasco.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-23221",
+   "versions": [
+    {
+     "from": "2023-10-14",
+     "units": 8,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2023-23221",
+     "sha256": "5746ad2cd8e8bb6109da9e26ff36c0ed111ff08155bd6a2d338fdd49de134940"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2023-009",
+   "short": "Ley 9/2023, de 28 de septiembre",
+   "title": "Ley 9/2023, de 28 de septiembre, de Memoria Histórica y Democrática de Euskadi.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-23216",
+   "versions": [
+    {
+     "from": "2023-10-18",
+     "units": 64,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2023-23216",
+     "sha256": "a0a1eada053c983a7f606eb2ea1f2b35953075155d16fa776122e49cfd613418"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2023-010",
+   "short": "Ley 10/2023, de 9 de noviembre",
+   "title": "Ley 10/2023, de 9 de noviembre, del Plan Vasco de Estadística 2023-2026 y de tercera modificación de la Ley de Estadística de la Comunidad Autónoma de Euskadi.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-25011",
+   "versions": [
+    {
+     "from": "2023-11-24",
+     "units": 10,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2023-25011",
+     "sha256": "e06b6421646b6c79fdf38c9fece11a39857c86b961cb1b96aa02b98bb743af64"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2023-011",
+   "short": "Ley 11/2023, de 9 de noviembre",
+   "title": "Ley 11/2023, de 9 de noviembre, de movilidad sostenible de Euskadi.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-25012",
+   "versions": [
+    {
+     "from": "2023-11-24",
+     "units": 38,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2023-25012",
+     "sha256": "b524229ee1c60e8fac2624318790a80f645fdf9ff920cfe0fa9f6557642164ee"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2023-012",
+   "short": "Ley 12/2023, de 23 de noviembre",
+   "title": "Ley 12/2023, de 23 de noviembre, de los servicios de prevención y extinción de incendios y salvamento.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-26637",
+   "versions": [
+    {
+     "from": "2023-12-08",
+     "units": 44,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2023-26637",
+     "sha256": "13e8f8be5c5042cb536bffa3f86a14a4ee2fd39ad775b991c26f0aecbce3978a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2023-013",
+   "short": "Ley 13/2023, de 30 de noviembre",
+   "title": "Ley 13/2023, de 30 de noviembre, de Salud Pública de Euskadi.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-26638",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 135,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2023-26638",
+     "sha256": "a3f412359565018ee22218a836d005b2a5a4b2c1d996c95a82b5556347f79034"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2023-015",
+   "short": "Ley 15/2023, de 21 de diciembre",
+   "title": "Ley 15/2023, de 21 de diciembre, de Empleo.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-899",
+   "versions": [
+    {
+     "from": "2023-12-30",
+     "units": 11,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2024-899",
+     "sha256": "6b4c12fbbfc8e15a6cd72e4b15b5705cc3930345e18beb4fdc7f0bca7e87da4b"
+    },
+    {
+     "from": "2024-06-29",
+     "units": 117,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2024-899",
+     "sha256": "6b4c12fbbfc8e15a6cd72e4b15b5705cc3930345e18beb4fdc7f0bca7e87da4b"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 117,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2024-899",
+     "sha256": "6b4c12fbbfc8e15a6cd72e4b15b5705cc3930345e18beb4fdc7f0bca7e87da4b"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 117,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2024-899",
+     "sha256": "6b4c12fbbfc8e15a6cd72e4b15b5705cc3930345e18beb4fdc7f0bca7e87da4b"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2023-016",
+   "short": "Ley 16/2023, de 21 de diciembre",
+   "title": "Ley 16/2023, de 21 de diciembre, de la Autoridad Vasca de Protección de Datos.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-900",
+   "versions": [
+    {
+     "from": "2024-01-05",
+     "units": 52,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2024-900",
+     "sha256": "00d7cfc527fa6e9af49825f5e046effa1ab2c485f8ec72f9db30a629e3caa05d"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2023-017",
+   "short": "Ley 17/2023, de 21 de diciembre",
+   "title": "Ley 17/2023, de 21 de diciembre, de Educación de la Comunidad Autónoma del País Vasco.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-901",
+   "versions": [
+    {
+     "from": "2024-02-04",
+     "units": 114,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2024-901",
+     "sha256": "dc0fe9b871d7b6a6d4f08097fadd6fde47948efadf1eb92ccbdde2fcf057ff99"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2023-020",
+   "short": "Ley 20/2023, de 21 de diciembre",
+   "title": "Ley 20/2023, de 21 de diciembre, Reguladora del Régimen de Subvenciones.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-994",
+   "versions": [
+    {
+     "from": "2023-12-30",
+     "units": 64,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2024-994",
+     "sha256": "68aca550da69cd3eea20a3741d44596decc4d75b5de4bb2b11c7df9a55ea6e6c"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 64,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2024-994",
+     "sha256": "68aca550da69cd3eea20a3741d44596decc4d75b5de4bb2b11c7df9a55ea6e6c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2024-001",
+   "short": "Ley 1/2024, de 8 de febrero",
+   "title": "Ley 1/2024, de 8 de febrero, de Transición Energética y Cambio Climático.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-4783",
+   "versions": [
+    {
+     "from": "2024-02-22",
+     "units": 84,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2024-4783",
+     "sha256": "2862b4c836e8d4b828008a14283e924fcf1dbfde1e0b0e28f212a10581c4eb1b"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 95,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2024-4783",
+     "sha256": "2862b4c836e8d4b828008a14283e924fcf1dbfde1e0b0e28f212a10581c4eb1b"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2024-002",
+   "short": "Ley 2/2024, de 15 de febrero",
+   "title": "Ley 2/2024, de 15 de febrero, de Infancia y Adolescencia.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-4784",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 366,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2024-4784",
+     "sha256": "dc8fc015406848341b0ba380aa5f5f250da1e707d8221988c48dbab6dd766aa3"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2024-003",
+   "short": "Ley 3/2024, de 15 de febrero",
+   "title": "Ley 3/2024, de 15 de febrero, de Cooperación y Solidaridad.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-4866",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 29,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2024-4866",
+     "sha256": "a08aae651915dd244768fd9cf01513dedd7963492b6bafc39c4f28f53849db58"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 29,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2024-4866",
+     "sha256": "a08aae651915dd244768fd9cf01513dedd7963492b6bafc39c4f28f53849db58"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2024-004",
+   "short": "Ley 4/2024, de 15 de febrero",
+   "title": "Ley 4/2024, de 15 de febrero, de no discriminación por motivos de identidad de género y de reconocimiento de los derechos de las personas trans.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-4867",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 50,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2024-4867",
+     "sha256": "7a8503d4ffa148bedccf549f986db7590800e51c4b065112c5ca67698ee9cc8c"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-legislativo-2025-001",
+   "short": "Decreto Legislativo 1/2025, de 20 de marzo",
+   "title": "Decreto Legislativo 1/2025, de 20 de marzo, por el que se aprueba el Texto Refundido de la Ley de Tasas y Precios Públicos de la Administración de la Comunidad Autónoma del País Vasco.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2025-8489",
+   "versions": [
+    {
+     "from": "2025-04-05",
+     "units": 251,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2025-8489",
+     "sha256": "21aa731862dc9fae64986634a2f3f93b6b04dc9f3e3b8983f4814e6010007cd9"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 261,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2025-8489",
+     "sha256": "21aa731862dc9fae64986634a2f3f93b6b04dc9f3e3b8983f4814e6010007cd9"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2025-006",
+   "short": "Ley 6/2025, de 11 de diciembre",
+   "title": "Ley 6/2025, de 11 de diciembre, de Medidas Urgentes en materia de Vivienda, Suelo y Urbanismo.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2026-1256",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 20,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2026-1256",
+     "sha256": "334e423876c9cc863eb6a4fd3247fed960e0a80791f141e2d1492113470ee327"
+    }
+   ]
+  },
+  {
+   "slug": "boe-a-2026-2625",
+   "short": "Resolución de 9 de enero de 2026, de la Dirección de Tráfico, del Departamento de Seguridad, por la que se establecen...",
+   "title": "Resolución de 9 de enero de 2026, de la Dirección de Tráfico, del Departamento de Seguridad, por la que se establecen medidas especiales de regulación de tráfico durante el año 2026 en la Comunidad Autónoma del País Vasco.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2026-2625",
+   "versions": [
+    {
+     "from": "2026-02-17",
+     "units": 7,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2026-2625",
+     "sha256": "083479ed93ad9ba787c93183af1013d058059c8bc79a8f7cc79aa8c23730e7a9"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2026-003",
+   "short": "Ley 3/2026, de 14 de mayo",
+   "title": "Ley 3/2026, de 14 de mayo, de Transparencia de Euskadi.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2026-11851",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 103,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2026-11851",
+     "sha256": "6fb9ee3e40b808e559e7a626d6ebfa4455fb22e828e8d8a0aaabb0fd36ef371a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1980-001",
+   "short": "Ley 1/1980, de 23 de mayo",
+   "title": "Ley 1/1980, de 23 de mayo, de Sede de las Instituciones de la Comunidad Autónoma del País Vasco.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-6155",
+   "versions": [
+    {
+     "from": "1980-11-23",
+     "units": 3,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-6155",
+     "sha256": "62068bdc61669c2edcbd6e8eca45761c89710eb53e4ce07bdaf34700e9cfb9b4"
+    },
+    {
+     "from": "2023-10-14",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-6155",
+     "sha256": "62068bdc61669c2edcbd6e8eca45761c89710eb53e4ce07bdaf34700e9cfb9b4"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1983-008",
+   "short": "Ley 8/1983, de 14 de abril",
+   "title": "Ley 8/1983, de 14 de abril, sobre el Himno Oficial de Euskadi.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-4817",
+   "versions": [
+    {
+     "from": "1983-05-11",
+     "units": 4,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-4817",
+     "sha256": "d566169d1c934e2602046b9c38d98e59b08f06a1204000604f478cd801725e24"
+    },
+    {
+     "from": "2023-10-14",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-4817",
+     "sha256": "d566169d1c934e2602046b9c38d98e59b08f06a1204000604f478cd801725e24"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1983-016",
+   "short": "Ley 16/1983, de 27 de julio",
+   "title": "Ley 16/1983, de 27 de julio, sobre Régimen Jurídico del Instituto Vasco de Administración Pública.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-4967",
+   "versions": [
+    {
+     "from": "1983-08-26",
+     "units": 18,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-4967",
+     "sha256": "90a5397ae46251dcbf9e3da2b25ed0e88bf592c571ab53437ab2c3342a8f6475"
+    },
+    {
+     "from": "2007-01-11",
+     "units": 18,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-4967",
+     "sha256": "90a5397ae46251dcbf9e3da2b25ed0e88bf592c571ab53437ab2c3342a8f6475"
+    },
+    {
+     "from": "2008-01-23",
+     "units": 18,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-4967",
+     "sha256": "90a5397ae46251dcbf9e3da2b25ed0e88bf592c571ab53437ab2c3342a8f6475"
+    },
+    {
+     "from": "2023-10-14",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-4967",
+     "sha256": "90a5397ae46251dcbf9e3da2b25ed0e88bf592c571ab53437ab2c3342a8f6475"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1986-008",
+   "short": "Ley 8/1986, de 26 de junio",
+   "title": "Ley 8/1986, de 26 de junio, de Iniciativa Legislativa Popular.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-4379",
+   "versions": [
+    {
+     "from": "1986-08-10",
+     "units": 17,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-4379",
+     "sha256": "88e87fe30937c6dbc75b2236ce03f569d6ea8b1ee59ea1537ec05227bdc00c59"
+    },
+    {
+     "from": "2016-07-08",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-4379",
+     "sha256": "88e87fe30937c6dbc75b2236ce03f569d6ea8b1ee59ea1537ec05227bdc00c59"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1989-006",
+   "short": "Ley 6/1989, de 6 de julio",
+   "title": "Ley 6/1989, de 6 de julio, de la Función Pública Vasca.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-3405",
+   "versions": [
+    {
+     "from": "1989-07-29",
+     "units": 138,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3405",
+     "sha256": "d987c83e0ae62a090cf814740cfcbcf47a1fd1febeb5f9c8ce2d2163d0f74ff6"
+    },
+    {
+     "from": "1992-02-13",
+     "units": 138,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3405",
+     "sha256": "d987c83e0ae62a090cf814740cfcbcf47a1fd1febeb5f9c8ce2d2163d0f74ff6"
+    },
+    {
+     "from": "1995-04-27",
+     "units": 138,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3405",
+     "sha256": "d987c83e0ae62a090cf814740cfcbcf47a1fd1febeb5f9c8ce2d2163d0f74ff6"
+    },
+    {
+     "from": "1997-01-01",
+     "units": 138,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3405",
+     "sha256": "d987c83e0ae62a090cf814740cfcbcf47a1fd1febeb5f9c8ce2d2163d0f74ff6"
+    },
+    {
+     "from": "1997-11-19",
+     "units": 143,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3405",
+     "sha256": "d987c83e0ae62a090cf814740cfcbcf47a1fd1febeb5f9c8ce2d2163d0f74ff6"
+    },
+    {
+     "from": "1998-03-13",
+     "units": 143,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3405",
+     "sha256": "d987c83e0ae62a090cf814740cfcbcf47a1fd1febeb5f9c8ce2d2163d0f74ff6"
+    },
+    {
+     "from": "1998-07-29",
+     "units": 143,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3405",
+     "sha256": "d987c83e0ae62a090cf814740cfcbcf47a1fd1febeb5f9c8ce2d2163d0f74ff6"
+    },
+    {
+     "from": "2004-03-06",
+     "units": 143,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3405",
+     "sha256": "d987c83e0ae62a090cf814740cfcbcf47a1fd1febeb5f9c8ce2d2163d0f74ff6"
+    },
+    {
+     "from": "2005-03-03",
+     "units": 143,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3405",
+     "sha256": "d987c83e0ae62a090cf814740cfcbcf47a1fd1febeb5f9c8ce2d2163d0f74ff6"
+    },
+    {
+     "from": "2006-03-01",
+     "units": 143,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3405",
+     "sha256": "d987c83e0ae62a090cf814740cfcbcf47a1fd1febeb5f9c8ce2d2163d0f74ff6"
+    },
+    {
+     "from": "2008-12-30",
+     "units": 143,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3405",
+     "sha256": "d987c83e0ae62a090cf814740cfcbcf47a1fd1febeb5f9c8ce2d2163d0f74ff6"
+    },
+    {
+     "from": "2012-01-01",
+     "units": 143,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3405",
+     "sha256": "d987c83e0ae62a090cf814740cfcbcf47a1fd1febeb5f9c8ce2d2163d0f74ff6"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 143,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3405",
+     "sha256": "d987c83e0ae62a090cf814740cfcbcf47a1fd1febeb5f9c8ce2d2163d0f74ff6"
+    },
+    {
+     "from": "2014-11-01",
+     "units": 143,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3405",
+     "sha256": "d987c83e0ae62a090cf814740cfcbcf47a1fd1febeb5f9c8ce2d2163d0f74ff6"
+    },
+    {
+     "from": "2015-01-01",
+     "units": 143,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3405",
+     "sha256": "d987c83e0ae62a090cf814740cfcbcf47a1fd1febeb5f9c8ce2d2163d0f74ff6"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 143,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3405",
+     "sha256": "d987c83e0ae62a090cf814740cfcbcf47a1fd1febeb5f9c8ce2d2163d0f74ff6"
+    },
+    {
+     "from": "2017-04-20",
+     "units": 143,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3405",
+     "sha256": "d987c83e0ae62a090cf814740cfcbcf47a1fd1febeb5f9c8ce2d2163d0f74ff6"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 143,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3405",
+     "sha256": "d987c83e0ae62a090cf814740cfcbcf47a1fd1febeb5f9c8ce2d2163d0f74ff6"
+    },
+    {
+     "from": "2021-11-23",
+     "units": 143,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3405",
+     "sha256": "d987c83e0ae62a090cf814740cfcbcf47a1fd1febeb5f9c8ce2d2163d0f74ff6"
+    },
+    {
+     "from": "2022-03-18",
+     "units": 143,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3405",
+     "sha256": "d987c83e0ae62a090cf814740cfcbcf47a1fd1febeb5f9c8ce2d2163d0f74ff6"
+    },
+    {
+     "from": "2022-12-27",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3405",
+     "sha256": "d987c83e0ae62a090cf814740cfcbcf47a1fd1febeb5f9c8ce2d2163d0f74ff6"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1992-003",
+   "short": "Ley 3/1992, de 1 de julio",
+   "title": "Ley 3/1992, de 1 de julio, del Derecho Civil Foral del País Vasco.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-2257",
+   "versions": [
+    {
+     "from": "1992-11-07",
+     "units": 156,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2257",
+     "sha256": "ab3bec6af4bc45bdc2c7e70d99c0bfae85217c261d4b648aea5c381372311e4f"
+    },
+    {
+     "from": "1999-12-31",
+     "units": 199,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2257",
+     "sha256": "ab3bec6af4bc45bdc2c7e70d99c0bfae85217c261d4b648aea5c381372311e4f"
+    },
+    {
+     "from": "2015-10-03",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2257",
+     "sha256": "ab3bec6af4bc45bdc2c7e70d99c0bfae85217c261d4b648aea5c381372311e4f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1992-004",
+   "short": "Ley 4/1992, de 17 de julio",
+   "title": "Ley 4/1992, de 17 de julio, de Policía del País Vasco.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-2258",
+   "versions": [
+    {
+     "from": "1992-08-12",
+     "units": 158,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2258",
+     "sha256": "8eb273a4063696d8fac13db5360c2b55a4290c9fcc8ab9ce56359e0f059ecb67"
+    },
+    {
+     "from": "1998-01-01",
+     "units": 158,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2258",
+     "sha256": "8eb273a4063696d8fac13db5360c2b55a4290c9fcc8ab9ce56359e0f059ecb67"
+    },
+    {
+     "from": "2006-12-16",
+     "units": 158,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2258",
+     "sha256": "8eb273a4063696d8fac13db5360c2b55a4290c9fcc8ab9ce56359e0f059ecb67"
+    },
+    {
+     "from": "2008-06-14",
+     "units": 161,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2258",
+     "sha256": "8eb273a4063696d8fac13db5360c2b55a4290c9fcc8ab9ce56359e0f059ecb67"
+    },
+    {
+     "from": "2012-07-07",
+     "units": 162,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2258",
+     "sha256": "8eb273a4063696d8fac13db5360c2b55a4290c9fcc8ab9ce56359e0f059ecb67"
+    },
+    {
+     "from": "2019-07-10",
+     "units": 180,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2258",
+     "sha256": "8eb273a4063696d8fac13db5360c2b55a4290c9fcc8ab9ce56359e0f059ecb67"
+    },
+    {
+     "from": "2020-08-07",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2258",
+     "sha256": "8eb273a4063696d8fac13db5360c2b55a4290c9fcc8ab9ce56359e0f059ecb67"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1993-001",
+   "short": "Ley 1/1993, de 19 de febrero",
+   "title": "Ley 1/1993, de 19 de febrero, de la Escuela Pública Vasca.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-2008",
+   "versions": [
+    {
+     "from": "1993-02-26",
+     "units": 91,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2008",
+     "sha256": "ec075443b2eef61093adb279e5e6a5e9911e307eb2ef0a46f3d7ebc3348228a7"
+    },
+    {
+     "from": "1994-08-04",
+     "units": 91,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2008",
+     "sha256": "ec075443b2eef61093adb279e5e6a5e9911e307eb2ef0a46f3d7ebc3348228a7"
+    },
+    {
+     "from": "2007-01-11",
+     "units": 91,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2008",
+     "sha256": "ec075443b2eef61093adb279e5e6a5e9911e307eb2ef0a46f3d7ebc3348228a7"
+    },
+    {
+     "from": "2008-01-23",
+     "units": 91,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2008",
+     "sha256": "ec075443b2eef61093adb279e5e6a5e9911e307eb2ef0a46f3d7ebc3348228a7"
+    },
+    {
+     "from": "2008-06-24",
+     "units": 96,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2008",
+     "sha256": "ec075443b2eef61093adb279e5e6a5e9911e307eb2ef0a46f3d7ebc3348228a7"
+    },
+    {
+     "from": "2023-10-14",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2008",
+     "sha256": "ec075443b2eef61093adb279e5e6a5e9911e307eb2ef0a46f3d7ebc3348228a7"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1993-002",
+   "short": "Ley 2/1993, de 19 de febrero",
+   "title": "Ley 2/1993, de 19 de febrero, de Cuerpos Docentes de la Enseñanza no Universitaria de la Comunidad Autónoma del País Vasco.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-2009",
+   "versions": [
+    {
+     "from": "1993-02-26",
+     "units": 87,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2009",
+     "sha256": "dc4d5a9c7160fe6535aff4c86d34720d452b5abcda2c520d94da09fae188ac00"
+    },
+    {
+     "from": "1998-02-28",
+     "units": 87,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2009",
+     "sha256": "dc4d5a9c7160fe6535aff4c86d34720d452b5abcda2c520d94da09fae188ac00"
+    },
+    {
+     "from": "2008-12-30",
+     "units": 87,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2009",
+     "sha256": "dc4d5a9c7160fe6535aff4c86d34720d452b5abcda2c520d94da09fae188ac00"
+    },
+    {
+     "from": "2023-10-14",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2009",
+     "sha256": "dc4d5a9c7160fe6535aff4c86d34720d452b5abcda2c520d94da09fae188ac00"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1993-004",
+   "short": "Ley 4/1993, de 24 de junio",
+   "title": "Ley 4/1993, de 24 de junio, de Cooperativas de Euskadi.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-2011",
+   "versions": [
+    {
+     "from": "1993-08-18",
+     "units": 163,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2011",
+     "sha256": "549afd84325bdbf4c55505c4c328352bccbca060b14626292a5eb11acdaa9f8a"
+    },
+    {
+     "from": "1995-08-02",
+     "units": 163,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2011",
+     "sha256": "549afd84325bdbf4c55505c4c328352bccbca060b14626292a5eb11acdaa9f8a"
+    },
+    {
+     "from": "1997-07-01",
+     "units": 163,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2011",
+     "sha256": "549afd84325bdbf4c55505c4c328352bccbca060b14626292a5eb11acdaa9f8a"
+    },
+    {
+     "from": "2000-08-02",
+     "units": 166,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2011",
+     "sha256": "549afd84325bdbf4c55505c4c328352bccbca060b14626292a5eb11acdaa9f8a"
+    },
+    {
+     "from": "2006-12-16",
+     "units": 166,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2011",
+     "sha256": "549afd84325bdbf4c55505c4c328352bccbca060b14626292a5eb11acdaa9f8a"
+    },
+    {
+     "from": "2008-08-03",
+     "units": 167,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2011",
+     "sha256": "549afd84325bdbf4c55505c4c328352bccbca060b14626292a5eb11acdaa9f8a"
+    },
+    {
+     "from": "2020-01-29",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2011",
+     "sha256": "549afd84325bdbf4c55505c4c328352bccbca060b14626292a5eb11acdaa9f8a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1993-006",
+   "short": "Ley 6/1993, de 29 de octubre",
+   "title": "Ley 6/1993, de 29 de octubre, de Protección de los Animales.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-2013",
+   "versions": [
+    {
+     "from": "1993-11-16",
+     "units": 43,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2013",
+     "sha256": "d1313fa55ccc4db964c79680bfd164b3ab92eeda4a9f0e869ec7e762fc376cc4"
+    },
+    {
+     "from": "2012-05-01",
+     "units": 43,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2013",
+     "sha256": "d1313fa55ccc4db964c79680bfd164b3ab92eeda4a9f0e869ec7e762fc376cc4"
+    },
+    {
+     "from": "2022-08-18",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-2013",
+     "sha256": "d1313fa55ccc4db964c79680bfd164b3ab92eeda4a9f0e869ec7e762fc376cc4"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1997-004",
+   "short": "Ley 4/1997, de 30 de mayo",
+   "title": "Ley 4/1997, de 30 de mayo, de reconocimiento de la Universidad \"Mondragon Unibertsitatea\".",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-411",
+   "versions": [
+    {
+     "from": "1997-06-20",
+     "units": 14,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-411",
+     "sha256": "5c36ed5584c29509aea9533fc3904422467490858ad212e75db2ae4d7314b1f6"
+    },
+    {
+     "from": "2023-10-14",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-411",
+     "sha256": "5c36ed5584c29509aea9533fc3904422467490858ad212e75db2ae4d7314b1f6"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1998-002",
+   "short": "Ley 2/1998, de 20 de febrero",
+   "title": "Ley 2/1998, de 20 de febrero, de la potestad sancionadora de las Administraciones Públicas de la Comunidad Autónoma del País Vasco.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-20035",
+   "versions": [
+    {
+     "from": "1998-06-12",
+     "units": 49,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-20035",
+     "sha256": "8d4ecbfce3f56a1d5af60339c35e052c239bae167aacf473cb0f4c087ad51101"
+    },
+    {
+     "from": "2023-06-27",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-20035",
+     "sha256": "8d4ecbfce3f56a1d5af60339c35e052c239bae167aacf473cb0f4c087ad51101"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1998-010",
+   "short": "Ley 10/1998, de 8 de abril",
+   "title": "Ley 10/1998, de 8 de abril, de Desarrollo Rural.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-20043",
+   "versions": [
+    {
+     "from": "1998-05-05",
+     "units": 23,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-20043",
+     "sha256": "a88b81cf6010387b1c023889c04871e08935790540dca129d4c79cf2aef42050"
+    },
+    {
+     "from": "2022-07-16",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-20043",
+     "sha256": "a88b81cf6010387b1c023889c04871e08935790540dca129d4c79cf2aef42050"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1998-014",
+   "short": "Ley 14/1998, de 11 de junio",
+   "title": "Ley 14/1998, de 11 de junio, del Deporte del País Vasco.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-20657",
+   "versions": [
+    {
+     "from": "1998-07-15",
+     "units": 166,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-20657",
+     "sha256": "97c02bbc9f4aebc05500707f477a3ad53b3c10281a7b9a94359759a1a61bb96b"
+    },
+    {
+     "from": "1998-10-07",
+     "units": 166,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-20657",
+     "sha256": "97c02bbc9f4aebc05500707f477a3ad53b3c10281a7b9a94359759a1a61bb96b"
+    },
+    {
+     "from": "1999-02-20",
+     "units": 166,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-20657",
+     "sha256": "97c02bbc9f4aebc05500707f477a3ad53b3c10281a7b9a94359759a1a61bb96b"
+    },
+    {
+     "from": "2012-05-16",
+     "units": 166,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-20657",
+     "sha256": "97c02bbc9f4aebc05500707f477a3ad53b3c10281a7b9a94359759a1a61bb96b"
+    },
+    {
+     "from": "2012-09-28",
+     "units": 166,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-20657",
+     "sha256": "97c02bbc9f4aebc05500707f477a3ad53b3c10281a7b9a94359759a1a61bb96b"
+    },
+    {
+     "from": "2022-03-18",
+     "units": 166,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-20657",
+     "sha256": "97c02bbc9f4aebc05500707f477a3ad53b3c10281a7b9a94359759a1a61bb96b"
+    },
+    {
+     "from": "2022-07-20",
+     "units": 166,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-20657",
+     "sha256": "97c02bbc9f4aebc05500707f477a3ad53b3c10281a7b9a94359759a1a61bb96b"
+    },
+    {
+     "from": "2023-04-19",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-20657",
+     "sha256": "97c02bbc9f4aebc05500707f477a3ad53b3c10281a7b9a94359759a1a61bb96b"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2003-006",
+   "short": "Ley 6/2003, de 22 de diciembre",
+   "title": "Ley 6/2003, de 22 de diciembre, de Estatuto de las Personas Consumidoras y Usuarias.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-18549",
+   "versions": [
+    {
+     "from": "2003-12-31",
+     "units": 83,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-18549",
+     "sha256": "2255b38a0b340a2fa61691d4181e6bcea49fc682b38898d80cef0647793542ad"
+    },
+    {
+     "from": "2007-07-21",
+     "units": 83,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-18549",
+     "sha256": "2255b38a0b340a2fa61691d4181e6bcea49fc682b38898d80cef0647793542ad"
+    },
+    {
+     "from": "2008-07-05",
+     "units": 83,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-18549",
+     "sha256": "2255b38a0b340a2fa61691d4181e6bcea49fc682b38898d80cef0647793542ad"
+    },
+    {
+     "from": "2012-02-18",
+     "units": 84,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-18549",
+     "sha256": "2255b38a0b340a2fa61691d4181e6bcea49fc682b38898d80cef0647793542ad"
+    },
+    {
+     "from": "2023-05-11",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-18549",
+     "sha256": "2255b38a0b340a2fa61691d4181e6bcea49fc682b38898d80cef0647793542ad"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2004-001",
+   "short": "Ley 1/2004, de 25 de febrero",
+   "title": "Ley 1/2004, de 25 de febrero, de Ordenación de los Cuerpos y Escalas de la Administración General de la Comunidad Autónoma de Euskadi y sus Organismos Autónomos.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-18150",
+   "versions": [
+    {
+     "from": "2004-03-06",
+     "units": 28,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-18150",
+     "sha256": "a34cff5b5c0144a92827eeff842bc3be090f40b4961f0094a7740d42f583b6c1"
+    },
+    {
+     "from": "2016-04-28",
+     "units": 28,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-18150",
+     "sha256": "a34cff5b5c0144a92827eeff842bc3be090f40b4961f0094a7740d42f583b6c1"
+    },
+    {
+     "from": "2021-11-23",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-18150",
+     "sha256": "a34cff5b5c0144a92827eeff842bc3be090f40b4961f0094a7740d42f583b6c1"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2004-002",
+   "short": "Ley 2/2004, de 25 de febrero",
+   "title": "Ley 2/2004, de 25 de febrero, de Ficheros de Datos de Carácter Personal de Titularidad Pública y de Creación de la Agencia Vasca de Protección de Datos.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-18151",
+   "versions": [
+    {
+     "from": "2004-03-24",
+     "units": 31,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-18151",
+     "sha256": "e968924e92e674fbfd814753d4e4bef497e36e5e1a971fd8785375963be0c6d1"
+    },
+    {
+     "from": "2024-01-05",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-18151",
+     "sha256": "e968924e92e674fbfd814753d4e4bef497e36e5e1a971fd8785375963be0c6d1"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2005-003",
+   "short": "Ley 3/2005, de 18 de febrero",
+   "title": "Ley 3/2005, de 18 de febrero, de Atención y Protección a la Infancia y la Adolescencia.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-17778",
+   "versions": [
+    {
+     "from": "2005-04-30",
+     "units": 139,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-17778",
+     "sha256": "4ac289abeb4e179554c853412fb52abe725d9c45e1c42ed0ca6471e9a09723ea"
+    },
+    {
+     "from": "2010-01-01",
+     "units": 139,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-17778",
+     "sha256": "4ac289abeb4e179554c853412fb52abe725d9c45e1c42ed0ca6471e9a09723ea"
+    },
+    {
+     "from": "2024-08-29",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-17778",
+     "sha256": "4ac289abeb4e179554c853412fb52abe725d9c45e1c42ed0ca6471e9a09723ea"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2005-004",
+   "short": "Ley 4/2005, de 18 de febrero",
+   "title": "Ley 4/2005, de 18 de febrero, para la Igualdad de Mujeres y Hombres.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-17779",
+   "versions": [
+    {
+     "from": "2005-03-03",
+     "units": 100,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-17779",
+     "sha256": "45c3852fde0d5ddd407229708d9712c5153a62bf9a6ede2322b0bc7105b1bc08"
+    },
+    {
+     "from": "2006-03-03",
+     "units": 104,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-17779",
+     "sha256": "45c3852fde0d5ddd407229708d9712c5153a62bf9a6ede2322b0bc7105b1bc08"
+    },
+    {
+     "from": "2012-02-29",
+     "units": 105,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-17779",
+     "sha256": "45c3852fde0d5ddd407229708d9712c5153a62bf9a6ede2322b0bc7105b1bc08"
+    },
+    {
+     "from": "2022-03-18",
+     "units": 109,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-17779",
+     "sha256": "45c3852fde0d5ddd407229708d9712c5153a62bf9a6ede2322b0bc7105b1bc08"
+    },
+    {
+     "from": "2023-03-28",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-17779",
+     "sha256": "45c3852fde0d5ddd407229708d9712c5153a62bf9a6ede2322b0bc7105b1bc08"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2007-001",
+   "short": "Ley 1/2007, de 22 de febrero",
+   "title": "Ley 1/2007, de 22 de febrero, de Cooperación para el Desarrollo.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-16281",
+   "versions": [
+    {
+     "from": "2007-03-09",
+     "units": 37,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-16281",
+     "sha256": "83681267fe90b1b3d535ef636988924e9b9e4ef5436cecd9000e2fcc36b90d13"
+    },
+    {
+     "from": "2024-03-01",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-16281",
+     "sha256": "83681267fe90b1b3d535ef636988924e9b9e4ef5436cecd9000e2fcc36b90d13"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-legislativo-2007-001",
+   "short": "Decreto Legislativo 1/2007, de 11 de septiembre",
+   "title": "Decreto Legislativo 1/2007, de 11 de septiembre, de aprobación del texto refundido de la Ley de Tasas y Precios Públicos de la Administración de la Comunidad Autónoma del País Vasco.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOPV-p-2007-90050",
+   "versions": [
+    {
+     "from": "2007-12-28",
+     "units": 221,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOPV-p-2007-90050",
+     "sha256": "8552ab85f47d532412dfb0361b108a3834da911f6a4224701a98a3981a36e325"
+    },
+    {
+     "from": "2011-03-30",
+     "units": 225,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOPV-p-2007-90050",
+     "sha256": "8552ab85f47d532412dfb0361b108a3834da911f6a4224701a98a3981a36e325"
+    },
+    {
+     "from": "2011-12-29",
+     "units": 238,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOPV-p-2007-90050",
+     "sha256": "8552ab85f47d532412dfb0361b108a3834da911f6a4224701a98a3981a36e325"
+    },
+    {
+     "from": "2012-01-01",
+     "units": 238,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOPV-p-2007-90050",
+     "sha256": "8552ab85f47d532412dfb0361b108a3834da911f6a4224701a98a3981a36e325"
+    },
+    {
+     "from": "2012-07-07",
+     "units": 242,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOPV-p-2007-90050",
+     "sha256": "8552ab85f47d532412dfb0361b108a3834da911f6a4224701a98a3981a36e325"
+    },
+    {
+     "from": "2013-10-18",
+     "units": 247,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOPV-p-2007-90050",
+     "sha256": "8552ab85f47d532412dfb0361b108a3834da911f6a4224701a98a3981a36e325"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 248,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOPV-p-2007-90050",
+     "sha256": "8552ab85f47d532412dfb0361b108a3834da911f6a4224701a98a3981a36e325"
+    },
+    {
+     "from": "2015-01-01",
+     "units": 248,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOPV-p-2007-90050",
+     "sha256": "8552ab85f47d532412dfb0361b108a3834da911f6a4224701a98a3981a36e325"
+    },
+    {
+     "from": "2015-07-03",
+     "units": 254,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOPV-p-2007-90050",
+     "sha256": "8552ab85f47d532412dfb0361b108a3834da911f6a4224701a98a3981a36e325"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 254,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOPV-p-2007-90050",
+     "sha256": "8552ab85f47d532412dfb0361b108a3834da911f6a4224701a98a3981a36e325"
+    },
+    {
+     "from": "2016-01-08",
+     "units": 259,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOPV-p-2007-90050",
+     "sha256": "8552ab85f47d532412dfb0361b108a3834da911f6a4224701a98a3981a36e325"
+    },
+    {
+     "from": "2016-04-16",
+     "units": 259,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOPV-p-2007-90050",
+     "sha256": "8552ab85f47d532412dfb0361b108a3834da911f6a4224701a98a3981a36e325"
+    },
+    {
+     "from": "2016-06-14",
+     "units": 259,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOPV-p-2007-90050",
+     "sha256": "8552ab85f47d532412dfb0361b108a3834da911f6a4224701a98a3981a36e325"
+    },
+    {
+     "from": "2016-08-31",
+     "units": 259,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOPV-p-2007-90050",
+     "sha256": "8552ab85f47d532412dfb0361b108a3834da911f6a4224701a98a3981a36e325"
+    },
+    {
+     "from": "2017-04-20",
+     "units": 259,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOPV-p-2007-90050",
+     "sha256": "8552ab85f47d532412dfb0361b108a3834da911f6a4224701a98a3981a36e325"
+    },
+    {
+     "from": "2018-07-06",
+     "units": 259,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOPV-p-2007-90050",
+     "sha256": "8552ab85f47d532412dfb0361b108a3834da911f6a4224701a98a3981a36e325"
+    },
+    {
+     "from": "2018-10-05",
+     "units": 263,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOPV-p-2007-90050",
+     "sha256": "8552ab85f47d532412dfb0361b108a3834da911f6a4224701a98a3981a36e325"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 266,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOPV-p-2007-90050",
+     "sha256": "8552ab85f47d532412dfb0361b108a3834da911f6a4224701a98a3981a36e325"
+    },
+    {
+     "from": "2021-02-18",
+     "units": 272,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOPV-p-2007-90050",
+     "sha256": "8552ab85f47d532412dfb0361b108a3834da911f6a4224701a98a3981a36e325"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 272,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOPV-p-2007-90050",
+     "sha256": "8552ab85f47d532412dfb0361b108a3834da911f6a4224701a98a3981a36e325"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 272,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOPV-p-2007-90050",
+     "sha256": "8552ab85f47d532412dfb0361b108a3834da911f6a4224701a98a3981a36e325"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 274,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOPV-p-2007-90050",
+     "sha256": "8552ab85f47d532412dfb0361b108a3834da911f6a4224701a98a3981a36e325"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 279,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOPV-p-2007-90050",
+     "sha256": "8552ab85f47d532412dfb0361b108a3834da911f6a4224701a98a3981a36e325"
+    },
+    {
+     "from": "2025-04-05",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOPV-p-2007-90050",
+     "sha256": "8552ab85f47d532412dfb0361b108a3834da911f6a4224701a98a3981a36e325"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2008-018",
+   "short": "Ley 18/2008, de 23 de diciembre",
+   "title": "Ley 18/2008, de 23 de diciembre, para la Garantía de Ingresos y para la Inclusión Social.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-15732",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 127,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-15732",
+     "sha256": "d5faf584dada7c92bbaed8d127edb750dfa03fdc4ed7a6d18d709699ab32f329"
+    },
+    {
+     "from": "2011-12-13",
+     "units": 128,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-15732",
+     "sha256": "d5faf584dada7c92bbaed8d127edb750dfa03fdc4ed7a6d18d709699ab32f329"
+    },
+    {
+     "from": "2023-03-29",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-15732",
+     "sha256": "d5faf584dada7c92bbaed8d127edb750dfa03fdc4ed7a6d18d709699ab32f329"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2011-003",
+   "short": "Ley 3/2011, de 13 de octubre",
+   "title": "Ley 3/2011, de 13 de octubre, sobre Lanbide-Servicio Vasco de Empleo.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-17716",
+   "versions": [
+    {
+     "from": "2011-11-03",
+     "units": 24,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-17716",
+     "sha256": "30a008cb5ffae67c5c496ef26f62056522140a78ad9fbcd40622680c41c957e9"
+    },
+    {
+     "from": "2023-03-29",
+     "units": 24,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-17716",
+     "sha256": "30a008cb5ffae67c5c496ef26f62056522140a78ad9fbcd40622680c41c957e9"
+    },
+    {
+     "from": "2024-06-29",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-17716",
+     "sha256": "30a008cb5ffae67c5c496ef26f62056522140a78ad9fbcd40622680c41c957e9"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2012-014",
+   "short": "Ley 14/2012, de 28 de junio",
+   "title": "Ley 14/2012, de 28 de junio, de no discriminación por motivos de identidad de género y de reconocimiento de los derechos de las personas transexuales.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-9664",
+   "versions": [
+    {
+     "from": "2012-10-06",
+     "units": 24,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-9664",
+     "sha256": "ed569d5e40c158da6e734f999a0ea95040bffd65bbd70d2e82460147e1846f5e"
+    },
+    {
+     "from": "2019-07-10",
+     "units": 24,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-9664",
+     "sha256": "ed569d5e40c158da6e734f999a0ea95040bffd65bbd70d2e82460147e1846f5e"
+    },
+    {
+     "from": "2024-03-01",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-9664",
+     "sha256": "ed569d5e40c158da6e734f999a0ea95040bffd65bbd70d2e82460147e1846f5e"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-legislativo-2014-001",
+   "short": "Decreto Legislativo 1/2014, de 15 de abril",
+   "title": "Decreto Legislativo 1/2014, de 15 de abril, por el que se aprueba el texto refundido de la Ley de Conservación de la Naturaleza del País Vasco.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2014-5595",
+   "versions": [
+    {
+     "from": "2014-05-20",
+     "units": 97,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-5595",
+     "sha256": "d2cc49ce45780a99e365939531003801f5128fe0095907b5f24c42db61562aba"
+    },
+    {
+     "from": "2022-04-10",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-5595",
+     "sha256": "d2cc49ce45780a99e365939531003801f5128fe0095907b5f24c42db61562aba"
+    }
+   ]
+  }
+ ]
+}

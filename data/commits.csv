@@ -1,0 +1,443 @@
+day,kind,law,acts,files,branch
+1980-01-11,start,boe-a-1979-30177,estatuto-de-autonomia,59,main
+1980-11-23,start,boe-a-2012-6155,ley-1980-001,3,main
+1981-04-10,start,boe-a-2012-5922,ley-1981-002,5,main
+1981-04-10,start,boe-a-2012-5923,ley-1981-003,41,main
+1981-05-12,start,boe-a-2012-5924,ley-1981-004,13,main
+1981-07-01,law,boe-a-1981-14608,ley-1981-003,10,main
+1981-07-09,law,boe-a-1981-15176,ley-1981-002,3,main
+1981-07-23,law,boe-a-1981-16531,ley-1981-004,5,main
+1981-07-27,start,boe-a-2012-5927,ley-1981-007,73,main
+1981-11-19,law,boe-a-1981-26833,ley-1981-002,3,main
+1981-11-28,law,boe-a-1981-27597,ley-1981-003,10,main
+1982-01-14,law,boe-a-1982-963,ley-1981-004,5,main
+1982-05-04,law,boe-a-2012-5533,ley-1981-003,10,main
+1982-06-03,start,boe-a-2012-5534,ley-1982-005,52,main
+1982-09-02,start,boe-a-2012-5536,ley-1982-007,27,main
+1982-12-16,start,boe-a-2012-5538,ley-1982-009,20,main
+1982-12-17,start,boe-a-2012-5539,ley-1982-010,38,main
+1983-05-11,start,boe-a-2012-4817,ley-1983-008,4,main
+1983-08-26,start,boe-a-2012-4967,ley-1983-016,18,main
+1983-12-10,start,boe-a-2012-5193,ley-1983-027,39,main
+1983-12-13,start,boe-a-2012-5195,ley-1983-029,28,main
+1984-12-03,start,,ley-1984-002,17,main
+1985-04-22,start,boe-a-2012-4768,ley-1985-003,49,main
+1986-01-27,start,boe-a-2012-4774,ley-1985-009,16,main
+1986-04-03,law,boe-a-2012-4372,ley-1981-004,1,main
+1986-06-11,start,boe-a-2012-4377,ley-1986-006,23,main
+1986-06-19,start,boe-a-2012-4375,ley-1986-004,53,main
+1986-07-04,law,boe-a-1986-17827,ley-1982-010,3,main
+1986-08-10,start,boe-a-2012-4379,ley-1986-008,17,main
+1987-02-10,law,boe-a-1987-3664,ley-1981-007,1,main
+1987-04-10,start,boe-a-2012-3948,ley-1987-001,18,main
+1987-04-10,law,boe-a-2012-3948,ley-1983-027,1,main
+1987-12-10,start,boe-a-2012-3955,ley-1987-008,12,main
+1988-03-23,start,boe-a-2012-3545,ley-1988-001,34,main
+1988-03-24,start,boe-a-2012-3546,ley-1988-002,11,main
+1988-06-15,law,boe-a-1988-14706,ley-1988-001,3,main
+1988-08-07,start,boe-a-2012-3554,ley-1988-010,15,main
+1988-08-07,start,boe-a-2012-3816,ley-1988-011,19,main
+1988-11-19,law,boe-a-1988-26746,ley-1988-001,3,main
+1988-11-24,start,boe-a-2012-3819,ley-1988-014,15,main
+1988-11-24,law,boe-a-2012-3819,ley-1981-007,3,main
+1988-12-13,start,boe-a-2012-3818,ley-1988-013,36,main
+1989-06-01,start,boe-a-2012-3400,ley-1989-001,12,main
+1989-06-09,start,,ley-1989-002,34,main
+1989-06-10,start,boe-a-2012-3402,ley-1989-003,22,main
+1989-07-29,start,boe-a-2012-3405,ley-1989-006,138,main
+1989-07-30,start,boe-a-2012-3404,ley-1989-005,37,main
+1989-09-05,law,boe-a-1989-21673,ley-1989-001,1,main
+1989-09-27,law,boe-a-1989-22924,ley-1989-002,5,main
+1990-01-01,law,boe-a-2012-3402,ley-1989-003,2,main
+1990-01-29,law,boe-a-1990-2344,ley-1989-001,1,main
+1990-02-22,law,boe-a-1990-4644,ley-1989-002,5,main
+1990-05-15,start,boe-a-2012-2855,ley-1990-001,7,main
+1990-07-04,start,boe-a-2012-2858,ley-1990-004,47,main
+1990-07-05,law,boe-a-2012-2857,ley-1981-003,2,main
+1990-07-07,start,boe-a-2012-2859,ley-1990-005,167,main
+1990-08-07,start,boe-a-2012-2861,ley-1990-007,123,main
+1990-10-31,law,boe-a-1990-26410,ley-1990-004,3,main
+1991-03-21,law,boe-a-1991-7256,ley-1990-004,3,main
+1991-06-14,law,boe-a-2012-2678,ley-1981-003,1,main
+1991-11-26,start,boe-a-2012-2681,ley-1991-004,51,main
+1991-11-26,law,boe-a-2012-2679,ley-1989-002,3,main
+1992-02-13,law,boe-a-2012-2255,ley-1989-006,3,main
+1992-06-12,start,boe-a-2012-2256,ley-1992-002,14,main
+1992-08-12,start,boe-a-2012-2258,ley-1992-004,158,main
+1992-11-03,start,boe-a-2012-2259,ley-1992-005,5,main
+1992-11-03,law,boe-a-2012-2259,ley-1990-001,1,main
+1992-11-07,start,boe-a-2012-2257,ley-1992-003,156,main
+1993-01-01,start,boe-a-2012-2260,ley-1992-006,22,main
+1993-01-19,start,boe-a-2012-2261,ley-1992-007,10,main
+1993-02-26,start,,ley-1993-001,91,main
+1993-02-26,start,boe-a-2012-2009,ley-1993-002,87,main
+1993-02-26,law,boe-a-2012-2008,ley-1988-010 ley-1988-013,5,main
+1993-07-20,law,boe-a-2012-2012,ley-1983-027,1,main
+1993-08-18,start,boe-a-2012-2011,ley-1993-004,163,main
+1993-11-16,start,boe-a-2012-2013,ley-1993-006,43,main
+1994-01-08,start,boe-a-2012-2014,ley-1993-007,25,main
+1994-07-03,start,boe-a-2012-1540,ley-1994-007,57,main
+1994-07-03,start,boe-a-2012-1541,ley-1994-008,20,main
+1994-08-04,start,boe-a-2012-1682,ley-1994-011,57,main
+1994-08-04,law,boe-a-2012-1543,ley-1993-001,1,main
+1994-08-16,start,boe-a-2012-1684,ley-1994-013,72,main
+1994-08-16,law,boe-a-2012-1687,ley-1989-001,1,main
+1995-04-27,law,boe-a-2012-1243,ley-1988-014 ley-1992-006 ley-1989-006,4,main
+1995-08-02,law,boe-a-2012-1245,ley-1993-004,1,main
+1995-12-30,law,boe-a-2012-1248,ley-1992-006,1,main
+1996-06-01,start,boe-a-2012-865,ley-1996-002,21,main
+1996-11-24,law,boe-a-2012-867,ley-1982-005,3,main
+1997-01-01,start,boe-a-2012-871,ley-1996-008,64,main
+1997-01-01,law,boe-a-2012-873,ley-1989-006,3,main
+1997-01-03,law,boe-a-1997-69,ley-1989-001,1,main
+1997-06-20,start,boe-a-2012-411,ley-1997-004,14,main
+1997-06-25,start,boe-a-2012-412,ley-1997-005,14,main
+1997-06-25,law,boe-a-2012-412,ley-1988-001,1,main
+1997-07-01,law,boe-a-2012-413,ley-1993-004,1,main
+1997-07-22,start,boe-a-2012-415,ley-1997-008,52,main
+1997-07-29,law,boe-a-2012-417,ley-1993-007,5,main
+1997-11-18,law,boe-a-2012-536,ley-1989-005,3,main
+1997-11-19,law,boe-a-2012-537,ley-1989-006,45,main
+1997-12-12,start,boe-a-2012-540,ley-1997-019,10,main
+1997-12-31,start,boe-a-2012-539,ley-1997-018,74,main
+1998-01-01,law,boe-a-2012-542,ley-1992-004,2,main
+1998-01-20,start,,decreto-legislativo-1997-001,72,main
+1998-01-20,law,boe-a-1998-90002,ley-1996-008,1,main
+1998-02-28,law,boe-a-2011-20034,ley-1993-002,1,main
+1998-03-13,law,boe-a-1998-6100,ley-1989-006,1,main
+1998-03-31,law,boe-a-2011-20037,ley-1989-003,8,main
+1998-04-03,law,boe-a-2011-20040,ley-1982-009,2,main
+1998-04-18,law,boe-a-2011-20041,ley-1982-005,13,main
+1998-04-21,start,boe-a-2011-20039,ley-1998-006,82,main
+1998-04-24,start,boe-a-2012-541,ley-1997-020,35,main
+1998-05-05,start,boe-a-2011-20042,ley-1998-009,18,main
+1998-05-05,start,boe-a-2011-20043,ley-1998-010,23,main
+1998-06-12,start,boe-a-2011-20035,ley-1998-002,49,main
+1998-07-10,law,boe-a-2011-20658,ley-1990-005,57,main
+1998-07-14,start,boe-a-2011-20660,ley-1998-017,24,main
+1998-07-15,start,boe-a-2011-20657,ley-1998-014,166,main
+1998-07-15,law,boe-a-2011-20657,ley-1991-004,1,main
+1998-07-17,law,boe-a-1998-17037,ley-1989-002,3,main
+1998-07-29,law,boe-a-1998-18173,ley-1989-006,1,main
+1998-07-30,start,boe-a-2011-20659,ley-1998-016,82,main
+1998-07-30,law,boe-a-1998-18267,ley-1990-004,3,main
+1998-10-07,law,boe-a-1998-23231,ley-1998-014,1,main
+1999-02-20,law,boe-a-1999-4310,ley-1998-014,1,main
+1999-12-31,law,boe-a-2011-19660,ley-1992-003,44,main
+2000-08-02,start,boe-a-2011-19444,ley-2000-002,40,main
+2000-08-02,law,boe-a-2011-19443,ley-1993-004,19,main
+2000-08-03,start,boe-a-2011-19445,ley-2000-003,10,main
+2000-11-07,law,boe-a-2011-19448,ley-1990-005,1,main
+2001-01-01,start,boe-a-2011-19452,ley-2000-010,16,main
+2001-01-01,law,boe-a-2011-19449,ley-1994-007,2,main
+2001-04-12,start,boe-a-2011-19048,ley-2001-001,10,main
+2002-04-16,law,boe-a-2011-19053,ley-1986-004,1,main
+2002-10-16,law,boe-a-2011-19054,ley-1989-002,1,main
+2002-12-31,start,boe-a-2011-19056,ley-2002-007,12,main
+2003-04-11,law,boe-a-2011-18544,ley-1990-005,4,main
+2003-05-24,start,boe-a-2011-18545,ley-2003-002,28,main
+2003-08-20,law,boe-a-2003-16485,ley-2003-002,1,main
+2003-12-25,start,boe-a-2011-18548,ley-2003-005,21,main
+2003-12-31,start,boe-a-2011-18549,ley-2003-006,83,main
+2003-12-31,start,boe-a-2011-18550,ley-2003-007,10,main
+2003-12-31,law,boe-a-2003-23941,ley-2003-002,1,main
+2003-12-31,law,boe-a-2011-18549,ley-1994-007,1,main
+2004-03-06,start,boe-a-2011-18150,ley-2004-001,28,main
+2004-03-06,law,boe-a-2011-18150,ley-1989-006,1,main
+2004-03-24,start,boe-a-2011-18151,ley-2004-002,31,main
+2004-03-24,law,boe-a-2011-18151,ley-1986-004,1,main
+2004-03-30,start,,ley-2004-004,70,main
+2004-04-01,start,boe-a-2011-18152,ley-2004-003,134,main
+2004-05-25,start,boe-a-2011-18154,ley-2004-005,81,main
+2004-08-03,law,boe-a-2004-14375,ley-2004-003,9,main
+2004-09-02,start,boe-a-2011-18155,ley-2004-006,28,main
+2004-11-25,law,boe-a-2004-19931,ley-2004-003,8,main
+2004-11-25,law,boe-a-2011-19931,ley-2004-003,1,main
+2004-12-16,start,boe-a-2011-18158,ley-2004-009,44,main
+2004-12-29,start,boe-a-2011-18157,ley-2004-008,52,main
+2005-01-05,law,boe-a-2005-182,ley-2003-002,1,main
+2005-03-03,start,boe-a-2011-17779,ley-2005-004,100,main
+2005-03-03,law,boe-a-2011-17779,ley-1981-007 ley-1987-001 ley-1988-002 ley-1990-005 decreto-legislativo-1997-001 ley-1989-006,14,main
+2005-04-30,start,boe-a-2011-17778,ley-2005-003,139,main
+2006-01-19,law,boe-a-2011-17399,ley-1983-027,1,main
+2006-03-01,law,boe-a-2006-3542,ley-1989-006,1,main
+2006-03-03,law,boe-a-2011-17779,ley-2005-004,4,main
+2006-09-20,start,boe-a-2011-17400,ley-2006-002,273,main
+2006-10-21,law,boe-a-2011-17401,decreto-legislativo-1997-001,3,main
+2006-11-24,start,boe-a-2011-17402,ley-2006-004,13,main
+2006-12-16,law,boe-a-2011-17404,ley-1992-004,1,main
+2006-12-16,law,boe-a-2011-17406,ley-1993-004,6,main
+2007-01-01,law,boe-a-2011-17407,ley-1996-008 decreto-legislativo-1997-001,2,main
+2007-01-06,start,boe-a-2011-17408,ley-2006-010,24,main
+2007-01-11,law,boe-a-2011-17403,ley-1982-005 ley-1990-007 ley-1996-008 decreto-legislativo-1997-001 ley-1983-016 ley-1993-001,19,main
+2007-01-19,start,boe-a-2011-17399,ley-2006-001,81,main
+2007-03-09,start,boe-a-2011-16281,ley-2007-001,37,main
+2007-03-15,law,boe-a-2007-5440,ley-2004-003,9,main
+2007-03-18,start,boe-a-2011-17405,ley-2006-007,40,main
+2007-03-19,law,boe-a-2011-17405,ley-1990-007,15,main
+2007-05-11,start,boe-a-2011-16283,ley-2007-003,20,main
+2007-07-13,start,boe-a-2011-16287,ley-2007-007,59,main
+2007-07-13,law,boe-a-2011-16284,ley-2000-010,1,main
+2007-07-13,law,boe-a-2011-16286,ley-1982-005 decreto-legislativo-1997-001,2,main
+2007-07-21,start,boe-a-2011-16752,ley-2007-009,23,main
+2007-07-21,start,boe-a-2011-16753,ley-2007-010,26,main
+2007-07-21,law,boe-a-2011-16752,ley-2003-006,1,main
+2007-12-09,start,boe-a-2011-16754,ley-2007-011,65,main
+2007-12-09,law,boe-a-2011-16754,ley-1990-007,5,main
+2007-12-28,start,,decreto-legislativo-2007-001,221,main
+2008-01-10,start,boe-a-2011-16757,ley-2007-014,9,main
+2008-01-16,law,boe-a-2008-90003,ley-1990-007,2,main
+2008-01-23,start,,decreto-legislativo-2007-002,145,main
+2008-01-23,law,boe-a-2008-90003,ley-1982-005 ley-1996-008 decreto-legislativo-1997-001 ley-1983-016 ley-1993-001,16,main
+2008-02-19,start,boe-a-2011-14345,ley-2008-001,43,main
+2008-06-14,law,boe-a-2011-14346,ley-1992-004,5,main
+2008-06-24,law,boe-a-2011-14347,ley-1993-001,11,main
+2008-07-02,start,,ley-2008-004,42,main
+2008-07-05,law,boe-a-2011-14351,ley-1994-007 ley-2003-006,25,main
+2008-07-05,law,boe-a-2011-14352,ley-2000-010,1,main
+2008-07-11,start,boe-a-2011-14349,ley-2008-005,21,main
+2008-08-03,law,boe-a-2011-14350,ley-1993-004,6,main
+2008-10-25,start,boe-a-2011-14354,ley-2008-010,11,main
+2008-12-13,law,boe-a-2011-15725,ley-2006-002,1,main
+2008-12-25,start,boe-a-2011-15726,ley-2008-012,124,main
+2008-12-25,start,boe-a-2011-15728,ley-2008-014,11,main
+2008-12-30,start,boe-a-2011-15729,ley-2008-015,12,main
+2008-12-30,law,boe-a-2011-15729,ley-1989-006 ley-1993-002,8,main
+2009-01-01,start,boe-a-2011-15731,ley-2008-017,126,main
+2009-01-01,start,boe-a-2011-15732,ley-2008-018,127,main
+2009-01-01,law,boe-a-2011-15731,ley-2006-002,2,main
+2009-01-01,law,boe-a-2011-15732,ley-2000-010,3,main
+2009-01-23,start,boe-a-2011-15727,ley-2008-013,45,main
+2009-08-11,law,boe-a-2009-13321,ley-1989-002,1,main
+2010-01-01,law,boe-a-2010-4405,ley-2005-003,7,main
+2011-01-01,start,boe-a-2011-2620,ley-2010-006,20,main
+2011-01-01,law,boe-a-2011-2619,decreto-legislativo-1997-001,2,main
+2011-03-01,law,boe-a-2011-2619,ley-1992-006,1,main
+2011-03-30,start,boe-a-2011-6648,ley-2011-002,74,main
+2011-03-30,law,boe-a-2011-6648,ley-1989-001 decreto-legislativo-2007-001,5,main
+2011-06-29,start,boe-a-2011-11706,decreto-legislativo-2011-001,144,main
+2011-11-03,start,boe-a-2011-17716,ley-2011-003,24,main
+2011-12-13,law,boe-a-2011-19608,ley-2008-018,37,main
+2011-12-29,law,boe-a-2012-967,decreto-legislativo-2007-001,58,main
+2012-01-01,law,boe-a-2012-968,ley-1993-007 ley-1996-008 decreto-legislativo-1997-001 decreto-legislativo-2007-002 ley-1989-006 decreto-legislativo-2007-001,10,main
+2012-02-10,start,boe-a-2012-2313,ley-2012-001,42,main
+2012-02-18,law,boe-a-2012-2978,ley-2003-006,4,main
+2012-02-29,law,boe-a-2012-3752,ley-1988-002 ley-2005-004,12,main
+2012-03-06,start,boe-a-2012-3753,ley-2012-004,25,main
+2012-03-07,start,boe-a-2012-3754,ley-2012-005,98,main
+2012-03-13,law,boe-a-2012-4594,ley-1988-001 decreto-legislativo-1997-001,2,main
+2012-05-01,law,boe-a-2012-6368,ley-1991-004 ley-1994-007 ley-1994-011 ley-1997-018 ley-2004-005 ley-2004-008 ley-2006-002 ley-2006-007 ley-2008-001 ley-2008-012 ley-1993-006,66,main
+2012-05-16,law,boe-a-2012-6488,ley-1994-011,1,main
+2012-05-16,law,boe-a-2012-6490,ley-1998-014,1,main
+2012-05-25,start,boe-a-2012-7443,ley-2012-008,30,main
+2012-06-06,law,boe-a-2012-8027,ley-2008-017,16,main
+2012-06-08,law,boe-a-2012-8028,ley-1981-007,1,main
+2012-06-23,start,boe-a-2012-9009,ley-2012-011,94,main
+2012-07-05,start,boe-a-2012-9663,ley-2012-013,21,main
+2012-07-05,law,boe-a-2012-9663,ley-2004-003,12,main
+2012-07-07,start,boe-a-2012-9665,ley-2012-015,77,main
+2012-07-07,start,boe-a-2012-9666,ley-2012-016,28,main
+2012-07-07,start,boe-a-2012-9667,ley-2012-017,11,main
+2012-07-07,law,boe-a-2012-9665,ley-1992-004 decreto-legislativo-2007-001,24,main
+2012-09-28,start,boe-a-2012-9010,ley-2012-012,70,main
+2012-09-28,law,boe-a-2012-9010,ley-1998-014,6,main
+2012-10-06,start,boe-a-2012-9664,ley-2012-014,24,main
+2013-02-02,law,boe-a-2013-4617,ley-2012-015,1,main
+2013-05-02,law,boe-a-2013-4617,ley-2012-015,3,main
+2013-05-10,law,boe-a-2013-4905,ley-2006-001,1,main
+2013-07-23,law,boe-a-2013-8011,ley-2012-015,4,main
+2013-10-18,start,boe-a-2013-11797,ley-2013-001,62,main
+2013-10-18,law,boe-a-2013-11797,decreto-legislativo-2007-001,5,main
+2014-01-01,law,boe-a-2014-1508,ley-1989-006 decreto-legislativo-2007-001,10,main
+2014-05-20,start,boe-a-2014-5595,decreto-legislativo-2014-001,97,main
+2014-06-24,law,boe-a-2014-6660,ley-2012-015,4,main
+2014-07-04,law,boe-a-2014-7060,ley-2006-002,1,main
+2014-07-04,law,boe-a-2014-7063,ley-2012-005,8,main
+2014-10-08,law,boe-a-2014-10662,ley-2006-002,1,main
+2014-10-28,law,boe-a-2014-11019,ley-1997-018,1,main
+2014-11-01,start,boe-a-2014-8607,ley-2014-001,47,main
+2014-11-01,law,boe-a-2014-8607,ley-1989-006,1,main
+2014-12-22,start,boe-a-2014-13185,ley-2014-004,24,main
+2015-01-01,law,boe-a-2015-798,ley-1989-006 decreto-legislativo-2007-001,5,main
+2015-04-02,law,boe-a-2015-4096,decreto-legislativo-1997-001,1,main
+2015-06-18,law,boe-a-2015-7091,ley-1998-006 ley-2008-017,5,main
+2015-07-03,start,boe-a-2015-8272,ley-2015-004,81,main
+2015-07-03,law,boe-a-2015-8272,decreto-legislativo-2007-001,6,main
+2015-07-10,start,boe-a-2015-8274,ley-2015-006,12,main
+2015-07-10,law,boe-a-2015-8274,ley-2006-001 ley-2006-002,2,main
+2015-09-26,start,boe-a-2015-7802,ley-2015-003,118,main
+2015-09-26,law,boe-a-2015-7802,ley-2006-002,6,main
+2015-10-03,start,boe-a-2015-8273,ley-2015-005,161,main
+2015-10-03,law,boe-a-2015-8273,ley-2003-002 ley-1992-003,201,main
+2015-10-10,start,boe-a-2015-8275,ley-2015-007,17,main
+2015-10-22,start,boe-a-2015-11599,ley-2015-008,42,main
+2015-10-22,law,boe-a-2015-11599,ley-2008-017,4,main
+2016-01-01,law,boe-a-2016-728,ley-1989-006 decreto-legislativo-2007-001,5,main
+2016-01-08,start,boe-a-2016-729,ley-2015-010,83,main
+2016-01-08,law,boe-a-2016-1009,ley-1990-005,48,main
+2016-01-08,law,boe-a-2016-729,decreto-legislativo-2007-001,8,main
+2016-04-14,start,boe-a-2016-4170,ley-2016-001,105,main
+2016-04-15,start,boe-a-2016-4171,ley-2016-002,149,main
+2016-04-15,law,boe-a-2016-4171,ley-1983-027 ley-1989-003,2,main
+2016-04-16,law,boe-a-2016-4173,decreto-legislativo-2007-001,1,main
+2016-04-18,law,boe-a-2016-3668,ley-2015-003,14,main
+2016-04-28,law,boe-a-2016-6084,ley-2004-001,4,main
+2016-05-05,law,boe-a-2016-4311,ley-2006-001 ley-2006-002 ley-2015-006,8,main
+2016-05-20,start,boe-a-2016-6085,ley-2016-006,34,main
+2016-06-08,start,boe-a-2016-6086,ley-2016-007,24,main
+2016-06-09,law,boe-a-2016-6087,ley-1981-007,2,main
+2016-06-14,start,boe-a-2016-6088,ley-2016-009,88,main
+2016-06-14,law,boe-a-2016-6088,decreto-legislativo-2007-001,1,main
+2016-06-15,start,boe-a-2016-4172,ley-2016-003,11,main
+2016-07-08,start,boe-a-2016-6996,ley-2016-010,20,main
+2016-07-08,law,boe-a-2016-6996,ley-1986-008,17,main
+2016-07-28,law,boe-a-2016-7255,ley-2015-003,14,main
+2016-08-11,start,boe-a-2016-8345,ley-2016-012,33,main
+2016-08-31,start,boe-a-2016-8346,ley-2016-013,127,main
+2016-08-31,law,boe-a-2016-8346,decreto-legislativo-2007-001,1,main
+2016-10-08,law,boe-a-2016-9237,ley-2006-001 ley-2006-002 ley-2015-006,8,main
+2016-10-14,start,boe-a-2016-6997,ley-2016-011,31,main
+2017-02-04,law,boe-a-2017-1147,ley-2016-001,1,main
+2017-02-22,law,boe-a-2017-2464,ley-2014-004,1,main
+2017-04-20,law,boe-a-2017-5085,decreto-legislativo-1997-001 ley-2015-003 ley-1989-006 decreto-legislativo-2007-001,21,main
+2017-05-06,start,,decreto-legislativo-2017-001,92,main
+2017-05-15,law,boe-a-2017-5304,ley-2016-001,1,main
+2017-06-01,law,boe-a-2017-6067,ley-2016-012,6,main
+2017-10-16,law,boe-a-2017-11779,ley-2016-012,6,main
+2017-11-14,start,boe-a-2017-13900,decreto-legislativo-2017-002,39,main
+2018-01-01,law,boe-a-2018-928,ley-1989-006,1,main
+2018-02-21,law,boe-a-2018-2464,ley-2006-002 ley-2015-006,3,main
+2018-04-13,law,boe-a-2018-5056,ley-2016-001,1,main
+2018-06-14,law,boe-a-2018-11063,ley-2012-012,24,main
+2018-07-06,start,boe-a-2018-11066,ley-2018-004,55,main
+2018-07-06,law,boe-a-2018-11065,ley-1988-013,2,main
+2018-07-06,law,boe-a-2018-11066,ley-2013-001 decreto-legislativo-2007-001,15,main
+2018-08-21,law,boe-a-2018-2464,ley-2015-006,1,main
+2018-10-05,start,boe-a-2018-11064,ley-2018-002,88,main
+2018-10-05,law,boe-a-2018-11064,ley-2006-002 decreto-legislativo-2007-001,11,main
+2018-10-12,law,boe-a-2018-13995,ley-2015-003,14,main
+2018-12-12,law,boe-a-2019-3701,ley-1989-002,8,main
+2019-03-01,start,boe-a-2019-3705,ley-2019-004,82,main
+2019-04-17,law,boe-a-2019-6567,ley-2016-012,5,main
+2019-05-21,start,,ley-2019-006,107,main
+2019-05-21,law,boe-a-2019-7957,ley-1990-007,1,main
+2019-07-10,start,boe-a-2019-10600,ley-2019-010,16,main
+2019-07-10,law,boe-a-2019-10597,ley-2012-015 ley-1992-004,84,main
+2019-07-10,law,boe-a-2019-10599,ley-2012-014,1,main
+2019-07-10,law,boe-a-2019-10183,ley-2016-012,5,main
+2019-07-10,law,boe-a-2019-10598,ley-1986-004,4,main
+2019-07-10,law,boe-a-2019-10600,ley-1994-007,1,main
+2019-12-31,law,boe-a-2020-616,ley-2011-002,1,main
+2020-01-01,law,boe-a-2020-617,ley-1988-014 ley-1992-006 decreto-legislativo-2007-001,23,main
+2020-01-29,start,boe-a-2020-615,ley-2019-011,184,main
+2020-01-29,law,boe-a-2020-615,decreto-legislativo-2007-002 ley-1993-004,168,main
+2020-08-07,start,boe-a-2020-9740,decreto-legislativo-2020-001,175,main
+2020-08-07,law,boe-a-2020-9740,ley-2012-015 ley-1992-004,181,main
+2020-08-15,law,boe-a-2020-9771,ley-2016-012,2,main
+2020-11-02,law,boe-a-2020-13460,ley-2016-012,2,main
+2021-01-01,law,boe-a-2020-617,ley-2006-001,2,main
+2021-02-18,law,boe-a-2021-3764,ley-1986-004 decreto-legislativo-1997-001 decreto-legislativo-2011-001 decreto-legislativo-2007-001,21,main
+2021-03-22,law,boe-a-2021-4513,decreto-legislativo-2020-001,1,main
+2021-10-07,start,boe-a-2021-17054,ley-2021-003,6,main
+2021-10-21,law,boe-a-2021-18036,ley-2019-011,7,main
+2021-11-10,law,boe-a-2021-18820,ley-1988-001,9,main
+2021-11-23,start,boe-a-2021-20732,ley-2021-007,31,main
+2021-11-23,law,boe-a-2021-20732,ley-1989-006 ley-2004-001,29,main
+2022-01-01,start,boe-a-2021-18035,ley-2021-004,42,main
+2022-01-01,start,boe-a-2022-951,ley-2021-010,141,main
+2022-01-01,law,boe-a-2020-617,ley-2006-001,7,main
+2022-01-01,law,boe-a-2021-3764,ley-2006-001,2,main
+2022-01-01,law,boe-a-2022-2177,ley-1988-001 decreto-legislativo-1997-001 ley-2006-001 decreto-legislativo-2011-001 decreto-legislativo-2007-001,26,main
+2022-01-01,law,boe-a-2022-951,ley-1983-027 ley-1990-004 ley-2015-004 ley-2019-004,12,main
+2022-03-18,law,boe-a-2022-4849,ley-1986-004 ley-1988-002 ley-1988-013 decreto-legislativo-1997-001 ley-1989-006 ley-1998-014 ley-2005-004,82,main
+2022-03-26,start,boe-a-2022-8832,ley-2022-002,79,main
+2022-04-10,start,boe-a-2021-20914,ley-2021-009,126,main
+2022-04-10,law,boe-a-2021-20914,ley-1983-027 ley-2011-002 decreto-legislativo-2014-001,99,main
+2022-05-21,start,boe-a-2022-8833,ley-2022-003,88,main
+2022-05-21,law,boe-a-2022-8833,decreto-legislativo-1997-001 decreto-legislativo-2011-001 decreto-legislativo-2017-002,6,main
+2022-06-21,start,boe-a-2022-9851,ley-2022-004,11,main
+2022-07-14,start,boe-a-2022-12587,ley-2022-005,70,main
+2022-07-14,law,boe-a-2022-12587,ley-1990-007,4,main
+2022-07-16,start,boe-a-2022-12588,ley-2022-006,38,main
+2022-07-16,start,boe-a-2022-12589,ley-2022-007,28,main
+2022-07-16,law,boe-a-2022-12588,ley-1982-010,1,main
+2022-07-16,law,boe-a-2022-12589,ley-2006-002 ley-2008-017 ley-2011-002 ley-1998-010,28,main
+2022-07-20,start,boe-a-2022-14085,ley-2022-008,49,main
+2022-07-20,law,boe-a-2022-14085,ley-1998-014,1,main
+2022-08-18,start,boe-a-2022-14086,ley-2022-009,59,main
+2022-08-18,law,boe-a-2022-14086,ley-1993-006,43,main
+2022-12-27,start,boe-a-2023-353,ley-2022-011,258,main
+2022-12-27,law,boe-a-2023-353,ley-1981-007 ley-2021-007 ley-1989-006,148,main
+2022-12-29,start,boe-a-2023-1403,ley-2022-012,46,main
+2022-12-29,law,boe-a-2023-1404,ley-2012-012,23,main
+2023-01-01,law,boe-a-2023-3620,ley-1988-001 ley-1988-014 decreto-legislativo-1997-001 ley-2006-001 decreto-legislativo-2007-001,33,main
+2023-03-28,start,boe-a-2023-9168,decreto-legislativo-2023-001,97,main
+2023-03-28,law,boe-a-2023-9168,ley-2005-004,109,main
+2023-03-29,start,,ley-2022-014,173,main
+2023-03-29,law,boe-a-2023-1405,ley-2015-003 ley-2016-002 ley-2008-018 ley-2011-003,131,main
+2023-04-19,start,boe-a-2023-10639,ley-2023-002,194,main
+2023-04-19,law,boe-a-2023-10639,ley-1998-014,166,main
+2023-05-06,law,boe-a-2023-12082,ley-2022-014,1,main
+2023-05-11,start,boe-a-2023-13537,ley-2023-004,173,main
+2023-05-11,law,boe-a-2023-13537,ley-2003-006,84,main
+2023-06-14,law,boe-a-2023-15347,ley-2006-002,1,main
+2023-06-27,start,boe-a-2023-9167,ley-2023-001,55,main
+2023-06-27,law,boe-a-2023-9167,ley-1998-002,49,main
+2023-08-03,law,boe-a-2023-17871,ley-2016-002,1,main
+2023-08-08,start,boe-a-2023-17646,ley-2023-008,24,main
+2023-10-14,start,boe-a-2023-23217,decreto-legislativo-2023-002,100,main
+2023-10-14,start,boe-a-2023-23218,decreto-legislativo-2023-003,24,main
+2023-10-14,start,boe-a-2023-23219,decreto-legislativo-2023-004,87,main
+2023-10-14,start,boe-a-2023-23220,decreto-legislativo-2023-005,10,main
+2023-10-14,start,,decreto-legislativo-2023-006,8,main
+2023-10-14,law,boe-a-2023-23217,ley-1988-010 ley-1988-013 ley-1993-001,101,main
+2023-10-14,law,boe-a-2023-23218,ley-1983-016,18,main
+2023-10-14,law,boe-a-2023-23219,ley-1993-002,87,main
+2023-10-14,law,boe-a-2023-23220,ley-1983-008,4,main
+2023-10-14,law,boe-a-2023-23221,ley-1980-001,3,main
+2023-10-14,law,boe-a-2023-23222,ley-1997-004,14,main
+2023-10-18,start,boe-a-2023-23216,ley-2023-009,64,main
+2023-10-18,law,boe-a-2023-23216,ley-2014-004,1,main
+2023-11-24,start,boe-a-2023-25011,ley-2023-010,10,main
+2023-11-24,start,boe-a-2023-25012,ley-2023-011,38,main
+2023-11-24,law,boe-a-2023-25011,ley-1986-004,16,main
+2023-11-24,law,boe-a-2023-25012,ley-2003-005,1,main
+2023-12-08,start,boe-a-2023-26637,ley-2023-012,44,main
+2023-12-08,law,boe-a-2023-26637,decreto-legislativo-2017-001,1,main
+2023-12-30,start,boe-a-2024-899,ley-2023-015,11,main
+2023-12-30,start,boe-a-2024-994,ley-2023-020,64,main
+2023-12-30,law,boe-a-2024-994,decreto-legislativo-1997-001 decreto-legislativo-2017-002,12,main
+2024-01-01,start,boe-a-2023-26638,ley-2023-013,135,main
+2024-01-01,law,boe-a-2023-26638,ley-1997-008,2,main
+2024-01-01,law,boe-a-2024-995,ley-2006-001 ley-2016-006 decreto-legislativo-2017-002 decreto-legislativo-2007-001,25,main
+2024-01-04,law,boe-a-2023-26639,ley-2019-006,8,main
+2024-01-05,start,boe-a-2024-900,ley-2023-016,52,main
+2024-01-05,law,boe-a-2024-902,ley-2006-002,1,main
+2024-01-05,law,boe-a-2024-900,ley-2004-002,31,main
+2024-02-04,start,boe-a-2024-901,ley-2023-017,114,main
+2024-02-22,start,boe-a-2024-4783,ley-2024-001,84,main
+2024-02-22,law,boe-a-2024-4783,ley-2006-001 ley-2019-004 ley-2021-009 ley-2021-010,9,main
+2024-03-01,start,boe-a-2024-4866,ley-2024-003,29,main
+2024-03-01,start,boe-a-2024-4867,ley-2024-004,50,main
+2024-03-01,law,boe-a-2024-4866,ley-2008-005 ley-2007-001,41,main
+2024-03-01,law,boe-a-2024-4867,ley-2012-014,24,main
+2024-06-29,law,boe-a-2024-899,ley-2019-011 ley-2022-014 ley-2023-015 ley-2011-003,144,main
+2024-08-29,start,boe-a-2024-4784,ley-2024-002,366,main
+2024-08-29,law,boe-a-2024-4784,ley-2005-003,139,main
+2025-01-01,law,boe-a-2024-4783,ley-2024-001,11,main
+2025-01-01,law,boe-a-2025-940,ley-2023-015 ley-2023-020 decreto-legislativo-2007-001,17,main
+2025-01-15,law,boe-a-2025-939,ley-2019-011,1,main
+2025-04-04,law,boe-a-2025-7443,ley-2011-002,1,main
+2025-04-05,start,boe-a-2025-8489,decreto-legislativo-2025-001,251,main
+2025-04-05,law,boe-a-2025-8489,decreto-legislativo-2007-001,279,main
+2025-05-21,law,boe-a-2025-11329,ley-2012-012,1,main
+2025-12-30,start,boe-a-2026-1256,ley-2025-006,20,main
+2025-12-30,law,boe-a-2026-1256,ley-2006-002 ley-2015-003 ley-2015-004 ley-2016-002 ley-2016-013 ley-2021-010 ley-2022-014,62,main
+2026-01-01,law,boe-a-2026-1257,decreto-legislativo-2007-002 ley-2016-012 ley-2021-010 ley-2022-014 ley-2023-015 ley-2024-003 decreto-legislativo-2025-001,34,main
+2026-02-17,start,boe-a-2026-2625,boe-a-2026-2625,7,main
+2026-05-05,law,boe-a-2026-11703,ley-1987-001,1,main
+2026-05-05,law,boe-a-2026-11704,ley-1990-005,1,main
+2026-05-26,start,boe-a-2026-11851,ley-2026-003,103,main
+2026-05-26,law,boe-a-2026-11851,ley-2012-001,1,main
+2026-06-19,law,boe-a-2026-13950,ley-2022-002,5,main
+2026-07-07,law,boe-a-2026-15303,ley-2022-011,1,main

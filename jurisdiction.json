@@ -1,0 +1,11 @@
+{
+  "path": "es-pv",
+  "code": "ES-PV",
+  "name": "Basque Country",
+  "level": "autonomous community",
+  "parent": "es",
+  "repo": "https://github.com/lexifina/spain-basque-country-law",
+  "build": "built: statute of autonomy and laws (200 norms, 561 versions) from BOE legislación consolidada",
+  "language": "es",
+  "sources": 1
+}
