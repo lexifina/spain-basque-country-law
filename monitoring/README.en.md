@@ -6,7 +6,7 @@
 
 How global-law monitors every country: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). This page is the same for Basque Country only: every time an official source is read, when, and what came of it (acts added, changed and removed). The machine-readable form is [data/checks/](../data/checks/) (JSON Lines, schema `lexifina-check/1`), in `git log` as `Kind: check` commits, and month by month in [checks/](checks/).
 
-**Last check:** 2026-11-24 15:11 UTC, BOE consolidated legislation, autonomous communities (open data): 18 addresses read; 0 added, 0 changed, 0 removed; the check failed; 15 not published, 0 of them with no reason. Flags: `publish-lag`.
+**Last check:** 2026-11-25 15:07 UTC, BOE consolidated legislation, autonomous communities (open data): 17 addresses read; 0 added, 0 changed, 0 removed; the check failed; 15 not published, 0 of them with no reason. Flags: `publish-lag`.
 
 ## Sources
 
@@ -18,6 +18,14 @@ How global-law monitors every country: [global-law monitoring/](https://github.c
 
 | Started (UTC) | Source | Read | Added | Changed | Removed | Not published (no reason) | Result | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-25 15:05](checks/2026-11.md#es-boe-autonomico-20261125t150534z) | boe-autonomico | 17 | 0 | 0 | 0 | 15 (0) | the check failed `publish-lag` | — |
+| [2026-11-25 14:05](checks/2026-11.md#es-boe-autonomico-20261125t140540z) | boe-autonomico | 17 | 0 | 0 | 0 | 15 (0) | the check failed `publish-lag` | — |
+| [2026-11-25 13:05](checks/2026-11.md#es-boe-autonomico-20261125t130537z) | boe-autonomico | 17 | 0 | 0 | 0 | 15 (0) | the check failed `publish-lag` | — |
+| [2026-11-25 12:05](checks/2026-11.md#es-boe-autonomico-20261125t120535z) | boe-autonomico | 17 | 0 | 0 | 0 | 15 (0) | the check failed `publish-lag` | — |
+| [2026-11-25 11:05](checks/2026-11.md#es-boe-autonomico-20261125t110535z) | boe-autonomico | 17 | 0 | 0 | 0 | 15 (0) | the check failed `publish-lag` | — |
+| [2026-11-25 10:22](checks/2026-11.md#es-boe-autonomico-20261125t102209z) | boe-autonomico | 17 | 0 | 0 | 0 | 15 (0) | the check failed `publish-lag` | — |
+| [2026-11-25 09:05](checks/2026-11.md#es-boe-autonomico-20261125t090533z) | boe-autonomico | 17 | 0 | 0 | 0 | 15 (0) | the check failed `publish-lag` | — |
+| [2026-11-25 06:15](checks/2026-11.md#es-boe-autonomico-20261125t061559z) | boe-autonomico | 18 | 0 | 0 | 0 | 15 (0) | the check failed `publish-lag` | — |
 | [2026-11-24 15:09](checks/2026-11.md#es-boe-autonomico-20261124t150940z) | boe-autonomico | 18 | 0 | 0 | 0 | 15 (0) | the check failed `publish-lag` | — |
 | [2026-11-24 14:20](checks/2026-11.md#es-boe-autonomico-20261124t142005z) | boe-autonomico | 18 | 0 | 0 | 0 | 15 (0) | the check failed `publish-lag` | — |
 | [2026-11-24 12:56](checks/2026-11.md#es-boe-autonomico-20261124t125635z) | boe-autonomico | 18 | 0 | 0 | 0 | 15 (0) | the check failed `publish-lag` | — |
