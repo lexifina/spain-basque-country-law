@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-27T15:17:45Z",
+ "generated": "2026-11-28T15:16:53Z",
  "latest": {
   "boe-autonomico|spain/basque-country/acts": {
-   "attempt": 9,
+   "attempt": 7,
    "audit": null,
    "census": {
     "awaiting_text": 0,
@@ -17,11 +17,11 @@
     "repo": 200,
     "source_in_scope": 214
    },
-   "check_id": "es-boe-autonomico-20261127T150550Z",
+   "check_id": "es-boe-autonomico-20261128T150621Z",
    "commits": null,
    "corpus": "spain/basque-country/acts",
    "error": "KeyError: 'backfill'",
-   "finished": "2026-11-27T15:08:42Z",
+   "finished": "2026-11-28T15:08:02Z",
    "flags": [
     {
      "detail": "1 norms new or updated at the BOE over 7 days ago are not here in that form",
@@ -29,7 +29,7 @@
     }
    ],
    "gap": 15,
-   "note": "the BOE's list of 12498 consolidated norms (8873 Estatal, 3625 Autonómico) was read once at 15:05 UTC for the 20 Spanish corpora (check es-boe-autonomico-20261127T150550Z); this repository's data run to 2026-10-30; 14 norms whose force ran out at the BOE are not held: outside this repository's scope",
+   "note": "the BOE's list of 12498 consolidated norms (8873 Estatal, 3625 Autonómico) was read once at 15:06 UTC for the 20 Spanish corpora (check es-boe-autonomico-20261128T150621Z); this repository's data run to 2026-10-30; 14 norms whose force ran out at the BOE are not held: outside this repository's scope",
    "outcome": "failed",
    "published": {
     "added": [],
@@ -44,9 +44,9 @@
     "changed": [],
     "removed": []
    },
-   "snapshot": "2026-11-27T13:59:39Z",
+   "snapshot": "2026-11-28T06:15:37Z",
    "source": "boe-autonomico",
-   "started": "2026-11-27T15:05:50Z",
+   "started": "2026-11-28T15:06:21Z",
    "unexplained": 0,
    "verify": null
   }
